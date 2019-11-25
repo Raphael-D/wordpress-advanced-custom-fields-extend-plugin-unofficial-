@@ -5,7 +5,7 @@
 - Exist naming rule of field name. Example, "$category-slug_XXXXX".
 
 2. Create function the "Check exist custom fields to display post" on child theme's functions.php.
-- You're need write this function is behavior the "which exist to display post", to child theme's functions.php.
+- You're need write this function is behavior the "which exist to display post?", to child theme's functions.php.
 - Return the "true" of case is exist custom fields, return "false" case does not exist.
 
 3. The function of "create_custom_fields()" is for display side custom field element.
