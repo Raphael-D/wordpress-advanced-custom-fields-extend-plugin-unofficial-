@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-dashboard-notes\n"
+"POT-Creation-Date: 2014-08-28 09:06+0100\n"
+"PO-Revision-Date: 2014-08-28 09:08+0100\n"
+"Last-Translator: \n"
+"Language-Team: Jeroen Sormani <info@jeroensormani.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-dashboard-notes.php:210
+msgid "Add note"
+msgstr "Nieuwe notitie"
+
+#: ../includes/class-note-post-type.php:39
+msgid "Notes"
+msgstr "Notities"
+
+#: ../includes/class-note-post-type.php:40
+msgid "Note"
+msgstr "Notitie"
+
+#: ../includes/class-note-post-type.php:41
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: ../includes/class-note-post-type.php:42
+msgid "Add New Note"
+msgstr "Nieuwe notitie toevoegen"
+
+#: ../includes/class-note-post-type.php:43
+msgid "Edit Note"
+msgstr "Notitie bewerken"
+
+#: ../includes/class-note-post-type.php:44
+msgid "New Note"
+msgstr "Nieuwe notitie"
+
+#: ../includes/class-note-post-type.php:45
+msgid "View Note"
+msgstr "Bekijk notitie"
+
+#: ../includes/class-note-post-type.php:46
+msgid "Search Notes"
+msgstr "Zoek in notities"
+
+#: ../includes/class-note-post-type.php:47
+msgid "No Notes"
+msgstr "Geen notities"
+
+#: ../includes/class-note-post-type.php:48
+msgid "No Notes found in Trash"
+msgstr "Geen notities gevonden in de prullenbak"
+
+#: ../includes/class-wpdn-ajax.php:108 ../includes/class-wpdn-ajax.php:128
+msgid "New note"
+msgstr "Nieuwe notitie"
+
+#: ../includes/templates/note-list.php:9
+msgid "List item"
+msgstr "Lijst item"
+
+#: ../includes/templates/note-list.php:16 ../includes/templates/note.php:15
+msgid "Just me"
+msgstr "Alleen ik"
+
+#: ../includes/templates/note-list.php:20 ../includes/templates/note.php:19
+msgid "Everyone"
+msgstr "Iedereen"
+
+#: ../includes/templates/note-list.php:24 ../includes/templates/note.php:23
+msgid "Visibility:"
+msgstr "Zichtbaarheid:"
+
+#: ../includes/templates/note-list.php:28 ../includes/templates/note.php:27
+msgid "Give me a color!"
+msgstr "Geef mij een kleur!"
+
+#: ../includes/templates/note-list.php:41
+msgid "Convert to regular note"
+msgstr "Converteer mij naar een normale notitie"
+
+#: ../includes/templates/note-list.php:45 ../includes/templates/note.php:44
+msgid "Add a new note"
+msgstr "Voeg een nieuwe notitie toe"
+
+#: ../includes/templates/note-list.php:50 ../includes/templates/note.php:48
+msgid "Delete note"
+msgstr "Verwijder notitie"
+
+#: ../includes/templates/note.php:40
+msgid "Convert to list note"
+msgstr "Converteer mij naar een lijst notitie"

@@ -1,0 +1,90 @@
+.envato-elements__notifications-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  @media screen and (max-width: 782px) {
+    display: none;
+  }
+}
+
+.envato-elements__notifications {
+  margin-left: auto;
+  margin-right: 0;
+  height: 55px;
+
+  &-trigger {
+    padding-left: 20px;
+  }
+
+  &-list {
+    width: 320px;
+    padding: 15px 10px 20px 20px;
+    overflow: hidden;
+  }
+  &_list{
+    overflow: hidden;
+  }
+  &_item{
+    color: #363B3F;
+    position: relative;
+    padding: 5px 0 10px 20px;
+    margin-bottom: 0;
+    &:before{
+      content: "";
+      position: absolute;
+      width: 1px;
+      left: 5px;
+      top: 10px;
+      bottom: -60px;
+      background-color: #81B440;
+    }
+    &:after{
+      content: "";
+      top: 10px;
+      left: 1px;
+      position: absolute;
+      display: inline-block;
+      box-sizing: border-box;
+      width: 8px;
+      height: 8px;
+      background-color: white;
+      flex-shrink: 0;
+      border-width: 1px;
+      border-style: solid;
+      border-color: #81B440;
+      border-image: initial;
+      border-radius: 50%;
+    }
+    &__date{
+      opacity: 0.5;
+      font-size: 9px;
+      text-transform: uppercase;
+      margin-bottom: 5px;
+    }
+    &__categories{
+      font-size: 11px;
+      margin-bottom: 5px;
+    }
+    &__title{
+      font-size: 14px;
+      font-weight: bold;
+      padding:4px 0 0 0;
+    }
+    &__content{
+      font-size: 12px;
+      p {
+        margin:7px 0;
+      }
+    }
+  }
+  .envato-elements__notifications_list li:last-of-type {
+      padding-bottom: 0;
+  }
+  .envato-elements__header-menu-label{
+    top: 20px;
+    right: 16px;
+    border-radius: 50%;
+    padding: 1px 6px;
+    z-index: 100;
+  }
+}

@@ -1,0 +1,3373 @@
+# Translation of Plugins - All in One SEO Pack - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - All in One SEO Pack - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-11 06:28:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - All in One SEO Pack - Stable (latest release)\n"
+
+#: admin/display/credits-content.php:29
+msgid "Team Lead"
+msgstr "チームリーダー"
+
+#: modules/aioseop_sitemap.php:214
+msgid "Create RSS Sitemap"
+msgstr "RSS サイトマップを作成"
+
+#: aioseop_class.php:119 aioseop_class.php:133 aioseop_class.php:149
+#: aioseop_class.php:194
+msgid "%cf_fieldname% - Custom field name"
+msgstr "%cf_fieldname% - カスタムフィールド名"
+
+#: aioseop_class.php:549
+msgid "Google Search Console:"
+msgstr "Google Search Console:"
+
+#: aioseop_class.php:554
+msgid "Bing Webmaster Tools:"
+msgstr "Bing web マスターツール:"
+
+#: modules/aioseop_sitemap.php:172
+msgid "Create RSS Sitemap as well."
+msgstr "RSS にもサイトマップを作成します。"
+
+#: aioseop_class.php:1007
+msgid "Content Type Settings"
+msgstr "コンテンツタイプ設定"
+
+#: modules/aioseop_robots.php:49
+msgid "Disallow"
+msgstr "許可しない"
+
+#: modules/aioseop_robots.php:535
+msgid "Modify Rule"
+msgstr "ルールを変更"
+
+#. translators: Link to documentation.
+#: modules/aioseop_sitemap.php:878
+msgid "view your XML sitemap"
+msgstr "XML サイトマップを表示"
+
+#. translators: Link to sitemap within current site.
+#: modules/aioseop_sitemap.php:884
+msgid "Click here to %1$sview your RSS sitemap%2$s."
+msgstr "ここをクリックして %1$sRSS サイトマップを表示%2$sします。"
+
+#: inc/aioseop_functions.php:439
+msgid "Please provide absolute URLs (including http or https)."
+msgstr "絶対 URL を入力してください (http もしくは https 込み)。"
+
+#: modules/aioseop_robots.php:185
+msgid "Unable to delete file"
+msgstr "ファイルを削除できません"
+
+#: modules/aioseop_robots.php:507
+msgid "Wild-card path cannot be overridden: %s"
+msgstr "ワイルドカード・パスを上書きできません: %s"
+
+#: modules/aioseop_robots.php:478
+msgid "Rule cannot be overridden: %s"
+msgstr "ルールを上書きできません: %s"
+
+#: modules/aioseop_robots.php:485
+msgid "Path cannot be overridden: %s"
+msgstr "パスを上書きできません: %s"
+
+#: modules/aioseop_robots.php:464
+msgid "Identical rule exists: %s"
+msgstr "同じルールが既にあります: %s"
+
+#: modules/aioseop_robots.php:180
+msgid "Unable to read file"
+msgstr "ファイルを読み込めません"
+
+#: modules/aioseop_robots.php:127
+msgid "A physical file exists. This feature cannot be used."
+msgstr "既にファイルが存在します。この機能は使用できません。"
+
+#: modules/aioseop_robots.php:445
+msgid "Directory Path cannot be empty"
+msgstr "ディレクトリパスに入力して下さい"
+
+#: modules/aioseop_robots.php:442
+msgid "User Agent cannot be empty"
+msgstr "ユーザーエージェントに何か入力してください"
+
+#: modules/aioseop_robots.php:47
+msgid "Rule"
+msgstr "ルール"
+
+#: modules/aioseop_robots.php:49
+msgid "Allow"
+msgstr "許可"
+
+#: modules/aioseop_robots.php:75
+msgid "Configured Rules"
+msgstr "設定されたルール"
+
+#: modules/aioseop_feature_manager.php:51
+msgid "Edit your .htaccess file to fine-tune your site."
+msgstr ".htaccess ファイルを編集してサイトを微調整します。"
+
+#: modules/aioseop_robots.php:124
+msgid "A physical file exists. Do you want to %simport and delete%s it, %sdelete%s it or continue using it?"
+msgstr "ファイルが存在します。%sインポートして削除%s、%s削除%s、または使用を続けますか ?"
+
+#: modules/aioseop_robots.php:34
+msgid "Use the rule builder below to add/delete rules."
+msgstr "ルールの追加・削除に以下のルールビルダーを使用します。"
+
+#. translators: Shows which sitemap files were renamed.
+#: modules/aioseop_sitemap.php:1181
+msgid "Renamed %1$s to %2$s."
+msgstr "%1$s を %2$s にリネームしました。"
+
+#: modules/aioseop_sitemap.php:184
+msgid "URL to the page. This field accepts relative URLs or absolute URLs with the protocol specified."
+msgstr "ページへの URL 。相対 URL または絶対 URL で入力してください。"
+
+#: admin/aioseop_module_class.php:52
+msgid "Method %s doesn't exist"
+msgstr "メソッド %s はありません"
+
+#: admin/aioseop_module_class.php:1265
+msgid "Failed to rename file %s!\n"
+msgstr "ファイル %s のリネームに失敗しました！\n"
+
+#: admin/aioseop_module_class.php:1243 admin/aioseop_module_class.php:1271
+msgid "File %s doesn't exist!\n"
+msgstr "ファイル %s は存在しません！\n"
+
+#: admin/aioseop_module_class.php:1238
+msgid "Failed to delete file %s!\n"
+msgstr "ファイル %s の削除に失敗しました！\n"
+
+#: admin/aioseop_module_class.php:1208
+msgid "File %s isn't writable!\n"
+msgstr "ファイル %s は書き込みできません！\n"
+
+#: admin/aioseop_module_class.php:1207
+msgid "Failed to write file %s!\n"
+msgstr "ファイル %s の書き込みに失敗しました！\n"
+
+#: admin/aioseop_module_class.php:1273
+msgid "File %s already exists!\n"
+msgstr "ファイル %s はすでに存在します!\n"
+
+#: inc/aioseop_functions.php:481
+msgid "All values are mandatory."
+msgstr "すべての値は必須です。"
+
+#: modules/aioseop_sitemap.php:180
+msgid "Exclude Images in your sitemap."
+msgstr "サイトマップで除外する画像"
+
+#: modules/aioseop_sitemap.php:248
+msgid "Exclude Images"
+msgstr "画像を除外"
+
+#. translators: Links to the current AIOSEOP Sitemap settings.
+#: modules/aioseop_sitemap.php:507
+msgid "%1$s Click here%2$s to make these recommended changes."
+msgstr "これらの推奨変更を行うには、%1$sここをクリック%2$sしてください。"
+
+#: modules/aioseop_sitemap.php:503
+msgid "Notice: To avoid problems with your XML Sitemap, we strongly recommend you enable Sitemap Indexes and set the Maximum Posts per Sitemap Page to 1000."
+msgstr "注: XML サイトマップの問題を避けるため、サイトマップのインデックスを有効化し、サイトマップ1ページあたりの最大投稿数を1000に設定することを強くおすすめします。"
+
+#: inc/commonstrings.php:47
+msgid "Track Outbound Forms:"
+msgstr "アウトバウンドフォームを追跡:"
+
+#: inc/commonstrings.php:48
+msgid "Track Events:"
+msgstr "イベントを追跡:"
+
+#: inc/commonstrings.php:49
+msgid "Track URL Changes:"
+msgstr "URL 変更を追跡:"
+
+#: inc/commonstrings.php:50
+msgid "Track Page Visibility:"
+msgstr "ページ可視性を追跡:"
+
+#: inc/commonstrings.php:51
+msgid "Track Media Query:"
+msgstr "メディアクエリーを追跡:"
+
+#: inc/commonstrings.php:54
+msgid "Track Facebook and Twitter:"
+msgstr "Facebook と Twitter を追跡:"
+
+#: inc/commonstrings.php:53
+msgid "Track Page Scrolling:"
+msgstr "ページスクロールを追跡:"
+
+#: inc/commonstrings.php:52
+msgid "Track Elements Visibility:"
+msgstr "要素の可視性を追跡:"
+
+#: inc/commonstrings.php:55
+msgid "Ensure URL Consistency:"
+msgstr "URL の一貫性を確保:"
+
+#: modules/aioseop_sitemap.php:879
+msgid " Your sitemap has been created with content and images."
+msgstr "サイトマップはコンテンツと画像で作成されています。"
+
+#: inc/commonstrings.php:73
+msgid "Check this if you want to track interactions with the official Facebook and Twitter widgets with Google Analytics."
+msgstr "Facebook や Twitter の公式ウィジェットと Google アナリティクスとのやりとりをトラッキングする場合は、これをチェックしてください。"
+
+#: inc/commonstrings.php:72
+msgid "Check this if you want to track how far down a user scrolls a page with Google Analytics."
+msgstr "ユーザーが Google アナリティクスでページをスクロールするまでの距離をトラッキングする場合は、これをチェックしてください"
+
+#: inc/commonstrings.php:71
+msgid "Check this if you want to ensure consistency in URL paths reported to Google Analytics."
+msgstr "Google アナリティクスに報告された URL パスの一貫性を確保する場合は、これをチェックしてください。"
+
+#. Translators: The term 'viewport' refers to the area of the page that is
+#. visible to the user, see https://www.w3schools.com/css/css_rwd_viewport.asp.
+#: inc/commonstrings.php:70
+msgid "Check this if you want to track when elements are visible within the viewport with Google Analytics."
+msgstr "Google アナリティクスでビューポート内のエレメントがいつ表示されるかをトラッキングする場合は、これをチェックしてください。"
+
+#. Translators: 'This option allows users to track media queries, allowing them
+#. to find out if users are viewing a responsive layout or not and which layout
+#. changes have been applied if the browser window has been resized by the
+#. user, see
+#. https://github.com/googleanalytics/autotrack/blob/master/docs/plugins/media-query-tracker.md.
+#: inc/commonstrings.php:65
+msgid "Check this if you want to track media query matching and queries with Google Analytics."
+msgstr "Google アナリティクスでのメディアクエリの一致とクエリをトラッキングする場合は、これをチェックしてください。"
+
+#: inc/commonstrings.php:59
+msgid "Check this if you want to track how long pages are in visible state with Google Analytics."
+msgstr "Google アナリティクスでページが可視状態になっている時間をトラッキングする場合は、これをチェックしてください。"
+
+#: inc/commonstrings.php:58
+msgid "Check this if you want to track URL changes for single pages with Google Analytics."
+msgstr "Google アナリティクスで単一ページの URL の変更をトラッキングする場合は、これをチェックしてください。"
+
+#: inc/commonstrings.php:57
+msgid "Check this if you want to track events with Google Analytics."
+msgstr "Google アナリティクスでイベントをトラッキングする場合は、これをチェックしてください。"
+
+#: inc/commonstrings.php:56
+msgid "Check this if you want to track outbound forms with Google Analytics."
+msgstr "Google アナリティクスで送信フォームをトラッキングする場合は、これをチェックしてください。"
+
+#: inc/commonstrings.php:43
+msgid "%s is almost ready."
+msgstr "%s はほぼ準備ができています。"
+
+#: modules/aioseop_opengraph.php:110
+msgid "Select the Twitter Card type to use for this Page or Post, overriding the default setting."
+msgstr "このページまたは投稿に使用する Twitter カードタイプを選択し、デフォルト設定を上書きします。"
+
+#. translators: Social Meta refers to Open Graph (OG:) meta tags, which can be
+#. used to control the appearance of a site's posts/pages when shared on social
+#. media networks like Facebook and Twitter.
+#: modules/aioseop_feature_manager.php:41
+msgid "Add Social Meta data to your site to deliver closer integration between your website/blog and social media."
+msgstr "サイトにソーシャルメタデータを追加して、あなたのウェブサイト/ブログとソーシャルメディアとのより緊密な統合を実現します。"
+
+#: aioseop_class.php:954
+msgid "NOFOLLOW this page/post"
+msgstr "NOFOLLOW このページ/投稿"
+
+#: aioseop_class.php:950
+msgid "NOINDEX this page/post"
+msgstr "NOINDEX このページ/投稿"
+
+#: inc/commonstrings.php:46
+msgid "Your license has expired. Please %1$s click here %2$s to purchase a new one."
+msgstr "ライセンスの有効期限が切れています。 新しいものを購入するには%1$sここをクリック%2$sしてください。"
+
+#: inc/commonstrings.php:45
+msgid "There is a new version of %1$s available. Go to <a href='%2$s'>the plugins page</a> for details."
+msgstr "%1$s 新しい利用可能なバージョンがあります。詳細は<a href='%2$s'>プラグインページ</a>を参照してください。"
+
+#: inc/commonstrings.php:44
+msgid "You must <a href=\"%s\">enter a valid License Key</a> for it to work."
+msgstr "実行するには<a href=\"%s\">有効なライセンスキーの入力</a>が必要です。"
+
+#: aioseop_class.php:193
+msgid "%post_month% - The month the page/post was published (localized)"
+msgstr "%post_month% - 固定ページや投稿の公開月 (現地時間)"
+
+#: aioseop_class.php:192
+msgid "%post_year% - The year the page/post was published (localized)"
+msgstr "%post_year% - 固定ページや投稿の公開年 (現地時間)"
+
+#: aioseop_class.php:191
+msgid "%post_date% - The date the page/post was published (localized)"
+msgstr "%post_date% - 固定ページや投稿の公開日 (現地時間)"
+
+#: aioseop_class.php:148 aioseop_class.php:3211
+msgid "%post_month% - The month the post was published (localized)"
+msgstr "%post_month% - 投稿の公開月 (現地時間)"
+
+#: aioseop_class.php:147 aioseop_class.php:3210
+msgid "%post_year% - The year the post was published (localized)"
+msgstr "%post_year% - 投稿の公開年 (現地時間)"
+
+#: aioseop_class.php:146 aioseop_class.php:3209
+msgid "%post_date% - The date the post was published (localized)"
+msgstr "%post_date% - 投稿の公開日 (現地時間)"
+
+#: aioseop_class.php:132
+msgid "%post_month% - The month the page was published (localized)"
+msgstr "%post_month% - 固定ページの公開月 (現地時間)"
+
+#: aioseop_class.php:131
+msgid "%post_year% - The year the page was published (localized)"
+msgstr "%post_year% - 固定ページの公開年 (現地時間)"
+
+#: aioseop_class.php:130
+msgid "%post_date% - The date the page was published (localized)"
+msgstr "%post_date% - 固定ページの公開日 (現地時間)"
+
+#: admin/aioseop_module_class.php:2353
+msgid "Upload Image"
+msgstr "画像をアップロード"
+
+#: all_in_one_seo_pack.php:299
+msgid "Feature Request/Bug Report"
+msgstr "機能要望・バグ報告"
+
+#: modules/aioseop_opengraph.php:545
+msgid "Enable Facebook Meta for Post Types"
+msgstr "投稿タイプの Facebook メタを有効にする"
+
+#: modules/aioseop_performance.php:267
+msgid "Permalink Setting"
+msgstr "パーマリンク設定"
+
+#: modules/aioseop_performance.php:264
+msgid "Site Language"
+msgstr "サイト言語"
+
+#: modules/aioseop_performance.php:263
+msgid "Site Title"
+msgstr "サイトタイトル"
+
+#: modules/aioseop_performance.php:265
+msgid "Front Page Displays"
+msgstr "フロントページ表示"
+
+#: aioseop_class.php:243
+msgid "Check this and your Meta Descriptions for any Post Type will be auto-generated using the Post Excerpt, or the first 160 characters of the post content if there is no Post Excerpt. You can overwrite any auto-generated Meta Description by editing the post or page."
+msgstr "これをチェックすると、あなたのメタタイプは投稿の抜粋を使って自動的に生成されるか、投稿の抜粋がない場合は投稿コンテンツの最初の160文字が自動的に生成されます。 投稿またはページを編集して、自動生成されたメタ記述を上書きすることができます。"
+
+#: aioseop_class.php:187
+msgid "%description% - This outputs the description you write for each page/post or the autogenerated description, if you have that option enabled. Auto-generated descriptions are generated from the Post Excerpt, or the first 160 characters of the post content if there is no Post Excerpt."
+msgstr "%description% - このオプションを有効にしている場合は、各ページ/ポストまたは自動生成された説明に対して記述した説明が出力されます。 投稿の抜粋から自動的に生成された説明が生成され、投稿の抜粋がない場合は、投稿の内容の最初の160文字が生成されます。"
+
+#: modules/aioseop_performance.php:266
+msgid "Search Engine Visibility"
+msgstr "検索エンジンでの表示"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://semperplugins.com/all-in-one-seo-pack-pro-version/"
+msgstr "https://semperplugins.com/all-in-one-seo-pack-pro-version/"
+
+#: admin/display/general-metaboxes.php:178
+msgid "Video SEO Module"
+msgstr "ビデオ SEO モジュール"
+
+#: admin/display/general-metaboxes.php:122
+msgid "Email Address"
+msgstr "メールアドレス"
+
+#: admin/display/general-metaboxes.php:123
+msgid "Subscribe"
+msgstr "申し込む"
+
+#: admin/display/general-metaboxes.php:175
+msgid "Advanced support for e-commerce"
+msgstr "e-commerce 向けの高度なサポート"
+
+#: admin/display/general-metaboxes.php:173
+msgid "Advanced support for WooCommerce"
+msgstr "WooCommerce 向けの高度なサポート"
+
+#: aioseop_class.php:514
+msgid "Nothing found for %request_words%"
+msgstr "%request_words% に何も見つかりません"
+
+#: modules/aioseop_importer_exporter.php:47
+msgid "Post Data"
+msgstr "投稿データ"
+
+#: admin/display/general-metaboxes.php:179
+msgid "SEO for Categories, Tags and Custom Taxonomies"
+msgstr "カテゴリー、タグ、カスタム分類の SEO"
+
+#: admin/display/general-metaboxes.php:181
+msgid "Access to Premium Support Forums"
+msgstr "プレミアムサポートフォーラムへアクセス"
+
+#: admin/display/general-metaboxes.php:182
+msgid "Access to Knowledge Center"
+msgstr "ナレッジセンターへアクセス"
+
+#: admin/display/general-metaboxes.php:180
+msgid "Access to Video Screencasts"
+msgstr "ビデオスクリーンキャストへアクセス"
+
+#: admin/display/general-metaboxes.php:46
+msgid " to upgrade to Pro Version and get:"
+msgstr "有料版にアップグレードして、以下を手に入れる:"
+
+#: modules/aioseop_opengraph.php:95
+msgid "This option will auto generate your Open Graph descriptions from your post content instead of your post excerpt. WooCommerce users should read the documentation regarding this setting."
+msgstr "このオプションは投稿の抜粋ではなく本文から Open Graph の説明文を自動生成します。WooCommerce ユーザーの方はこの設定についてのドキュメンテーションをお読みください。"
+
+#: modules/aioseop_opengraph.php:393
+msgid "Use Content For Autogenerated OG Descriptions"
+msgstr "自動生成 Open Graph 説明文に本文を使用"
+
+#: aioseop_class.php:805
+msgid "Use Content For Autogenerated Descriptions:"
+msgstr "自動生成説明文に本文を使用:"
+
+#: aioseop_class.php:242
+msgid "This option will auto generate your meta descriptions from your post content instead of your post excerpt. This is useful if you want to use your content for your autogenerated meta descriptions instead of the excerpt. WooCommerce users should read the documentation regarding this setting."
+msgstr "このオプションは投稿の抜粋ではなく本文からメタディスクリプションを自動生成します。WooCommerce ユーザーの方はこの設定についてのドキュメンテーションをお読みください。"
+
+#: modules/aioseop_opengraph.php:87
+msgid "Enter your Facebook Admin ID here. You can enter multiple IDs separated by a comma. You can look up your Facebook ID using this tool http://findmyfbid.com/"
+msgstr "Facebook 管理者 ID をここに入力してください。半角カンマで区切った複数の ID を入力することができます。このツールを使って Facebook ID を調べられます: http://findmyfbid.com/"
+
+#: admin/aioseop_module_class.php:2750
+msgid "Reset %s Settings to Defaults"
+msgstr "%s の設定をデフォルトにリセット"
+
+#: admin/display/welcome-content.php:66
+msgid "Access to video tutorials about SEO with the Pro version"
+msgstr "プロ版にアップグレードして SEO についてのチュートリアル動画へにアクセス"
+
+#: aioseop_class.php:3088
+msgid "Welcome to version %s. Thank you for running the latest and greatest All in One SEO Pack Pro ever! Please review your settings, as we're always adding new features for you!"
+msgstr "バージョン %s にようこそ。最新かつ最高の All in One SEO Pack Pro をご利用くださりありがとうございます。常に新機能を追加しているので、設定を再確認してみてください。"
+
+#: admin/display/general-metaboxes.php:45
+msgid "CLICK HERE"
+msgstr "ここをクリック"
+
+#: aioseop_class.php:95
+msgid "This option will automatically generate Canonical URLs for your entire WordPress installation.  This will help to prevent duplicate content penalties by Google"
+msgstr "このオプションでは自動的にあなたの全体の WordPress のインストールのための Canonical URL を生成します。これは、Googleによる重複コンテンツのペナルティを防ぐのに役立ちます。"
+
+#: aioseop_class.php:118 aioseop_class.php:129 aioseop_class.php:145
+#: aioseop_class.php:190 aioseop_class.php:3208
+msgid "%current_date% - The current date (localized)"
+msgstr "%current_date% - 現在の日付 (現地時間)"
+
+#: inc/commonstrings.php:37
+msgid "Show SEO News"
+msgstr "SEO の最新情報を表示"
+
+#. translators: Shows which files were removed.
+#: modules/aioseop_sitemap.php:1289
+msgid "Removed empty file %s."
+msgstr "削除された空のファイル %s。 "
+
+#: inc/commonstrings.php:40
+msgid "This displays an SEO News widget on the dashboard."
+msgstr "SEO 最新情報のウィジェットをダッシュボードに表示する。"
+
+#: admin/display/welcome-content.php:77
+msgid "Continue to the General Settings"
+msgstr "一般設定を続ける"
+
+#. translators: Link to documentation.
+#: modules/aioseop_sitemap.php:878
+msgid "Click here to %s."
+msgstr "ここをクリックして %s 。"
+
+#: admin/display/dashboard_widget.php:27
+msgid "SEO News"
+msgstr "SEO 最新情報"
+
+#: modules/aioseop_sitemap.php:888
+msgid "Changes are automatically submitted to search engines."
+msgstr "変更は自動的に検索エンジンに提出されます。"
+
+#: admin/display/welcome.php:55 admin/display/welcome.php:56
+msgid "Welcome to All in One SEO Pack"
+msgstr "All in One SEO Pack へようこそ"
+
+#: admin/display/welcome.php:116
+msgid "Welcome to All in One SEO Pack %s"
+msgstr "All in One SEO Pack %s へようこそ"
+
+#: admin/display/welcome.php:118
+msgid "All in One SEO Pack %s contains new features, bug fixes, increased security, and tons of under the hood performance improvements."
+msgstr "All in One SEO Pack %s は新機能があります。また、バグ修正、セキュリティー強化やパフォーマンス向上の施策をしています。"
+
+#: admin/display/welcome-content.php:51
+msgid "Set up Google Analytics"
+msgstr "Google Analytics の設定"
+
+#: admin/display/welcome-content.php:47
+msgid "Submit an XML Sitemap to Google"
+msgstr "XML サイトマップを Google に送信する"
+
+#: admin/display/welcome.php:123
+msgid "What&#8217;s New"
+msgstr "新着情報"
+
+#: admin/display/welcome.php:127
+msgid "Credits"
+msgstr "著作権情報"
+
+#: admin/display/welcome-content.php:43
+msgid "Quality guidelines for SEO titles and descriptions"
+msgstr "SEO向けタイトルと詳細の品質ガイドライン"
+
+#: admin/display/welcome-content.php:38
+msgid "Tips for good on-page SEO"
+msgstr "SEO 対策となるヒント"
+
+#: admin/display/welcome-content.php:70
+msgid "Control SEO on categories, tags and custom taxonomies with the Pro version"
+msgstr "カテゴリー、タグ、カスタムタクソノミーを Pro バージョンでは管理できます。"
+
+#: admin/display/welcome-content.php:61
+msgid "We have complete documentation on every setting and feature"
+msgstr "すべての設定と機能に完全なドキュメントがあります。"
+
+#: admin/display/welcome-content.php:21
+msgid "Get Started"
+msgstr "始めてみよう"
+
+#: admin/display/welcome-content.php:34
+msgid "Beginners Guide for Social Meta module"
+msgstr "ソーシャルメディアモジュールの初心者向けガイド"
+
+#: admin/display/welcome-content.php:30
+msgid "Beginners Guide for XML Sitemap module"
+msgstr "XML サイトマップモジュールの初心者向けガイド"
+
+#: admin/display/welcome-content.php:25
+msgid "Beginners Guide for All in One SEO Pack"
+msgstr "All in One SEO Pack の初心者向けガイド"
+
+#: admin/display/welcome-content.php:57
+msgid "Did You Know?"
+msgstr "ご存知でしたか ?"
+
+#: admin/display/welcome-content.php:5
+msgid "Support All in One SEO Pack"
+msgstr "All in One SEO Pack のサポート"
+
+#: admin/display/credits-content.php:5
+msgid "Project Leaders"
+msgstr "プロジェクトリーダー"
+
+#: admin/display/credits-content.php:15 admin/display/credits-content.php:20
+msgid "Project Manager"
+msgstr "プロジェクトマネージャー"
+
+#: admin/display/credits-content.php:24
+msgid "Core Team"
+msgstr "コアチーム"
+
+#: admin/display/credits-content.php:35 admin/display/credits-content.php:40
+msgid "Development Team"
+msgstr "開発チーム"
+
+#: admin/display/welcome-content.php:11
+msgid "Upgrade"
+msgstr "アップグレード"
+
+#: admin/display/welcome-content.php:17
+msgid "Translate"
+msgstr "翻訳"
+
+#: admin/display/welcome-content.php:13
+msgid "Help translate All in One SEO Pack into your language."
+msgstr "All in One SEO Pack のあなたのお使いの言語の翻訳を手伝って下さい。"
+
+#: admin/display/welcome-content.php:7
+msgid "Upgrade to All in One SEO Pack Pro to access priority support and premium features."
+msgstr "プレミアムな機能とサポートを受けるために、 All in One SEO Pack Pro にアップグレードする。"
+
+#: admin/display/credits-content.php:45
+msgid "Recent Rockstar Contributors"
+msgstr "最近の素晴らしい貢献者"
+
+#: admin/display/credits-content.php:10
+msgid "Project Lead"
+msgstr "プロジェクトを導く"
+
+#: admin/display/credits-content.php:3
+msgid "All in One SEO Pack is created by a worldwide network of friendly folks like these."
+msgstr "All in One SEO Pack は世界中のネットワークから開発者に協力してもらう事によって作られています。"
+
+#: admin/display/welcome-content.php:6
+msgid "There are many ways you can help support All in One SEO Pack."
+msgstr "All in One SEO Pack の多くのサポートとなる情報があります。"
+
+#: admin/display/credits-content.php:114
+msgid "Translation contributors and translation editors"
+msgstr "翻訳貢献者と編集者"
+
+#: admin/display/credits-content.php:51
+msgid "Want to see your name and picture here as a community developer? %1$sClick here%2$s to open an issue on GitHub to report a bug, request a feature or find an issue and submit code!"
+msgstr "コミュニティー開発者としてここに自分の名前を載せてみたいという方は、%1$sここをクリック%2$sして GitHub でイシューを開いてバグを報告したり、新機能を提案したり、問題を見つけてコードを送ってください。"
+
+#: modules/aioseop_opengraph.php:114
+msgid "This option lets you upload an image to use as the Twitter image for this Page or Post."
+msgstr "この固定ページもしくは投稿で使用するTwitter画像をアップロードします。"
+
+#: modules/aioseop_opengraph.php:523
+msgid "Custom Twitter Image"
+msgstr "カスタムTwitter画像"
+
+#: aioseop_class.php:249
+msgid "Redirect attachment pages to post parent."
+msgstr "親を投稿する添付ファイルのページをリダイレクトします。"
+
+#: aioseop_class.php:831
+msgid "Redirect Attachments to Post Parent:"
+msgstr "添付ファイルを親投稿へリダイレクト:"
+
+#: modules/aioseop_sitemap.php:183
+msgid "Dynamically creates the XML sitemap instead of using a static file."
+msgstr "静的ファイルを使用せずに、動的に XML サイトマップを作ります。"
+
+#: modules/aioseop_importer_exporter.php:559
+msgid "<b>Security warning:</b> Your file looks compromised. Please check the file for any script-injection."
+msgstr "<b>セキュリティ警告:</b> ファイルが損傷されたように見えます。任意のスクリプトインジェクションのためのファイルを確認してください。"
+
+#: admin/display/general-metaboxes.php:93
+msgid "All in One SEO Pack has been translated into %1$s languages, but currently the %3$s translation is only %2$s percent complete. %4$s Click here %5$s to help get it to 100 percent."
+msgstr "All in One SEO Pack は%1$s言語で翻訳されていますが、現在 %3$s の翻訳率は %2$s%です。%4$sここをクリック%5$sして100%になるようご協力ください。"
+
+#: admin/meta_import.php:82 admin/meta_import.php:88
+msgid "Sorry, you can't do that. Please choose a platform and then click Analyze or Convert."
+msgstr "申し訳ありません、その操作は出来ません。プラットフォームを選択し、分析か変換をクリックしてください。"
+
+#: admin/meta_import.php:195
+msgid "Analyze"
+msgstr "分析"
+
+#: admin/meta_import.php:196
+msgid "Convert"
+msgstr "変換"
+
+#: aioseop_class.php:3105
+msgid "New in 2.4: Improved support for taxonomies, Woocommerce and massive performance improvements under the hood! Please review your settings on each options page!"
+msgstr "2.4の新機能 : タクソノミーのサポートを追加し、Woocommerce と大規模なパフォーマンスの向上！各オプションページで設定を確認してください！"
+
+#: admin/meta_import.php:184
+msgid "Themes"
+msgstr "テーマ"
+
+#: admin/meta_import.php:154
+msgid "Please Note: "
+msgstr "注意事項:"
+
+#: admin/meta_import.php:172
+msgid "Import SEO data from:"
+msgstr "SEO データを以下からインポート:"
+
+#: admin/meta_import.php:174
+msgid "Choose platform:"
+msgstr "プラットフォームを選択:"
+
+#: admin/meta_import.php:176
+msgid "Plugins"
+msgstr "プラグイン"
+
+#: admin/meta_import.php:154
+msgid "Some plugins and themes do not share similar data, or they store data in a non-standard way. If we cannot import this data, it will remain unchanged in your database. Any compatible SEO data will be displayed for you to review. If a post or page already has SEO data in All in One SEO Pack, we will not import data from another plugin/theme."
+msgstr "いくつかのプラグインやテーマは、同様のデータを共有しないため、非標準的な方法でデータを格納します。このデータをインポートすることができない場合、データベースに変更されません。確認するために、任意の互換性のある SEO のデータが表示されます。投稿または固定ページがすでに All in One SEO Pack での SEO データを持っている場合、別のプラグイン/テーマからデータをインポートしません。"
+
+#: admin/meta_import.php:158
+msgid "Click \"Convert\" to perform the import. After the import has completed, you will be alerted to how many records were imported, and how many records had to be ignored, based on the criteria above."
+msgstr "インポートを実行するために\"変換\"をクリックしてください。インポートが完了した後、あなたは多くのレコードがインポートされたかを、また無視されなければならなかった多くのレコードについて基準に基づいて警告を出します。"
+
+#: admin/meta_import.php:146
+msgid "Use the drop down below to choose which plugin or theme you wish to import SEO data from."
+msgstr "以下のドロップダウンを使い、インポートするSEOデータの元となるプラグインかテーマを選択して下さい。"
+
+#: admin/meta_import.php:150
+msgid "Click \"Analyze\" for a list of SEO data that can be imported into All in One SEO Pack, along with the number of records that will be imported."
+msgstr "インポートされたレコードの数と一緒に、 All in One SEO Pack にインポートできるSEOデータのリストのために\"分析\" をクリックします。"
+
+#: admin/meta_import.php:162
+msgid "Before performing an import, we strongly recommend that you make a backup of your site. We use and recommend %1$s BackupBuddy %2$s for backups."
+msgstr "インポートを実行する前に、強くサイトのバックアップを作成することをお勧めします。バックアップ用の %1$s BackupBuddy %2$s をお勧めします。"
+
+#: admin/meta_import.php:97
+msgid "Analysis Results"
+msgstr "分析結果"
+
+#: admin/meta_import.php:119
+msgid "Conversion Results"
+msgstr "変換結果"
+
+#: admin/meta_import.php:143
+msgid "Import SEO Settings"
+msgstr "SEO 設定をインポート"
+
+#: admin/meta_import.php:101 admin/meta_import.php:123
+msgid "Sorry, something went wrong. Please try again"
+msgstr "何かがおかしいようです。もう一度お試しください。"
+
+#: admin/meta_import.php:109
+msgid "Compatible data:"
+msgstr "互換性のあるデータ:"
+
+#: admin/meta_import.php:106
+msgid "<p>Analyzing records in a %1$s to %2$s conversion&hellip;"
+msgstr "<p>分析レコードを %1$s から %2$s へ変換&hellip;"
+
+#: admin/meta_import.php:37
+msgid "All in One SEO has been deactivated"
+msgstr "All in One SEO は無効化されています"
+
+#: admin/meta_import.php:64
+msgid "Import SEO Data"
+msgstr "SEO データをインポート"
+
+#: admin/meta_import.php:64
+msgid "SEO Data Import"
+msgstr "SEO データインポート"
+
+#: admin/meta_import.php:28
+msgid "The plugin Yoast SEO has been detected. Do you want to %1$simport its settings%2$s into All in One SEO Pack?"
+msgstr "Yoast SEO プラグインを検出しました。All-in-One-SEO Pack に%1$s設定をインポート%2$sしますか ?"
+
+#: admin/meta_import.php:32
+msgid "The plugin All-In-One-SEO has been detected. Do you want to %1$simport its settings%2$s?"
+msgstr "All-In-One-SEO プラグインを検出しました。%1$s設定をインポート%2$sしますか ?"
+
+#. translators: this refers to a module that is exclusively available in All in
+#. One SEO Pack Pro.
+#: modules/aioseop_feature_manager.php:95
+msgid "Pro Version Only"
+msgstr "プロ版のみ"
+
+#: aioseop_class.php:3785
+msgid "We've detected you're running WooCommerce."
+msgstr "WooCommerce を有効化中であることを検知しました。"
+
+#: aioseop_class.php:3786
+msgid "%1$s Upgrade%2$s to All in One SEO Pack Pro for increased SEO compatibility for your products."
+msgstr "お使いの製品の SEO を強化し、互換性のために All in One SEO Pack Pro に %1$s アップグレード %2$s してください。"
+
+#. Description of the plugin
+msgid "Out-of-the-box SEO for your WordPress blog. Features like XML Sitemaps, SEO for custom post types, SEO for blogs or business sites, SEO for ecommerce sites, and much more. More than 50 million downloads since 2007."
+msgstr "WordPress ブログですぐに使える SEO。XML サイトマップ、カスタム投稿タイプの SEO、ブログやビジネスサイトの SEO、e コマースサイトの SEO などの機能があります。2007年以来、約5,000万ダウンロードを誇ります。"
+
+#: inc/commonstrings.php:34
+msgid "Manage Licenses"
+msgstr "ライセンスの管理"
+
+#. translators: the Image SEO module allows users to optimize their images for
+#. search engines.
+#: modules/aioseop_feature_manager.php:80
+msgid "Image SEO"
+msgstr "画像 SEO"
+
+#: modules/aioseop_bad_robots.php:36
+msgid "Use Custom Blocklists"
+msgstr "カスタムブロックリストを使用"
+
+#: modules/aioseop_bad_robots.php:34
+msgid "Block Referral Spam using HTTP"
+msgstr "HTTP を利用したリファラスパムをブロック"
+
+#: modules/aioseop_bad_robots.php:24
+msgid "Block Referral Spam using HTTP."
+msgstr "HTTP を利用したリファラスパムをブロック。"
+
+#: modules/aioseop_bad_robots.php:33
+msgid "Block Bad Bots using HTTP"
+msgstr "HTTP を利用した悪質なボットをブロック"
+
+#: modules/aioseop_feature_manager.php:87
+msgid "Create and manage your Video Sitemap using this feature and submit your Video Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "この機能を使用してビデオサイトマップを作成・管理し、 Google, Bing/Yahoo と Ask.com. に動画サイトマップを送信してください。"
+
+#: inc/commonstrings.php:33
+msgid "Notice: "
+msgstr "注:"
+
+#. translators: Please mind the space at the beginning of the string.
+#: inc/commonstrings.php:32
+msgid " Need a license key?"
+msgstr "ライセンスキーが必要ですか ?"
+
+#: inc/commonstrings.php:30
+msgid "License Key is not set yet or invalid. "
+msgstr "ライセンスキーが設定されていないか、無効です。"
+
+#: inc/commonstrings.php:29
+msgid "Purchase one now"
+msgstr "今すぐ購入"
+
+#: inc/commonstrings.php:26
+msgid "You do not have access to this page; try logging in as an administrator."
+msgstr "このページへのアクセス権限がありません。管理者としてログインしてください。"
+
+#: inc/commonstrings.php:24
+msgid "If checked, only posts that have videos in them will be displayed on the sitemap."
+msgstr "もしチェックしたら、それらの動画のある投稿だけサイトマップに表示されるでしょう。"
+
+#: inc/commonstrings.php:25
+msgid "Enable this option to only allow access to your sitemap by site administrators and major search engines."
+msgstr "サイト管理者と主要な検索エンジンがサイトマップへのアクセスを許可するには、このオプションを有効にします。"
+
+#: inc/commonstrings.php:22
+msgid "Show Only Posts With Videos"
+msgstr "動画を含む投稿のみを表示"
+
+#: inc/commonstrings.php:23
+msgid "Restrict Access to Video Sitemap"
+msgstr "動画サイトマップへのアクセスを制限"
+
+#: all_in_one_seo_pack.php:350 admin/display/menu.php:40
+msgid "Upgrade to Pro"
+msgstr "Pro へアップグレード"
+
+#: all_in_one_seo_pack.php:339
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: all_in_one_seo_pack.php:329
+msgid "SEO Settings"
+msgstr "SEO 設定"
+
+#: aioseop_class.php:3250
+msgid "%taxonomy_title% - The original title of the taxonomy"
+msgstr "%taxonomy_title% - タクソノミーの元のタイトル"
+
+#: aioseop_class.php:3251
+msgid "%taxonomy_description% - The description of the taxonomy"
+msgstr "%taxonomy_description% - タクソノミーのディスクリプション"
+
+#: aioseop_class.php:3933
+msgid "Debug String"
+msgstr "デバッグ用文字列"
+
+#: aioseop_class.php:4981 aioseop_class.php:4988
+msgid "About"
+msgstr "このプラグインについて"
+
+#: aioseop_class.php:3097
+msgid "Thank you for running the latest and greatest All in One SEO Pack Pro ever! Please review your settings, as we're always adding new features for you!"
+msgstr "最新かつ最高の All in One SEO Pack Pro を実行していただきありがとうございます！継続的に新機能を追加していますので、設定を確認してください！"
+
+#: all_in_one_seo_pack.php:334 aioseop_class.php:918
+msgid "Support Forum"
+msgstr "サポートフォーラム"
+
+#: aioseop_class.php:3239
+msgid "Taxonomy Title Format:"
+msgstr "タクソノミータイトル形式:"
+
+#: aioseop_class.php:529
+msgid "SEO on only these taxonomies:"
+msgstr "以下のタクソノミーのみ SEO:"
+
+#: aioseop_class.php:361
+msgid "License Key:"
+msgstr "ライセンスキー:"
+
+#: aioseop_class.php:205
+msgid "Use these checkboxes to select which Taxonomies you want to use All in One SEO Pack with."
+msgstr "チェックボックスで All in One SEO Pack で使用したいタクソノミーを選択します。"
+
+#: aioseop_class.php:94
+msgid "This will be the license key received when the product was purchased. This is used for automatic upgrades."
+msgstr "製品を購入した際に受け取ったライセンスキーです。自動アップグレードに使用します。"
+
+#: modules/aioseop_opengraph.php:349
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: modules/aioseop_opengraph.php:344
+msgid "Facebook Admin ID"
+msgstr "Facebook 管理者 ID"
+
+#: aioseop_class.php:3761
+msgid "Warning: You're blocking access to search engines."
+msgstr "警告:あなたは検索エンジンへのアクセスをブロックしています。"
+
+#: modules/aioseop_opengraph.php:88
+msgid "Enter your Facebook App ID here. Information about how to get your Facebook App ID can be found at https://developers.facebook.com/docs/apps/register"
+msgstr "Facebook の App ID をここに入力してください。Facebook App ID の取得方法については https://developers.facebook.com/docs/apps/register をご覧ください。"
+
+#: aioseop_class.php:3762
+msgid "You can %1$s click here%2$s to go to your reading settings and toggle your blog visibility."
+msgstr "%1$sここをクリックして%2$s 設定を確認して、ブログの表示を切り替えることが出来ます。"
+
+#: modules/aioseop_sitemap.php:222
+msgid "Monthly"
+msgstr "月"
+
+#: modules/aioseop_sitemap.php:242
+msgid "Taxonomies"
+msgstr "タクソノミー"
+
+#: modules/aioseop_sitemap.php:237
+msgid "Post Types"
+msgstr "投稿タイプ"
+
+#. Plugin Name of the plugin
+msgid "All In One SEO Pack"
+msgstr "All In One SEO Pack"
+
+#: modules/aioseop_sitemap.php:290
+msgid "Do Not Override"
+msgstr "上書きしない"
+
+#: modules/aioseop_sitemap.php:304
+msgid "priority"
+msgstr "優先順位"
+
+#: modules/aioseop_sitemap.php:305
+msgid "frequency"
+msgstr "頻度"
+
+#: modules/aioseop_sitemap.php:312
+msgid "homepage"
+msgstr "ホームページ"
+
+#: modules/aioseop_sitemap.php:315
+msgid "archive pages"
+msgstr "アーカイブページ"
+
+#: modules/aioseop_sitemap.php:247
+msgid "Include Author Pages"
+msgstr "投稿者ページを含める"
+
+#: modules/aioseop_sitemap.php:250
+msgid "Create Compressed Sitemap"
+msgstr "圧縮版サイトマップを構築する"
+
+#: modules/aioseop_sitemap.php:316
+msgid "author pages"
+msgstr "投稿者ページ"
+
+#: modules/aioseop_sitemap.php:349
+msgid "Page URL"
+msgstr "ページ URL"
+
+#: modules/aioseop_sitemap.php:383
+msgid "Add URL"
+msgstr "URL を追加"
+
+#: modules/aioseop_sitemap.php:314
+msgid "taxonomies"
+msgstr "タクソノミー"
+
+#: modules/aioseop_sitemap.php:274
+msgid "Sitemap Status"
+msgstr "サイトマップのステータス"
+
+#. Author of the plugin
+msgid "Michael Torbert"
+msgstr "Michael Torbert"
+
+#: modules/aioseop_sitemap.php:789
+msgid "Update Sitemap"
+msgstr "サイトマップを更新"
+
+#: modules/aioseop_sitemap.php:694
+msgid " Post Type"
+msgstr "投稿タイプ"
+
+#: modules/aioseop_sitemap.php:695
+msgid " Taxonomy"
+msgstr "タクソノミー"
+
+#: modules/aioseop_sitemap.php:220
+msgid "Daily"
+msgstr "毎日"
+
+#: modules/aioseop_sitemap.php:221
+msgid "Weekly"
+msgstr "毎週"
+
+#: modules/aioseop_sitemap.php:416
+msgid "Priorities"
+msgstr "優先順位"
+
+#: modules/aioseop_sitemap.php:216
+msgid "Schedule Updates"
+msgstr "更新を予約"
+
+#: modules/aioseop_sitemap.php:226
+msgid "Enable Sitemap Indexes"
+msgstr "サイトマップインデックスを有効化"
+
+#: modules/aioseop_sitemap.php:258
+msgid "Dynamically Generate Sitemap"
+msgstr "サイトマップを動的に生成"
+
+#: modules/aioseop_sitemap.php:362
+msgid "Page Frequency"
+msgstr "ページ頻度"
+
+#: modules/aioseop_sitemap.php:376 modules/aioseop_sitemap.php:404
+msgid "Additional Pages"
+msgstr "追加ページ"
+
+#: modules/aioseop_sitemap.php:393
+msgid "Excluded Categories"
+msgstr "除外カテゴリー"
+
+#: modules/aioseop_sitemap.php:398
+msgid "Excluded Pages"
+msgstr "除外ページ"
+
+#: modules/aioseop_sitemap.php:410
+msgid "Excluded Items"
+msgstr "除外項目"
+
+#: modules/aioseop_sitemap.php:902
+msgid "Reading Settings"
+msgstr "表示設定"
+
+#: modules/aioseop_sitemap.php:904
+msgid "Privacy Settings"
+msgstr "プライバシー設定"
+
+#: modules/aioseop_sitemap.php:1328
+msgid "Rename Conflicting Files"
+msgstr "衝突ファイルの名前を変更"
+
+#: modules/aioseop_sitemap.php:1329
+msgid "Delete Conflicting Files"
+msgstr "衝突ファイルを削除"
+
+#: modules/aioseop_sitemap.php:1473
+msgid "compressed"
+msgstr "圧縮済み"
+
+#: modules/aioseop_sitemap.php:423
+msgid "Frequencies"
+msgstr "頻度"
+
+#: modules/aioseop_sitemap.php:571
+msgid "Once Weekly"
+msgstr "週1回"
+
+#: modules/aioseop_sitemap.php:575
+msgid "Once Monthly"
+msgstr "月1回"
+
+#: modules/aioseop_sitemap.php:684
+msgid "Media / Attachments"
+msgstr "メディア・添付ファイル"
+
+#: modules/aioseop_sitemap.php:1476
+msgid "dynamic"
+msgstr "動的"
+
+#: modules/aioseop_sitemap.php:291
+msgid "Select Individual"
+msgstr "個別に選択"
+
+#: modules/aioseop_sitemap.php:692
+msgid "Manually set the priority for the "
+msgstr "優先順位を手動で決定:"
+
+#: modules/aioseop_sitemap.php:693
+msgid "Manually set the frequency for the "
+msgstr "頻度を手動で決定:"
+
+#: modules/aioseop_sitemap.php:1471
+msgid "static"
+msgstr "固定"
+
+#: modules/aioseop_sitemap.php:188
+msgid "Entries from these categories will be excluded from the sitemap."
+msgstr "このカテゴリーの項目はサイトマップから除外されます。"
+
+#: modules/aioseop_sitemap.php:219
+msgid "No Schedule"
+msgstr "予約なし"
+
+#: modules/aioseop_sitemap.php:185
+msgid "The priority of the page."
+msgstr "ページの優先順位。"
+
+#: modules/aioseop_sitemap.php:686
+msgid "All Post Types"
+msgstr "すべての投稿タイプ"
+
+#: modules/aioseop_sitemap.php:687
+msgid "All Taxonomies"
+msgstr "すべてのタクソノミー"
+
+#. translators: Shows which sitemap files have been deleted.
+#: modules/aioseop_sitemap.php:1165
+msgid "Deleted %s."
+msgstr "%sを削除しました。"
+
+#: modules/aioseop_sitemap.php:246
+msgid "Include Date Archive Pages"
+msgstr "日別アーカイブページを含める"
+
+#. translators: Shows which sitemap files couldn't be found.
+#: modules/aioseop_sitemap.php:1186
+msgid "Couldn't find file %s!"
+msgstr "%s が見つかりません。"
+
+#: modules/aioseop_sitemap.php:186
+msgid "The frequency of the page."
+msgstr "ページの頻度。"
+
+#: modules/aioseop_sitemap.php:187
+msgid "Last modified date of the page."
+msgstr "ページの最終更新日。"
+
+#. translators: Shows which sitemap files couldn't be renamed.
+#: modules/aioseop_sitemap.php:1176
+msgid "Couldn't rename file %s!"
+msgstr "%s をリネームできません。"
+
+#: modules/aioseop_sitemap.php:254
+msgid "Link From Virtual Robots.txt"
+msgstr "仮想 Robots.txt からリンクする"
+
+#: modules/aioseop_sitemap.php:598
+msgid "Daily scheduled sitemap check has finished."
+msgstr "日次スケジュールされたサイトマップチェックが終了しました。"
+
+#. translators: Shows which 'unknown' file is conflicting with the current
+#. sitemap settings.
+#: modules/aioseop_sitemap.php:1283
+msgid "Potential conflict with unknown file %s."
+msgstr "未知のファイル %s の競合する可能性。"
+
+#: modules/aioseop_sitemap.php:1144
+msgid "Warning: dynamic sitemap generation must have permalinks enabled."
+msgstr "警告：動的なサイトマップの生成はパーマリンクを有効にする必要があります。"
+
+#. translators: Link to settings to disable "Discourage search engines from
+#. indexing this site".
+#: modules/aioseop_sitemap.php:907
+msgid "Warning: your privacy settings are configured to ask search engines to not index your site; you can change this under %s for your blog."
+msgstr "警告：サイトがインデックスされないよう検索エンジンに依頼しプライバシー設定構築されます。; ブログのために %s の下にこれを変更することができます。"
+
+#: modules/aioseop_sitemap.php:313
+msgid "posts"
+msgstr "投稿"
+
+#: modules/aioseop_sitemap.php:189
+msgid "Use page slugs or page IDs, seperated by commas, to exclude pages from the sitemap."
+msgstr "サイトマップからページを除外するには、カンマで区切られたページスラッグやページIDを使用します。"
+
+#: modules/aioseop_sitemap.php:896
+msgid "Dynamic sitemap generation does not appear to be using the correct rewrite rules; please disable any other sitemap plugins or functionality on your site and reset your permalinks."
+msgstr "ダイナミックサイトマップ生成で正しいリライトルールが使用されていないようです。 サイトの他のサイトマッププラグインや機能を無効にして、パーマリンクをリセットしてください。"
+
+#: modules/aioseop_sitemap.php:228
+msgid "Maximum Posts Per Sitemap Page"
+msgstr "サイトマップページあたりの最大投稿数"
+
+#. translators: Notifies the admin which sitemaps failed to notify with which
+#. search engine(s).
+#: modules/aioseop_sitemap.php:1661
+msgid "Failed to notify %1$s about changes to your sitemap at %2$s, unable to access via wp_remote_get()."
+msgstr "サイトマップの変更について %1$s への通知に %2$s において失敗しました。 wp_remote_get() 経由で接続出来ません。"
+
+#. translators: Help Text string to display information about multiple
+#. different settings.
+#: modules/aioseop_sitemap.php:329
+msgid "Manually set the %1$s of your %2$s."
+msgstr "%2$sの%1$sを手動で設定します。"
+
+#: modules/aioseop_sitemap.php:1273
+msgid "Warning: a static sitemap '%1$s' generated by All in One SEO Pack %2$s on %3$s already exists that may conflict with dynamic sitemap generation."
+msgstr "警告: %3$s で All in One SEO Pack %2$s がすでに生成済みの静的サイトマップ '%1$s' が、動的サイトマップ生成と競合する可能性があります。"
+
+#. translators: Notifies the admin which sitemaps failed to notify with which
+#. search engine(s), and display the error code.
+#: modules/aioseop_sitemap.php:1657
+msgid "Failed to notify %1$s about changes to your sitemap at %2$s, error code %3$s."
+msgstr "%1$s への %2$s のサイトマップ変更通知に失敗しました。エラーコードは %3$s です。"
+
+#: modules/aioseop_sitemap.php:343
+msgid "Enter information below for any additional links for your sitemap not already managed through WordPress."
+msgstr "WordPress の管理下にないサイトマップへのリンクの追加は、以下に情報を入力してください。"
+
+#: modules/aioseop_sitemap.php:355
+msgid "Page Priority"
+msgstr "ページ優先度"
+
+#: modules/aioseop_sitemap.php:369
+msgid "Last Modified"
+msgstr "最終編集日"
+
+#: modules/aioseop_robots.php:26 modules/aioseop_robots.php:41
+msgid "User Agent"
+msgstr "ユーザーエージェント"
+
+#: modules/aioseop_performance.php:353
+msgid "Submit"
+msgstr "送信"
+
+#: aioseop_class.php:4995
+msgid "Support"
+msgstr "サポート"
+
+#: admin/aioseop_module_class.php:2745
+msgid "Update Options"
+msgstr "設定を更新"
+
+#: inc/aioseop_functions.php:865
+msgid "Twitter"
+msgstr "Twitter"
+
+#: aioseop_class.php:5026 aioseop_class.php:5046
+#: admin/aioseop_module_class.php:2101 admin/aioseop_module_class.php:2464
+#: admin/aioseop_module_class.php:2784
+msgid "Help"
+msgstr "ヘルプ"
+
+#: inc/aioseop_functions.php:264 inc/aioseop_functions.php:383
+#: inc/aioseop_functions.php:765
+msgid "Edit"
+msgstr "編集"
+
+#: inc/aioseop_functions.php:266
+msgid "Save"
+msgstr "保存"
+
+#: inc/aioseop_functions.php:267
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: modules/aioseop_importer_exporter.php:37
+#: modules/aioseop_importer_exporter.php:105
+msgid "Import"
+msgstr "インポート"
+
+#: modules/aioseop_performance.php:255
+msgid "PHP IPTC support"
+msgstr "PHP IPTC サポート"
+
+#: modules/aioseop_performance.php:258
+msgid "Home URL"
+msgstr "ホーム URL"
+
+#: modules/aioseop_performance.php:259
+msgid "WordPress Version"
+msgstr "WordPress のバージョン"
+
+#: modules/aioseop_performance.php:261
+msgid "Multisite"
+msgstr "マルチサイト"
+
+#: modules/aioseop_importer_exporter.php:43
+msgid "Export Settings"
+msgstr "設定のエクスポート"
+
+#: modules/aioseop_performance.php:175
+msgid "On"
+msgstr "オン"
+
+#: modules/aioseop_performance.php:177
+msgid "Off"
+msgstr "オフ"
+
+#: modules/aioseop_performance.php:205 modules/aioseop_performance.php:210
+#: modules/aioseop_performance.php:215 modules/aioseop_performance.php:224
+msgid "Yes"
+msgstr "はい"
+
+#: inc/aioseop_functions.php:379 inc/aioseop_functions.php:761
+#: modules/aioseop_performance.php:207 modules/aioseop_performance.php:212
+#: modules/aioseop_performance.php:217 modules/aioseop_performance.php:226
+msgid "No"
+msgstr "いいえ"
+
+#: inc/aioseop_functions.php:859
+msgid "Google+"
+msgstr "Google+"
+
+#. translators: the Robots.txt module allows users to provide instructions to
+#. web robots, e.g. search engine crawlers.
+#: modules/aioseop_feature_manager.php:45 modules/aioseop_robots.php:19
+#: modules/aioseop_robots.php:80
+msgid "Robots.txt"
+msgstr "Robots.txt"
+
+#: modules/aioseop_file_editor.php:49
+msgid ".htaccess"
+msgstr ".htaccess"
+
+#: inc/aioseop_functions.php:868
+msgid "Facebook"
+msgstr "Facebook"
+
+#: modules/aioseop_opengraph.php:66
+msgid "Album"
+msgstr "アルバム"
+
+#: modules/aioseop_opengraph.php:434
+msgid "Image"
+msgstr "画像"
+
+#: aioseop_class.php:4988 aioseop_class.php:4995
+msgid "Version"
+msgstr "バージョン"
+
+#: inc/aioseop_functions.php:265
+msgid "Post"
+msgstr "投稿"
+
+#: modules/aioseop_performance.php:172
+msgid "Not set"
+msgstr "未設定"
+
+#: modules/aioseop_performance.php:182 modules/aioseop_performance.php:187
+#: modules/aioseop_performance.php:192 modules/aioseop_performance.php:197
+#: modules/aioseop_performance.php:202 modules/aioseop_performance.php:229
+msgid "N/A"
+msgstr "該当なし"
+
+#: modules/aioseop_performance.php:243
+msgid "Operating System"
+msgstr "オペレーション・システム"
+
+#: modules/aioseop_performance.php:245
+msgid "Memory usage"
+msgstr "メモリー使用"
+
+#: modules/aioseop_performance.php:246
+msgid "MYSQL Version"
+msgstr "MYSQL バージョン"
+
+#: modules/aioseop_performance.php:248
+msgid "PHP Version"
+msgstr "PHP バージョン"
+
+#: modules/aioseop_performance.php:254
+msgid "PHP Exif support"
+msgstr "PHP Exif サポート"
+
+#: modules/aioseop_performance.php:244
+msgid "Server"
+msgstr "サーバー"
+
+#: modules/aioseop_opengraph.php:405
+msgid "Post Author Image"
+msgstr "投稿者画像"
+
+#: modules/aioseop_sitemap.php:161
+msgid "XML Sitemap"
+msgstr "XML サイトマップ"
+
+#: aioseop_class.php:3177
+msgid "Front Page"
+msgstr "フロントページ"
+
+#: admin/display/general-metaboxes.php:156
+msgid "Watch video tutorials"
+msgstr "ビデオチュートリアルを見る"
+
+#: aioseop_class.php:4723
+msgid "SEO"
+msgstr "SEO"
+
+#: aioseop_class.php:4732
+msgid "Upgrade To Pro"
+msgstr "プロ版へアップグレード"
+
+#: aioseop_class.php:4887
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: modules/aioseop_opengraph.php:62
+msgid "Landmark"
+msgstr "ランドマーク"
+
+#: aioseop_class.php:4974
+msgid "Join Our Mailing List"
+msgstr "メーリングリストに登録"
+
+#. translators: the Feature Manager allows users to (de)activate other modules
+#. of the plugin.
+#: modules/aioseop_feature_manager.php:24
+msgid "Feature Manager"
+msgstr "機能管理"
+
+#: modules/aioseop_opengraph.php:28
+msgid "Sport"
+msgstr "スポーツ"
+
+#: modules/aioseop_opengraph.php:31
+msgid "Bar"
+msgstr "バー"
+
+#: modules/aioseop_opengraph.php:32
+msgid "Company"
+msgstr "会社"
+
+#: modules/aioseop_opengraph.php:33
+msgid "Cafe"
+msgstr "カフェ"
+
+#: modules/aioseop_opengraph.php:34
+msgid "Hotel"
+msgstr "ホテル"
+
+#: modules/aioseop_opengraph.php:56
+msgid "Profile"
+msgstr "プロフィール"
+
+#: modules/aioseop_opengraph.php:57
+msgid "Public Figure"
+msgstr "芸能人"
+
+#: modules/aioseop_opengraph.php:61
+msgid "Country"
+msgstr "国"
+
+#: modules/aioseop_opengraph.php:67
+msgid "Book"
+msgstr "本"
+
+#: modules/aioseop_opengraph.php:68
+msgid "Drink"
+msgstr "飲み物"
+
+#: modules/aioseop_opengraph.php:69
+msgid "Food"
+msgstr "食べ物"
+
+#: modules/aioseop_opengraph.php:70
+msgid "Game"
+msgstr "ゲーム"
+
+#: modules/aioseop_opengraph.php:71
+msgid "Movie"
+msgstr "映画"
+
+#: modules/aioseop_opengraph.php:72
+msgid "Product"
+msgstr "商品"
+
+#: modules/aioseop_opengraph.php:73
+msgid "Song"
+msgstr "歌"
+
+#: modules/aioseop_opengraph.php:74
+msgid "TV Show"
+msgstr "テレビ番組"
+
+#: aioseop_class.php:3447
+msgid "follow"
+msgstr "フォロー"
+
+#: aioseop_class.php:3448
+msgid "nofollow"
+msgstr "フォローしない"
+
+#: aioseop_class.php:3439
+msgid "index"
+msgstr "index"
+
+#: aioseop_class.php:3440
+msgid "noindex"
+msgstr "noindex"
+
+#: admin/display/general-metaboxes.php:45
+msgid "Pro Version"
+msgstr "プロ版"
+
+#. translators: the Performance module allows users to set certain performance
+#. related settings and check the status of their WordPress installation.
+#: modules/aioseop_performance.php:15 modules/aioseop_feature_manager.php:68
+msgid "Performance"
+msgstr "パフォーマンス"
+
+#: modules/aioseop_opengraph.php:35
+msgid "Restaurant"
+msgstr "レストラン"
+
+#: modules/aioseop_opengraph.php:38
+msgid "Cause"
+msgstr "社会的活動"
+
+#: modules/aioseop_opengraph.php:51
+msgid "Athlete"
+msgstr "スポーツ選手"
+
+#: modules/aioseop_opengraph.php:50
+msgid "Actor"
+msgstr "俳優"
+
+#: modules/aioseop_opengraph.php:46
+msgid "School"
+msgstr "学校"
+
+#: modules/aioseop_opengraph.php:78
+msgid "Article"
+msgstr "記事"
+
+#: modules/aioseop_opengraph.php:79
+msgid "Blog"
+msgstr "ブログ"
+
+#: modules/aioseop_opengraph.php:360
+msgid "Site Name"
+msgstr "サイト名"
+
+#: aioseop_class.php:1049
+msgid "Noindex Settings"
+msgstr "Noindex 設定"
+
+#: modules/aioseop_opengraph.php:727
+msgid "Twitter Settings"
+msgstr "Twitter 設定"
+
+#: modules/aioseop_opengraph.php:712
+msgid "Facebook Settings"
+msgstr "Facebook 設定"
+
+#: modules/aioseop_opengraph.php:401
+msgid "Featured Image"
+msgstr "アイキャッチ画像"
+
+#: admin/aioseop_module_class.php:2660
+msgid "Options Reset."
+msgstr "設定をリセットしました。"
+
+#: modules/aioseop_opengraph.php:737
+msgid "Scan Social Meta"
+msgstr "ソーシャルメタ情報をスキャン"
+
+#: modules/aioseop_file_editor.php:33 modules/aioseop_file_editor.php:54
+msgid "Edit .htaccess"
+msgstr ".htaccess を編集"
+
+#: modules/aioseop_file_editor.php:86
+msgid "Update .htaccess"
+msgstr ".htaccess を更新"
+
+#: inc/aioseop_functions.php:190
+msgid "SEO Title"
+msgstr "SEO タイトル"
+
+#: inc/aioseop_functions.php:193
+msgid "SEO Keywords"
+msgstr "SEO キーワード"
+
+#: aioseop_class.php:4674
+msgid "Main Settings"
+msgstr "メイン設定"
+
+#. translators: the XML Sitemaps module allows users to generate a sitemap in
+#. .xml format for their website and submit it to search engines such as
+#. Google, Bing and Yahoo.
+#: modules/aioseop_feature_manager.php:32
+msgid "XML Sitemaps"
+msgstr "XML サイトマップ"
+
+#: modules/aioseop_file_editor.php:29
+msgid ".htaccess editor"
+msgstr ".htaccess エディター"
+
+#: modules/aioseop_opengraph.php:671
+msgid "Social Settings"
+msgstr "ソーシャル設定"
+
+#: admin/display/general-metaboxes.php:152
+msgid "View the Changelog"
+msgstr "更新履歴を表示"
+
+#: modules/aioseop_performance.php:87
+msgid "System Status"
+msgstr "システム状況"
+
+#. translators: the File Editor module allows users to edit the robots.txt file
+#. or .htaccess file on their site.
+#: modules/aioseop_file_editor.php:19 modules/aioseop_feature_manager.php:50
+msgid "File Editor"
+msgstr "ファイルエディター"
+
+#: aioseop_class.php:3438
+msgid "Default - noindex"
+msgstr "デフォルト - noindex"
+
+#: aioseop_class.php:3446
+msgid "Default - nofollow"
+msgstr "デフォルト - nofollow"
+
+#: modules/aioseop_opengraph.php:27
+msgid "Activity"
+msgstr "アクティビティ"
+
+#: modules/aioseop_opengraph.php:60
+msgid "City"
+msgstr "市区町村"
+
+#: inc/aioseop_functions.php:271
+msgid "Revisions"
+msgstr "リビジョン"
+
+#: modules/aioseop_robots.php:25
+msgid "Rule Type"
+msgstr "ルールの種類"
+
+#: modules/aioseop_robots.php:62
+msgid "Add Rule"
+msgstr "ルールを追加"
+
+#: admin/display/general-metaboxes.php:143
+msgid "All in One SEO Pro Plugin Changelog"
+msgstr "All in One SEO Pro プラグイン更新履歴"
+
+#: admin/display/general-metaboxes.php:139
+msgid "All in One SEO Pro Plugin Support Forum"
+msgstr "All in One SEO Pro プラグインサポートフォーラム"
+
+#: modules/aioseop_performance.php:49
+msgid "No limit"
+msgstr "無制限"
+
+#. translators: the Importer & Exporter module allows users to import/export
+#. their All in One SEO Pack settings for backup purposes or when migrating
+#. their site.
+#: modules/aioseop_importer_exporter.php:16
+#: modules/aioseop_feature_manager.php:56
+msgid "Importer & Exporter"
+msgstr "インポーター & エクスポーター"
+
+#: modules/aioseop_importer_exporter.php:51
+msgid "Export Post Types:"
+msgstr "投稿タイプをエクスポート:"
+
+#: aioseop_class.php:3196
+msgid "%post_title% - The original title of the post."
+msgstr "%post_title% - 投稿の元のタイトル。"
+
+#: modules/aioseop_opengraph.php:402
+msgid "First Attached Image"
+msgstr "最初の添付画像"
+
+#: modules/aioseop_opengraph.php:403
+msgid "First Image In Content"
+msgstr "コンテンツ内の最初の画像"
+
+#: modules/aioseop_opengraph.php:365
+msgid "Home Title"
+msgstr "ホームタイトル"
+
+#: modules/aioseop_opengraph.php:389
+msgid "Home Image"
+msgstr "ホーム画像"
+
+#: modules/aioseop_performance.php:200
+msgid " MByte"
+msgstr " メガバイト"
+
+#: modules/aioseop_opengraph.php:535
+msgid "Use Categories In Article Tags"
+msgstr "記事のタグにカテゴリーを使用"
+
+#: modules/aioseop_opengraph.php:586
+msgid "Article Section"
+msgstr "記事のセクション"
+
+#: modules/aioseop_opengraph.php:530
+msgid "Use Keywords In Article Tags"
+msgstr "記事のタグにキーワードを使用"
+
+#: modules/aioseop_opengraph.php:441
+msgid "Custom Image"
+msgstr "カスタム画像"
+
+#: modules/aioseop_opengraph.php:445
+msgid "Specify Image Width"
+msgstr "画像の幅を指定"
+
+#: modules/aioseop_opengraph.php:450
+msgid "Specify Image Height"
+msgstr "画像の高さを指定"
+
+#: modules/aioseop_opengraph.php:615
+msgid "Person"
+msgstr "人"
+
+#: modules/aioseop_opengraph.php:616
+msgid "Organization"
+msgstr "組織"
+
+#: modules/aioseop_opengraph.php:702
+msgid "Image Settings"
+msgstr "画像設定"
+
+#. translators: the Video Sitemap module allows users to generate a sitemap
+#. with video content in .xml format for their website and submit it to search
+#. engines such as Google, Bing and Yahoo.
+#: inc/commonstrings.php:21 modules/aioseop_feature_manager.php:86
+#: modules/aioseop_feature_manager.php:93
+msgid "Video Sitemap"
+msgstr "動画サイトマップ"
+
+#: modules/aioseop_opengraph.php:455
+msgid "Custom Video"
+msgstr "カスタム動画"
+
+#: modules/aioseop_opengraph.php:459
+msgid "Specify Video Width"
+msgstr "動画の幅を指定"
+
+#: modules/aioseop_opengraph.php:471
+msgid "Specify Video Height"
+msgstr "動画の高さを指定"
+
+#: modules/aioseop_feature_manager.php:166
+msgid "Update Features"
+msgstr "機能の更新"
+
+#: modules/aioseop_opengraph.php:39
+msgid "Sports League"
+msgstr "スポーツリーグ"
+
+#: modules/aioseop_opengraph.php:40
+msgid "Sports Team"
+msgstr "スポーツチーム"
+
+#: modules/aioseop_opengraph.php:43
+msgid "Band"
+msgstr "バンド"
+
+#: modules/aioseop_opengraph.php:44
+msgid "Government"
+msgstr "政府"
+
+#: modules/aioseop_opengraph.php:47
+msgid "University"
+msgstr "大学"
+
+#: modules/aioseop_opengraph.php:53
+msgid "Director"
+msgstr "ディレクター"
+
+#: modules/aioseop_opengraph.php:54
+msgid "Musician"
+msgstr "音楽家"
+
+#: modules/aioseop_opengraph.php:55
+msgid "Politician"
+msgstr "政治家"
+
+#: modules/aioseop_opengraph.php:75
+msgid "Episode"
+msgstr "エピソード"
+
+#. translators: the Social Meta module allows users to add Open Graph (OG:)
+#. meta tags to their site's post/pages to control the appearance of them when
+#. shared on social media networks like Facebook and Twitter.
+#: modules/aioseop_opengraph.php:22 modules/aioseop_feature_manager.php:38
+msgid "Social Meta"
+msgstr "ソーシャルメディア"
+
+#: modules/aioseop_opengraph.php:527
+msgid "Automatically Generate Article Tags"
+msgstr "記事のタグを自動生成する"
+
+#: modules/aioseop_opengraph.php:400
+msgid "Default Image"
+msgstr "デフォルト画像"
+
+#: modules/aioseop_opengraph.php:404
+msgid "Image From Custom Field"
+msgstr "カスタムフィールドからの画像"
+
+#: modules/aioseop_opengraph.php:424
+msgid "Default Image Height"
+msgstr "デフォルトの画像高さ"
+
+#: modules/aioseop_opengraph.php:419
+msgid "Default Image Width"
+msgstr "デフォルトの画像幅"
+
+#: modules/aioseop_opengraph.php:429
+msgid "Use Custom Field For Image"
+msgstr "画像にはカスタムフィールドを利用する"
+
+#: modules/aioseop_opengraph.php:487 modules/aioseop_opengraph.php:501
+msgid "Summary"
+msgstr "要約"
+
+#: modules/aioseop_opengraph.php:45
+msgid "Non Profit"
+msgstr "非営利的"
+
+#: inc/aioseop_functions.php:272
+msgid "Insert time"
+msgstr "時間を挿入"
+
+#: aioseop_class.php:1066 modules/aioseop_opengraph.php:732
+msgid "Advanced Settings"
+msgstr "詳細設定"
+
+#: modules/aioseop_opengraph.php:592
+msgid "Article Tags"
+msgstr "記事のタグ"
+
+#: modules/aioseop_performance.php:40
+msgid "Raise execution time"
+msgstr "実行時間を延長する"
+
+#: modules/aioseop_performance.php:28
+msgid "Raise memory limit"
+msgstr "メモリ上限を上げる"
+
+#: aioseop_class.php:3350
+msgid "Reset General Settings to Defaults"
+msgstr "一般設定を初期化"
+
+#. translators: this button deactivates all active modules of the plugin.
+#: modules/aioseop_feature_manager.php:169
+msgid "Reset Features"
+msgstr "機能を初期化"
+
+#: modules/aioseop_opengraph.php:335
+msgid "Scan Header"
+msgstr "ヘッダーのスキャン"
+
+#: modules/aioseop_opengraph.php:354
+msgid "Run Shortcodes In Title"
+msgstr "タイトル内のショートコードを実行"
+
+#: modules/aioseop_opengraph.php:620
+msgid "Associated Name"
+msgstr "関連付けられた名前"
+
+#: modules/aioseop_opengraph.php:1022
+msgid "Scan Now"
+msgstr "いますぐスキャン"
+
+#: modules/aioseop_opengraph.php:410
+msgid "Use Default If No Image Found"
+msgstr "画像が見つからない場合はデフォルトを使用"
+
+#: modules/aioseop_opengraph.php:406
+msgid "First Available Image"
+msgstr "最初の利用可能画像"
+
+#: modules/aioseop_opengraph.php:488 modules/aioseop_opengraph.php:500
+msgid "Summary Large Image"
+msgstr "要約の大きい画像"
+
+#: inc/aioseop_functions.php:191
+msgid "SEO Description"
+msgstr "SEO ディスクリプション"
+
+#: modules/aioseop_performance.php:256
+msgid "PHP XML support"
+msgstr "PHP XML サポート"
+
+#: modules/aioseop_performance.php:257
+msgid "Site URL"
+msgstr "サイト URL"
+
+#: modules/aioseop_performance.php:260
+msgid "WordPress DB Version"
+msgstr "WordPress のデータベースのバージョン"
+
+#: modules/aioseop_performance.php:336
+msgid "Sent to %s."
+msgstr "%s に送信しました。"
+
+#: modules/aioseop_performance.php:338
+msgid "Failed to send to %s."
+msgstr "%s に送信できませんでした。"
+
+#: modules/aioseop_robots.php:27 modules/aioseop_robots.php:54
+msgid "Directory Path"
+msgstr "ディレクトリパス"
+
+#: aioseop_class.php:3177
+msgid "Everywhere Else"
+msgstr "その他すべて"
+
+#: aioseop_class.php:3185
+msgid "Title Format:"
+msgstr "タイトル形式:"
+
+#: admin/display/general-metaboxes.php:38
+msgid "Reset Dismissed Notices"
+msgstr "非表示にした通知を初期化"
+
+#: aioseop_class.php:4771 aioseop_class.php:4785
+msgid "Edit SEO"
+msgstr "SEO を編集"
+
+#. translators: this refers to a feature that will be launched in the near
+#. future.
+#: modules/aioseop_feature_manager.php:78
+msgid "Coming Soon..."
+msgstr "近日公開予定"
+
+#: inc/aioseop_functions.php:591
+msgid "Duplicate %s Meta"
+msgstr "%s メタを複製"
+
+#: modules/aioseop_opengraph.php:357
+msgid "Run Shortcodes In Description"
+msgstr "ディスクリプション内のショートコードを実行"
+
+#: modules/aioseop_opengraph.php:377
+msgid "Home Description"
+msgstr "ホームのディスクリプション"
+
+#: modules/aioseop_opengraph.php:414
+msgid "Default OG:Image"
+msgstr "デフォルトの OG:Image"
+
+#: modules/aioseop_opengraph.php:568
+msgid "Facebook Object Type"
+msgstr "Facebook オブジェクトタイプ"
+
+#: modules/aioseop_opengraph.php:483
+msgid "Default Twitter Card"
+msgstr "デフォルト Twitter カード"
+
+#: modules/aioseop_opengraph.php:497
+msgid "Twitter Card Type"
+msgstr "Twitter カードタイプ"
+
+#: modules/aioseop_opengraph.php:510
+msgid "Twitter Site"
+msgstr "Twitter サイト"
+
+#: modules/aioseop_opengraph.php:518
+msgid "Twitter Domain"
+msgstr "Twitter ドメイン"
+
+#: modules/aioseop_opengraph.php:575
+msgid "Facebook Debug"
+msgstr "Facebook デバッグ"
+
+#: modules/aioseop_opengraph.php:583
+msgid "Debug This Post"
+msgstr "この投稿をデバッグ"
+
+#: modules/aioseop_opengraph.php:876
+msgid "Default "
+msgstr "デフォルト"
+
+#: modules/aioseop_opengraph.php:1697
+msgid "Object Type"
+msgstr "オブジェクト型"
+
+#: aioseop_class.php:3087 aioseop_class.php:3104 aioseop_class.php:3122
+msgid "Review Your Settings"
+msgstr "設定を確認"
+
+#: admin/display/general-metaboxes.php:135
+msgid "Read the All in One SEO Pack user guide"
+msgstr "All in One SEO Pack ユーザーガイドを読む"
+
+#: inc/aioseop_functions.php:270
+msgid "Slug may not be empty!"
+msgstr "スラッグを空にしないでください。"
+
+#: modules/aioseop_opengraph.php:515
+msgid "Show Twitter Author"
+msgstr "Twitter 投稿者を表示"
+
+#: inc/aioseop_functions.php:603
+msgid "What Does This Mean?"
+msgstr "これはどういう意味ですか ?"
+
+#: modules/aioseop_opengraph.php:113
+msgid "Enter the name of your website here."
+msgstr "サイト名を入力してください。"
+
+#: modules/aioseop_opengraph.php:340
+msgid "Use AIOSEO Title and Description"
+msgstr "AIOSEO の Title と Description を使用する"
+
+#: modules/aioseop_importer_exporter.php:149
+msgid "There are no other modules currently loaded!"
+msgstr "現在他に読み込まれたモジュールはありません。"
+
+#: inc/aioseop_functions.php:600
+msgid "No duplicate meta tags found."
+msgstr "重複の meta タグが見つかりませんでした。"
+
+#: modules/aioseop_performance.php:282
+msgid "All in One SEO Pack Pro Debug Info"
+msgstr "All in One SEO Pack Pro デバッグ情報"
+
+#: modules/aioseop_performance.php:352
+msgid "E-mail debug information"
+msgstr "デバッグ情報をメールで送信"
+
+#: modules/aioseop_performance.php:335
+msgid "SFWD Debug Mail From Site %s."
+msgstr "%s からの SFWD デバッグメール。"
+
+#: modules/aioseop_opengraph.php:63
+msgid "State Province"
+msgstr "州・都道府県"
+
+#: aioseop_class.php:3354
+msgid "Reset ALL Settings to Defaults"
+msgstr "すべての設定をデフォルトにリセット"
+
+#: modules/aioseop_performance.php:300
+msgid "Form submission error: verification check failed."
+msgstr "フォーム送信エラー: 入力値の検証に失敗しました。"
+
+#: modules/aioseop_performance.php:341
+msgid "Error: please enter an e-mail address before submitting."
+msgstr "エラー: 送信前にメールアドレスを入力してください。"
+
+#: modules/aioseop_feature_manager.php:57
+msgid "Exports and imports your All in One SEO Pack plugin settings."
+msgstr "All in One SEO Pack プラグインの設定をエクスポート・インポートします。"
+
+#: admin/aioseop_module_class.php:2669
+msgid "All in One SEO Options Updated."
+msgstr "All in One SEO 設定を更新しました。"
+
+#: modules/aioseop_opengraph.php:397
+msgid "Select OG:Image Source"
+msgstr "OG:Image ソースを選択"
+
+#: modules/aioseop_opengraph.php:606 modules/aioseop_opengraph.php:707
+msgid "Social Profile Links"
+msgstr "ソーシャルプロフィールリンク"
+
+#: modules/aioseop_opengraph.php:603
+msgid "Show Facebook Author on Articles"
+msgstr "記事に Facebook の著者を表示 "
+
+#: admin/aioseop_module_class.php:1691
+msgid "Click here for documentation on this setting"
+msgstr "この設定の説明はここをクリック（英語）"
+
+#: modules/aioseop_performance.php:253
+msgid "PHP Max Script Execute Time"
+msgstr "PHP 最大スクリプト実行時間"
+
+#: modules/aioseop_performance.php:250
+msgid "PHP Memory Limit"
+msgstr "PHP メモリー制限"
+
+#: modules/aioseop_performance.php:249
+msgid "PHP Allow URL fopen"
+msgstr "PHP URL fopen を許可"
+
+#: modules/aioseop_performance.php:32 modules/aioseop_performance.php:44
+msgid "Use the system default"
+msgstr "システム標準を使う"
+
+#: aioseop_class.php:3123
+msgid "Thank you for running the latest and greatest All in One SEO Pack ever! New since 2.2: Control who accesses your site with the new Robots.txt Editor and File Editor modules!  Enable them from the Feature Manager.  Remember to review your settings, we have added some new ones!"
+msgstr "これまで、最新かつ最高の All in One SEO Pack を利用していただきありがとうございます！2.2からの新機能 : 新しいrobots.txtのエディタとファイルエディタモジュールを使用してサイトにアクセス管理！機能管理からこれらは利用可能です。設定を確認することを忘れないでください。いくつかの新しい機能が追加されました！"
+
+#: admin/display/general-metaboxes.php:140
+msgid "Access our Premium Support Forums"
+msgstr "プレミアムサポートフォーラムにアクセス"
+
+#. translators: 'bots' refers to user agents/web robots that misbehave.
+#: modules/aioseop_feature_manager.php:63
+msgid "Stop badly behaving bots from slowing down your website."
+msgstr "ひどい振る舞いをするボットによってサイトの表示速度が落ちることを防止します。"
+
+#: modules/aioseop_feature_manager.php:69
+msgid "Optimize performance related to SEO and check your system status."
+msgstr "システムの状態の確認と SEO に関連するパフォーマンスを最適化します。"
+
+#: modules/aioseop_sitemap.php:173
+msgid "Notify search engines based on the selected schedule, and also update static sitemap daily if in use. (this uses WP-Cron, so make sure this is working properly on your server as well)"
+msgstr "選択したスケジュールに基づいて、検索エンジンに通知し、また日々、使用中の静的なサイトマップを更新します。（ WP-cron がサーバー上で正常に動作していることを確認し、使用します）"
+
+#: modules/aioseop_sitemap.php:174
+msgid "Organize sitemap entries into distinct files in your sitemap. Enable this only if your sitemap contains over 50,000 URLs or the file is over 5MB in size."
+msgstr "サイトマップ内の個別のファイルにサイトマップのエントリを整理します。サイトマップは、50,000以上のURLが含まれているか、ファイルのサイズは5メガバイトを超えている場合にのみ有効にします。"
+
+#: modules/aioseop_sitemap.php:182
+msgid "Places a link to your Sitemap.xml into your virtual Robots.txt file."
+msgstr "仮想 Robots.txt ファイルに Sitemap.xml へのリンクを配置します。"
+
+#: modules/aioseop_importer_exporter.php:29
+msgid "Select which Post Types you want to export your All in One SEO Pack meta data for.<br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "All in One SEO Pack のメタデータにエクスポートしたい投稿タイプを選択してください。<br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>この設定の説明はここをクリック（英語）</a>"
+
+#: modules/aioseop_importer_exporter.php:25
+msgid "You may choose to export settings from active modules, and content from post data.<br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "稼働中のモジュールやコンテンツの投稿データからエクスポート設定を選んでください。<br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>この設定の説明はここをクリック（英語）</a>"
+
+#: modules/aioseop_importer_exporter.php:21
+msgid "Select a valid All in One SEO Pack ini file and click 'Import' to import options from a previous state or install of All in One SEO Pack.<br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "有効な All in One SEO Pack の初期ファイルを選び、 All in One SEO Packのインストールや以前の状況からオプションをインポートするために ' インポート ' をクリックしてください。<br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>この設定の説明はここをクリック（英語）この設定の説明はここをクリック（英語）</a>"
+
+#: modules/aioseop_performance.php:22
+msgid "This setting allows you to raise your PHP execution time to a reasonable value."
+msgstr "この設定では、PHP の実行時間を妥当な値に上げることができます。"
+
+#: modules/aioseop_opengraph.php:1704
+msgid "Choose a default value that best describes the content of your post type."
+msgstr "投稿タイプの内容を最もよく説明するデフォルト値を選択します。"
+
+#: modules/aioseop_opengraph.php:1023
+msgid "Scan your site for duplicate social meta tags."
+msgstr "サイトをスキャンして、重複したソーシャルメタタグを探しましょう。"
+
+#: modules/aioseop_opengraph.php:598
+msgid "Show Facebook Publisher on Articles"
+msgstr "Facebook Publisher の記事を表示"
+
+#: modules/aioseop_opengraph.php:540
+msgid "Use Post Tags In Article Tags"
+msgstr "記事タグで投稿タグを使用"
+
+#: modules/aioseop_opengraph.php:130
+msgid "Add the name of the person or organization who owns these profiles."
+msgstr "これらのプロファイルを所有する個人または組織の名前を追加します。"
+
+#: modules/aioseop_opengraph.php:118
+msgid "Use post tags in generated article tags."
+msgstr "生成された記事タグに投稿タグを使用します。"
+
+#: modules/aioseop_opengraph.php:117
+msgid "Use categories in generated article tags."
+msgstr "生成された記事タグにカテゴリーを使用します。"
+
+#: modules/aioseop_opengraph.php:116
+msgid "Use keywords in generated article tags."
+msgstr "生成された記事タグにキーワードを使用します。"
+
+#: inc/aioseop_functions.php:606
+msgid "You should avoid duplicate social meta tags. You can use these free tools from Facebook and Twitter to validate your social meta and check for errors:"
+msgstr "ソーシャルメタタグが重複しないようにする必要があります。 FacebookやTwitterのこれらの無料ツールを使ってソーシャルメタを検証し、エラーをチェックすることができます : "
+
+#: inc/aioseop_functions.php:404
+msgid "Unauthorized access; try reloading the page."
+msgstr "不正アクセス ; ページを再読み込みしてみてください。"
+
+#: inc/aioseop_functions.php:527
+msgid "Row %s not found; no rows were deleted."
+msgstr "行 %sが見つかりません ; 行は削除されませんでした。"
+
+#: inc/aioseop_functions.php:604
+msgid "All in One SEO Pack has detected that a plugin(s) or theme is also outputting social meta tags on your site. You can view this social meta in the source code of your site (check your browser help for instructions on how to view source code)."
+msgstr "All in One SEO Pack に含まれるプラグイン（複数可）またはテーマはまた、あなたのサイトにソーシャルメタタグを出力していることを検出しました。サイトのソースコード内でこのソーシャルメタ（ソースコードを表示する方法については、ブラウザのヘルプを確認してください）表示することができます。"
+
+#: inc/aioseop_functions.php:616
+msgid "Please refer to the document for each tool for help in using these to debug your social meta."
+msgstr "ソーシャルメタをデバッグするためにこれらを使用する際の助けのための各ツールのドキュメントを参照してください。"
+
+#: modules/aioseop_importer_exporter.php:464
+msgid "<b>Warning:</b> This following post could not be found: <b>\"%s\"</b>"
+msgstr "<b>警告 : </b> 次の投稿が見つかりませんでした : <b>\"%s\"</b>"
+
+#: modules/aioseop_performance.php:318
+#: modules/aioseop_importer_exporter.php:518
+msgid "Settings export file for All in One SEO Pack"
+msgstr "All in One SEO Pack 用のエクスポートファイル設定"
+
+#: modules/aioseop_opengraph.php:89
+msgid "Run shortcodes that appear in social title meta tags."
+msgstr "ソーシャルタイトルメタタグに表示されるショートコードを実行します。"
+
+#: modules/aioseop_opengraph.php:90
+msgid "Run shortcodes that appear in social description meta tags."
+msgstr "ソーシャル記述メタタグに表示されるショートコードを実行します。"
+
+#: modules/aioseop_opengraph.php:91
+msgid "The Site Name is the name that is used to identify your website."
+msgstr "サイト名はあなたのウェブサイトを識別するために使用される名前です。"
+
+#: modules/aioseop_opengraph.php:92
+msgid "The Home Title is the Open Graph title for your home page."
+msgstr "ホームタイトルは、あなたのホームページのオープングラフのタイトルです。"
+
+#: modules/aioseop_opengraph.php:93
+msgid "The Home Description is the Open Graph description for your home page."
+msgstr "ホームの説明は、あなたのホームページのオープングラフの説明です。"
+
+#: modules/aioseop_opengraph.php:94
+msgid "The Home Image is the Open Graph image for your home page."
+msgstr "ホームイメージは、あなたのホームページのオープングラフイメージです。"
+
+#: modules/aioseop_opengraph.php:96
+msgid "This option lets you choose which image will be displayed by default for the Open Graph image. You may override this on individual posts."
+msgstr "このオプションは、オープングラフイメージのためにデフォルトで表示される画像を選択することができます。個々の投稿でこれをオーバーライドできます。"
+
+#: modules/aioseop_opengraph.php:97
+msgid "This option lets you fall back to the default image if no image could be found above."
+msgstr "このオプションは、画像が上から見つからなかった場合は、デフォルトの画像にフォールバックすることができます。"
+
+#: modules/aioseop_opengraph.php:98
+msgid "This option sets a default image that can be used for the Open Graph image. You can upload an image, select an image from your Media Library or paste the URL of an image here."
+msgstr "このオプションは、オープングラフイメージのために使用することができ、デフォルトの画像を設定します。画像をアップロードしたメディアライブラリから画像を選択するか、ここに画像のURLを貼り付けることができます。"
+
+#: modules/aioseop_opengraph.php:99
+msgid "This option lets you set a default width for your images, where unspecified."
+msgstr "このオプションは、指定されていないあなたのイメージのためのデフォルトの幅を設定できます。"
+
+#: modules/aioseop_opengraph.php:100
+msgid "This option lets you set a default height for your images, where unspecified."
+msgstr "このオプションは、指定されていないあなたのイメージのためのデフォルトの高さを設定することができます。"
+
+#: modules/aioseop_opengraph.php:101
+msgid "Enter the name of a custom field (or multiple field names separated by commas) to use that field to specify the Open Graph image on Pages or Posts."
+msgstr "固定ページまたは投稿上のグラフを開くイメージを指定するには、そのフィールドを使用するカスタムフィールドの名前（またはカンマで区切られた複数のフィールド名）を入力します。"
+
+#: modules/aioseop_opengraph.php:102
+msgid "This option lets you select the Open Graph image that will be used for this Page or Post, overriding the default settings."
+msgstr "このオプションは、デフォルトの設定を上書きするとこの固定ページまたは投稿のために使用されるオープングラフイメージを選択できます。"
+
+#: modules/aioseop_opengraph.php:103
+msgid "This option lets you upload an image to use as the Open Graph image for this Page or Post."
+msgstr "このオプションを使用すると、この固定ページまたは投稿のためのオープングラフイメージとして使用する画像をアップロードできます。"
+
+#: modules/aioseop_opengraph.php:106
+msgid "This option lets you specify a link to the Open Graph video used on this Page or Post."
+msgstr "このオプションを使用すると、この固定ページまたは投稿に使用されるグラフを開くビデオへのリンクを指定することができます。"
+
+#: modules/aioseop_opengraph.php:111
+msgid "Enter the Twitter username associated with your website here."
+msgstr "ここにウェブサイトに関連した Twitter のユーザー名を入力します。"
+
+#: modules/aioseop_opengraph.php:112
+msgid "Allows your authors to be identified by their Twitter usernames as content creators on the Twitter cards for their posts."
+msgstr "著者は彼らの記事のための Twitter のカード上のコンテンツクリエイターとしての Twitter のユーザー名によって識別することができるようにします。"
+
+#: modules/aioseop_opengraph.php:115
+msgid "Automatically generate article tags for Facebook type article when not provided."
+msgstr "提供されていないときに、自動的に Facebook のタイプの記事の記事のタグを生成します。"
+
+#: modules/aioseop_opengraph.php:119
+msgid "Select which Post Types you want to use All in One SEO Pack to set Open Graph meta values for."
+msgstr "あなたはオープングラフメタ値を設定するには、 All in One SEO Pack を使用したい投稿タイプを選択します。"
+
+#: modules/aioseop_opengraph.php:120
+msgid "This is the Open Graph title of this Page or Post."
+msgstr "これは、この固定ページまたは投稿のオープングラフタイトルです。"
+
+#: modules/aioseop_opengraph.php:121
+msgid "This is the Open Graph description of this Page or Post."
+msgstr "これは、この固定ページまたは投稿のオープングラフの記述です。"
+
+#: modules/aioseop_opengraph.php:122
+msgid "Select the Open Graph type that best describes the content of this Page or Post."
+msgstr "この固定ページまたは投稿の内容をよく説明するオープングラフタイプを選択します。"
+
+#: modules/aioseop_opengraph.php:123
+msgid "Press this button to have Facebook re-fetch and debug this page."
+msgstr "このボタンを押すと、Facebookがこのページを再フェッチし、デバッグしています。"
+
+#: modules/aioseop_opengraph.php:124
+msgid "This Open Graph meta allows you to add a general section name that best describes this content."
+msgstr "このオープングラフメタはこのコンテンツをよく説明する一般的なセクション名を追加することができます。"
+
+#: modules/aioseop_opengraph.php:125
+msgid "This Open Graph meta allows you to add a list of keywords that best describe this content."
+msgstr "このオープングラフメタはこのコンテンツをよく説明するキーワードのリストを追加することができます。"
+
+#: modules/aioseop_opengraph.php:126
+msgid "Link articles to the Facebook page associated with your website."
+msgstr "ウェブサイトに関連付けられているFacebookページへのリンクの記事。"
+
+#: modules/aioseop_opengraph.php:127
+msgid "Allows your authors to be identified by their Facebook pages as content authors on the Opengraph meta for their articles."
+msgstr "著者は、その記事のためオープングラフメタ上のコンテンツ作成者としての自分の Facebook のページによって識別することができるようにします。"
+
+#: modules/aioseop_performance.php:251
+msgid "PHP Max Upload Size"
+msgstr "PHP最大アップロードサイズ"
+
+#: modules/aioseop_performance.php:252
+msgid "PHP Max Post Size"
+msgstr "PHP 最大ポストサイズ"
+
+#: modules/aioseop_performance.php:247
+msgid "SQL Mode"
+msgstr "SQL モード"
+
+#: modules/aioseop_opengraph.php:86
+msgid "Checking this box will use the Home Title and Home Description set in All in One SEO Pack, General Settings as the Open Graph title and description for your home page."
+msgstr "このボックスをチェックすると、 All in One SEO Pack の一般設定で設定されたタイトルと説明を、 Open Graph のホームページのタイトルと説明として使用するようになります。"
+
+#: admin/display/general-metaboxes.php:119
+msgid "Sign up today and receive a free copy of the e-book 5 SEO Tips for WordPress ($39 value)."
+msgstr "今すぐサインアップして、 WordPress の SEO における5つのヒントの電子書籍 ($39.00相当) を手に入れましょう。"
+
+#: modules/aioseop_opengraph.php:109
+msgid "Select the default type of Twitter Card to display."
+msgstr "表示する Twitter カードのデフォルトタイプを選択してください。"
+
+#: aioseop_class.php:3200
+msgid "%%tax_%1$s%% - This post's associated %2$s taxonomy title"
+msgstr "%%tax_%1$s%% - この投稿は %2$s タクソノミータイトルに関連しています。"
+
+#: modules/aioseop_importer_exporter.php:415
+msgid "<b>Warning:</b> Line not matched: <b>\"%1$s\"</b>, On Line: <b>%2$s</b>"
+msgstr "<b>警告 : </b> 行が一致しません : <b>\"%1$s\"</b>, On Line: <b>%2$s</b>"
+
+#: modules/aioseop_opengraph.php:331
+msgid " characters. Open Graph allows up to a maximum of %1$s chars for the %2$s."
+msgstr "文字。グラフを開くには、%2$s の 最大 %1$s 文字まで使用できます。"
+
+#: aioseop_class.php:3096 aioseop_class.php:3114
+msgid "Welcome to Version %s!"
+msgstr "バージョン%sにようこそ！"
+
+#: aioseop_class.php:3115
+msgid "Thank you for running the latest and greatest All in One SEO Pack ever! Please review your settings, as we're always adding new features for you!"
+msgstr "最新かつ最高の All in One SEO Pack のご利用ありがとうございます。新機能を追加し続けていますので、設定を確認してください。"
+
+#: aioseop_class.php:3904
+msgid "Debug Warning: All in One SEO Pack meta data was included again from %1$s filter. Called %2$s times!"
+msgstr "デバッグ警告: All in One SEO Pack のメタデータが %1$s のフィルターから再読込されています。%2$s回読み込まれています !"
+
+#: modules/aioseop_feature_manager.php:46
+msgid "Generate and validate your robots.txt file to guide search engines through your site."
+msgstr "robots.txt ファイルを生成して検証し、検索エンジンにサイトを説明します。"
+
+#: admin/display/general-metaboxes.php:117
+msgid "Join our mailing list for tips, tricks, and WordPress secrets."
+msgstr "WordPress の秘密やコツ、ヒントを紹介するメーリングリスト (英語) に登録しましょう。"
+
+#: aioseop_class.php:912
+msgid "UPGRADE TO PRO VERSION"
+msgstr "PRO VERSION へ更新"
+
+#: admin/aioseop_module_class.php:2390
+msgid " characters. Most search engines use a maximum of %1$s chars for the %2$s."
+msgstr "文字。ほとんどの検索エンジンの%2$sは最大%1$s文字です。"
+
+#: modules/aioseop_sitemap.php:1151 admin/aioseop_module_class.php:2657
+msgid "Security Check - If you receive this in error, log out and back in to WordPress"
+msgstr "セキュリティ確認 - このエラーが表示されたら、一度 WordPress をログアウトして再度ログインしてください。"
+
+#: modules/aioseop_opengraph.php:129
+msgid "Add URLs for your website's social profiles here (Facebook, Twitter, Google+, Instagram, LinkedIn), one per line."
+msgstr "ウェブサイトのソーシャルプロフィール (Facebook, Twitter, Google +, Instagram, LinkedIn) を、1行につき1URL 追加します。"
+
+#: modules/aioseop_performance.php:21
+msgid "This setting allows you to raise your PHP memory limit to a reasonable value. Note: WordPress core and other WordPress plugins may also change the value of the memory limit."
+msgstr "この設定を使用すると、PHP のメモリ制限を適切な値に引き上げることができます。注: WordPress コアや他の WordPress プラグインでもメモリ制限の値を変更する可能性があります。"
+
+#: modules/aioseop_feature_manager.php:33
+msgid "Create and manage your XML Sitemaps using this feature and submit your XML Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "XML サイトマップを作成・管理し、Google, Bing/Yahoo, Ask.com に XML サイトマップを送信します。"
+
+#: modules/aioseop_opengraph.php:108
+msgid "Enter the height for your Open Graph video in pixels (i.e. 600)."
+msgstr "Open Graph の動画の高さをピクセル単位で入力します (例: 600)。"
+
+#: modules/aioseop_opengraph.php:107
+msgid "Enter the width for your Open Graph video in pixels (i.e. 600)."
+msgstr "Open Graph の動画の幅をピクセル単位で入力します (例: 600)。"
+
+#: modules/aioseop_opengraph.php:105
+msgid "Enter the height for your Open Graph image in pixels (i.e. 600)."
+msgstr "Open Graph の画像の高さをピクセル単位で入力します (例: 600)。"
+
+#: modules/aioseop_opengraph.php:104
+msgid "Enter the width for your Open Graph image in pixels (i.e. 600)."
+msgstr "Open Graph の画像の幅をピクセル単位で入力します (例: 600)。"
+
+#: modules/aioseop_opengraph.php:128
+msgid "Are the social profile links for your website for a person or an organization?"
+msgstr "ウェブサイトのソーシャルプロフィールリンクは、個人と組織どちらのものですか ?"
+
+#: modules/aioseop_sitemap.php:181
+msgid "Create a compressed sitemap file in .xml.gz format."
+msgstr " .xml.gz フォーマットに圧縮したサイトマップファイルを作成します。"
+
+#: modules/aioseop_sitemap.php:179
+msgid "Include Author Archives in your sitemap."
+msgstr "サイトマップに投稿者アーカイブを含めます。"
+
+#: modules/aioseop_sitemap.php:178
+msgid "Include Date Archives in your sitemap."
+msgstr "サイトマップに日付アーカイブを含めます。"
+
+#: modules/aioseop_sitemap.php:177
+msgid "Select which taxonomy archives appear in your sitemap"
+msgstr "サイトマップ内に表示するタクソノミーアーカイブを選択します。"
+
+#: modules/aioseop_sitemap.php:176
+msgid "Select which Post Types appear in your sitemap."
+msgstr "サイトマップ内に表示する投稿タイプを選択します。"
+
+#: modules/aioseop_sitemap.php:175
+msgid "Allows you to specify the maximum number of posts in a sitemap (up to 50,000)."
+msgstr "サイトマップ内の最大投稿数を指定することができます(最大50,000)。"
+
+#: modules/aioseop_robots.php:98
+msgid "Create a Robots.txt File"
+msgstr "Robots.txt ファイルを作成"
+
+#: modules/aioseop_performance.php:23
+msgid "Use output buffering to ensure that the title gets rewritten. Enable this option if you run into issues with the title tag being set by your theme or another plugin."
+msgstr "出力バッファリングを使用して、タイトルが確実に書き換えられるようにします。テーマや他のプラグインによるタイトルタグの書き換えが発生してしまう場合、この設定を有効化してください。"
+
+#: modules/aioseop_opengraph.php:612
+msgid "Person or Organization?"
+msgstr "個人または組織のどちらですか ?"
+
+#: admin/display/general-metaboxes.php:160
+msgid "Getting started? Read the Beginners Guide"
+msgstr "初めてご利用ですか ? 初心者向けガイドをお読みください"
+
+#: modules/aioseop_importer_exporter.php:156
+msgid ""
+"You may change this by activating or deactivating\n"
+"\t\t\t\t\t\tmodules in the Feature Manager."
+msgstr "これを変更するには「機能管理」でモジュールを有効化または停止します。"
+
+#: modules/aioseop_importer_exporter.php:64
+msgid ""
+"Note: If General Settings is checked, the\n"
+"\t\t\t\t\t\t\t\tGeneral Settings, the Feature Manager settings,\n"
+"\t\t\t\t\t\t\t\tand the following currently active modules will\n"
+"\t\t\t\t\t\t\t\thave their settings data exported:"
+msgstr "注意: 一般設定をチェックすると、一般設定、機能管理設定および以下の現在有効なモジュールのデータもエクスポートします:"
+
+#: inc/aioseop_functions.php:605
+msgid "You may prefer to use the social meta tags that are being output by the other plugin(s) or theme. If so, then you should deactivate this Social Meta feature in All in One SEO Pack Feature Manager."
+msgstr "他のプラグインやテーマで出力するソーシャルメタタグを使用したい場合、All in One SEO Pack の「機能管理」でソーシャルメタ機能を停止してください。"
+
+#: admin/aioseop_module_class.php:2429
+msgid "Click for Help!"
+msgstr "クリックしてヘルプを表示 !"
+
+#: modules/aioseop_importer_exporter.php:115
+msgid "Export"
+msgstr "エクスポート"
+
+#: modules/aioseop_opengraph.php:80
+msgid "Website"
+msgstr "サイト"
+
+#: modules/aioseop_opengraph.php:52
+msgid "Author"
+msgstr "作成者"
+
+#: inc/aioseop_functions.php:269
+msgid "Please wait..."
+msgstr "お待ちください…"
+
+#: modules/aioseop_performance.php:262
+msgid "Active Theme"
+msgstr "現在のテーマ"
+
+#: aioseop_class.php:200
+msgid "%404_title% - Additional 404 title input"
+msgstr "%404_title% - 404エラータイトルの追加"
+
+#: aioseop_class.php:203
+msgid "%page% - The page number"
+msgstr "%page% - ページの番号"
+
+#: aioseop_class.php:198
+msgid "%request_url% - The original URL path, like \"/url-that-does-not-exist/\""
+msgstr "%request_url% - オリジナルのURLパス。例えば\"/url-that-does-not-exist/\""
+
+#: aioseop_class.php:199
+msgid "%request_words% - The URL path in human readable form, like \"Url That Does Not Exist\""
+msgstr "%request_words% - URLパスの表示フォーム。例えば「このページは存在しません。」など。"
+
+#: aioseop_class.php:852
+msgid "Additional Front Page Headers:"
+msgstr "フロントページのヘッダー追加："
+
+#: aioseop_class.php:846
+msgid "Additional Page Headers:"
+msgstr "固定ページのヘッダーに追加記入"
+
+#: aioseop_class.php:840
+msgid "Additional Post Headers:"
+msgstr "投稿のヘッダーに追加記入"
+
+#: aioseop_class.php:476
+msgid "Archive Title Format:"
+msgstr "アーカイブのタイトルフォーマット"
+
+#: aioseop_class.php:365
+msgid "Home Title:"
+msgstr "ホームタイトル:"
+
+#: aioseop_class.php:458
+msgid "Page Title Format:"
+msgstr "固定ページタイトルフォーマット:"
+
+#: aioseop_class.php:464
+msgid "Post Title Format:"
+msgstr "投稿タイトルのフォーマット"
+
+#: aioseop_class.php:202 aioseop_class.php:3193 aioseop_class.php:3247
+msgid "The following macros are supported:"
+msgstr "以下のマクロがサポートされています。:"
+
+#: aioseop_class.php:749
+msgid "Use Categories for META keywords:"
+msgstr "メタキーワードとしてカテゴリーを使う："
+
+#: aioseop_class.php:754
+msgid "Use Tags for META keywords:"
+msgstr "メタキーワードとしてタグを使う"
+
+#: aioseop_class.php:776
+msgid "Use noindex for Tag Archives:"
+msgstr "タグをnoindexにする："
+
+#: aioseop_class.php:927 modules/aioseop_opengraph.php:551
+msgid "Title"
+msgstr "タイトル"
+
+#: aioseop_class.php:982 modules/aioseop_opengraph.php:697
+msgid "Home Page Settings"
+msgstr "ホームページ設定"
+
+#: aioseop_class.php:1084
+msgid "Keyword Settings"
+msgstr "キーワード設定"
+
+#: aioseop_class.php:987
+msgid "Title Settings"
+msgstr "タイトル設定"
+
+#: aioseop_class.php:957
+msgid "Exclude From Sitemap"
+msgstr "サイトマップから除外する"
+
+#: aioseop_class.php:958
+msgid "Disable on this page/post"
+msgstr "このページや投稿で無効にする"
+
+#: aioseop_class.php:960
+msgid "Disable Google Analytics"
+msgstr "Google Analytics を無効にする"
+
+#: aioseop_class.php:443
+msgid "Use Original Title:"
+msgstr "元のタイトルを利用:"
+
+#: aioseop_class.php:1017
+msgid "Webmaster Verification"
+msgstr "ウェブマスター認証"
+
+#: aioseop_class.php:1012
+msgid "Display Settings"
+msgstr "表示設定"
+
+#: aioseop_class.php:772
+msgid "Use noindex for Author Archives:"
+msgstr "投稿者アーカイブに noindex を適用:"
+
+#: aioseop_class.php:1022
+msgid "Google Settings"
+msgstr "Google 設定"
+
+#: aioseop_class.php:941
+msgid "Keywords (comma separated)"
+msgstr "キーワード (コンマ区切り)"
+
+#: aioseop_class.php:664
+msgid "Additional Domains:"
+msgstr "追加ドメイン:"
+
+#: inc/commonstrings.php:39
+msgid "Display Menu At The Top:"
+msgstr "上部にメニューを表示:"
+
+#: inc/commonstrings.php:38
+msgid "Display Menu In Admin Bar:"
+msgstr "管理バーにメニューを表示:"
+
+#: aioseop_class.php:725
+msgid "Enhanced Link Attribution:"
+msgstr "拡張リンク属性:"
+
+#: aioseop_class.php:858
+msgid "Additional Blog Page Headers:"
+msgstr "追加ブログページヘッダー:"
+
+#: aioseop_class.php:488
+msgid "Author Archive Title Format:"
+msgstr "投稿者アーカイブのタイトル形式:"
+
+#: aioseop_class.php:482
+msgid "Date Archive Title Format:"
+msgstr "日付アーカイブのタイトル形式:"
+
+#: aioseop_class.php:452
+msgid "Home Page Title Format:"
+msgstr "ホームページタイトル形式:"
+
+#: aioseop_class.php:238
+msgid "Check this to ask search engines not to index the 404 page."
+msgstr "検索エンジン対し 404 ページをインデックスしないよう支持したい場合はチェックを入れてください。"
+
+#: aioseop_class.php:385
+msgid "Use Keywords:"
+msgstr "キーワードを使用:"
+
+#: aioseop_class.php:354
+msgid "Don't display this page in the sitemap."
+msgstr "サイトマップにこのページを表示しない。"
+
+#: aioseop_class.php:349
+msgid "The META description for this page. This will override any autogenerated descriptions."
+msgstr "このページのメタディスクリプション。記入すると自動生成ディスクリプションを上書きします。"
+
+#: aioseop_class.php:222
+msgid "Use this option to enable tracking of multiple or additional domains."
+msgstr "複数または追加ドメインを追跡するにはこのオプションを有効にします。"
+
+#: aioseop_class.php:819
+msgid "Never Shorten Long Descriptions:"
+msgstr "長いディスクリプションを短縮しない:"
+
+#: aioseop_class.php:375
+msgid "Home Description:"
+msgstr "ホームディスクリプション:"
+
+#: aioseop_class.php:433 modules/aioseop_performance.php:63
+msgid "Force Rewrites:"
+msgstr "強制リライト:"
+
+#: aioseop_class.php:506
+msgid "Description Format"
+msgstr "ディスクリプションの形式"
+
+#: aioseop_class.php:564
+msgid "Google Plus Default Profile:"
+msgstr "Google+ デフォルトプロフィール:"
+
+#: aioseop_class.php:612
+msgid "Specify Publisher URL:"
+msgstr "パブリッシャー URL を指定:"
+
+#: aioseop_class.php:768
+msgid "Use noindex for Date Archives:"
+msgstr "日付別アーカイブに noindex を使用:"
+
+#: aioseop_class.php:780
+msgid "Use noindex for the Search page:"
+msgstr "検索ページに noindex を使用:"
+
+#: aioseop_class.php:784
+msgid "Use noindex for the 404 page:"
+msgstr "404 ページに noindex を使用:"
+
+#: aioseop_class.php:788
+msgid "Use noindex for Taxonomy Archives:"
+msgstr "タクソノミーアーカイブに noindex を使用:"
+
+#: aioseop_class.php:801
+msgid "Autogenerate Descriptions:"
+msgstr "ディスクリプションを自動生成:"
+
+#: aioseop_class.php:823
+msgid "Use Schema.org Markup"
+msgstr "Schema.org マークアップを使用"
+
+#: aioseop_class.php:389 aioseop_class.php:405 aioseop_class.php:428
+#: aioseop_class.php:438 aioseop_class.php:447 aioseop_class.php:590
+#: aioseop_class.php:606 aioseop_class.php:628
+#: modules/aioseop_performance.php:67
+msgid "Enabled"
+msgstr "有効"
+
+#: aioseop_class.php:652
+msgid "Track Multiple Domains:"
+msgstr "複数のドメインを追跡する:"
+
+#: aioseop_class.php:677
+msgid "Anonymize IP Addresses:"
+msgstr "IPアドレスを匿名化 :"
+
+#: aioseop_class.php:921
+msgid "Preview Snippet"
+msgstr "スニペットのプレビュー"
+
+#: aioseop_class.php:569
+msgid "Disable Google Plus Profile:"
+msgstr "Google+ プロフィールを無効化:"
+
+#: aioseop_class.php:912
+msgid "Upgrade to All in One SEO Pack Pro Version"
+msgstr " All in One SEO Pack Pro バージョンへアップグレード"
+
+#: aioseop_class.php:810
+msgid "Run Shortcodes In Autogenerated Descriptions:"
+msgstr "自動生成された説明でショートコードを実行 : "
+
+#: aioseop_class.php:815
+msgid "Remove Descriptions For Paginated Pages:"
+msgstr "ページ区切り付きページの説明を削除 : "
+
+#: aioseop_class.php:827
+msgid "Unprotect Post Meta Fields:"
+msgstr "投稿メタフィールドの保護を解除 : "
+
+#: aioseop_class.php:586
+msgid "Advanced Authorship Options:"
+msgstr "高度な作成者情報オプション : "
+
+#: aioseop_class.php:596
+msgid "Display Google Authorship:"
+msgstr "Google の作成者情報を表示 :"
+
+#: aioseop_class.php:602
+msgid "Display Publisher Meta on Front Page:"
+msgstr "フロントページに出版社のメタを表示 : "
+
+#: aioseop_class.php:624
+msgid "Advanced Analytics Options:"
+msgstr "高度な分析オプション : "
+
+#: aioseop_class.php:640
+msgid "Tracking Domain:"
+msgstr "ドメインのトラッキング : "
+
+#: aioseop_class.php:689
+msgid "Display Advertiser Tracking:"
+msgstr "広告主のトラッキングを表示 : "
+
+#: aioseop_class.php:701
+msgid "Exclude Users From Tracking:"
+msgstr "トラッキングからユーザーを除外 : "
+
+#: aioseop_class.php:518
+msgid "Paged Format:"
+msgstr "複数ページのフォーマット"
+
+#: aioseop_class.php:356
+msgid "Disable Google Analytics on this page."
+msgstr "このページの Google Analytics を無効にします。"
+
+#: aioseop_class.php:355
+msgid "Disable SEO on this page."
+msgstr "このページの SEO を無効にします。"
+
+#: aioseop_class.php:246
+msgid "Check this to prevent your Description from being truncated regardless of its length."
+msgstr "説明の長さにかかわらず、説明文を切り捨てられるのを防ぐ場合はこれをチェックしてください。"
+
+#: aioseop_class.php:248
+msgid "Check this to unprotect internal postmeta fields for use with XMLRPC. If you don't know what that is, leave it unchecked."
+msgstr "XMLRPCを使用するために内部ポストメタフィールドの保護を解除するには、これをチェックしてください。これが何であるかわからない場合、オフのままにしてください。"
+
+#: aioseop_class.php:250
+msgid "Enter a comma separated list of pages here to be excluded by All in One SEO Pack.  This is helpful when using plugins which generate their own non-WordPress dynamic pages.  Ex: <em>/forum/, /contact/</em>  For instance, if you want to exclude the virtual pages generated by a forum plugin, all you have to do is add forum or /forum or /forum/ or and any URL with the word \\\"forum\\\" in it, such as http://mysite.com/forum or http://mysite.com/forum/someforumpage here and it will be excluded from All in One SEO Pack."
+msgstr "All in One SEO Pack から除外するページのリストをここにカンマで区切って入力してください。これは、WordPressで管理していない動的ページを使うプラグインなどを利用する際に役に立ちます。例:<em>/forum/, /contact/</em>たとえば、フォーラムプラグインによって生成された仮想ページを除外したい場合、 forum や /forum や /forum/ を追加するだけです。また、 http://mysite.com/forum や http://mysite.com/forum/someforumpage みたいな URL でも、対応します。"
+
+#: aioseop_class.php:713
+msgid "Track Outbound Links:"
+msgstr "外部へのリンクを追跡 : "
+
+#: aioseop_class.php:737
+msgid "Enhanced Ecommerce:"
+msgstr "拡張eコマース : "
+
+#: aioseop_class.php:759
+msgid "Dynamically Generate Keywords for Posts Page/Archives:"
+msgstr "動的に投稿ページ/アーカイブのためのキーワードを生成 : "
+
+#: aioseop_class.php:797
+msgid "Use nofollow for paginated pages/posts:"
+msgstr "ページ付けされたページ/投稿に nofollow を使用 :"
+
+#: aioseop_class.php:793
+msgid "Use noindex for paginated pages/posts:"
+msgstr "ページ付けされたページ/投稿に noindex を使用 : "
+
+#: aioseop_class.php:574
+msgid "Display Sitelinks Search Box:"
+msgstr "サイトリンク検索ボックスを表示 : "
+
+#: aioseop_class.php:577
+msgid "Set Preferred Site Name:"
+msgstr "優先サイト名を設定 : "
+
+#: aioseop_class.php:580
+msgid "Specify A Preferred Name:"
+msgstr "優先名を指定 : "
+
+#: aioseop_class.php:251
+msgid "What you enter here will be copied verbatim to the header of all Posts. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "ここで入力すると、すべての投稿のヘッダにそのままコピーされます。スタイルシートの参照さえ、あなたがヘッダーに追加したいものを入力できます。"
+
+#: aioseop_class.php:252
+msgid "What you enter here will be copied verbatim to the header of all Pages. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "ここで入力すると、すべての固定ページのヘッダにそのままコピーされます。スタイルシートの参照さえ、あなたがヘッダーに追加したいものを入力できます。"
+
+#: aioseop_class.php:347
+msgid "A preview of what this page might look like in search engine results."
+msgstr "このページが検索エンジンの検索結果にどのように見えるかのプレビュー。"
+
+#: aioseop_class.php:348
+msgid "A custom title that shows up in the title tag for this page."
+msgstr "このページのタイトルタグに表示するカスタムタイトル。"
+
+#: aioseop_class.php:253
+msgid "What you enter here will be copied verbatim to the header of the front page if you have set a static page in Settings, Reading, Front Page Displays. You can enter whatever additional headers you want here, even references to stylesheets. This will fall back to using Additional Page Headers if you have them set and nothing is entered here."
+msgstr "ここで入力すると、静的ページを設定したフロントページのヘッダにそのままコピーされます。スタイルシートの参照さえ、あなたがヘッダーに追加したいものを入力できます。もし、ここに入力をせず、設定すれば、Additional Page Headers を使用するようにフォールバックします。"
+
+#: aioseop_class.php:254
+msgid "What you enter here will be copied verbatim to the header of the home page if you have Front page displays your latest posts selected in Settings, Reading.  It will also be copied verbatim to the header on the Posts page if you have one set in Settings, Reading. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "設定されている最新投稿などが表示されるフロントページの場合、ここで入力したものがヘッダにそのままコピーされます。同じ設定を指定た場合は、投稿ページもヘッダにそのままコピーされます。スタイルシートの参照さえ、あなたがヘッダーに追加したいものを入力できます。"
+
+#: aioseop_class.php:350
+msgid "A comma separated list of your most important keywords for this page that will be written as META keywords."
+msgstr "このページで重要なキーワードをカンマで区切ってリストにしたら、 META キーワードとして設定されます。"
+
+#: aioseop_class.php:353
+msgid "Check this box to ask search engines not to follow links from this page."
+msgstr "検索エンジンにこのページをフォローしないように依頼するには、このボックスをチェックしてください。"
+
+#: aioseop_class.php:352
+msgid "Check this box to ask search engines not to index this page."
+msgstr "検索エンジンにこのページをインデックスしないように依頼するには、このボックスをチェックしてください。"
+
+#: aioseop_class.php:234
+msgid "Check this to ask search engines not to index Date Archives. Useful for avoiding duplicate content."
+msgstr "日付アーカイブページインデックスしないように検索エンジンに依頼する場合はチェックしてください。重複したコンテンツを回避するのに便利です。"
+
+#: aioseop_class.php:235
+msgid "Check this to ask search engines not to index Author Archives. Useful for avoiding duplicate content."
+msgstr "投稿者アーカイブをインデックスしないように検索エンジンに依頼する場合はチェックしてください。重複したコンテンツを回避するのに便利です。"
+
+#: aioseop_class.php:233
+msgid "Check this to ask search engines not to index Category Archives. Useful for avoiding duplicate content."
+msgstr "カテゴリーアーカイブをインデックスしないように検索エンジンに依頼するには、これを確認してください。重複したコンテンツを回避するのに便利です。"
+
+#: aioseop_class.php:236
+msgid "Check this to ask search engines not to index Tag Archives. Useful for avoiding duplicate content."
+msgstr "タグアーカイブをインデックスしないように検索エンジンに依頼する場合はチェックしてください。重複したコンテンツを回避するのに便利です。"
+
+#: aioseop_class.php:237
+msgid "Check this to ask search engines not to index the Search page. Useful for avoiding duplicate content."
+msgstr "検索ページをインデックスしないように検索エンジンに依頼する場合はチェックしてください。重複したコンテンツを回避するのに便利です。"
+
+#: aioseop_class.php:239
+msgid "Check this to ask search engines not to index custom Taxonomy archive pages. Useful for avoiding duplicate content."
+msgstr "カスタムタクソノミーアーカイブをインデックスしないように検索エンジンに依頼する場合はチェックしてください。重複したコンテンツを回避するのに便利です。"
+
+#: aioseop_class.php:240
+msgid "Check this to ask search engines not to index paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "ページネイションのページをインデックスしないように検索エンジンに依頼する場合はチェックしてください。重複したコンテンツを回避するのに便利です。"
+
+#: aioseop_class.php:241
+msgid "Check this to ask search engines not to follow links from paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "ページネイションのページの follow リンクをアーカイブをインデックスしないように検索エンジンに依頼する場合はチェックしてください。重複したコンテンツを回避するのに便利です。"
+
+#: aioseop_class.php:244
+msgid "Check this and shortcodes will get executed for descriptions auto-generated from content."
+msgstr "これをチェックして、ショートコードは、説明の自動生成されたコンテンツから実行されます。"
+
+#: aioseop_class.php:245
+msgid "Check this and your Meta Descriptions will be removed from page 2 or later of paginated content."
+msgstr "これをチェックして、2ページから以降のページのメタ記述を削除されます。"
+
+#: aioseop_class.php:230
+msgid "Set the default NOINDEX setting for each Post Type."
+msgstr "各投稿タイプのデフォルト NOINDEX の設定をします。"
+
+#: aioseop_class.php:231
+msgid "Set the default NOFOLLOW setting for each Post Type."
+msgstr "各投稿タイプのデフォルト NOFOLLOW の設定をします。"
+
+#: aioseop_class.php:228
+msgid "This enables support for the Enhanced Link Attribution in Google Analytics."
+msgstr "Google Analytics の拡張リンクのアトリビューションのサポートを有効にします。"
+
+#: aioseop_class.php:229
+msgid "This enables support for the Enhanced Ecommerce in Google Analytics."
+msgstr "Google Analytics の拡張eコマースのサポートを可能にします。"
+
+#: aioseop_class.php:224
+msgid "This enables support for IP Anonymization in Google Analytics."
+msgstr "Google Analytics の IP 匿名化のためのサポートを可能にします。"
+
+#: aioseop_class.php:227
+msgid "Check this if you want to track outbound links with Google Analytics."
+msgstr "Google Analytics とのアウトバウンドリンクを追跡したい場合は、これを確認してください。"
+
+#: aioseop_class.php:226
+msgid "Exclude logged-in users from Google Analytics tracking by role."
+msgstr "権限によって、Google Analytics トラッキングからログインユーザを除外します。"
+
+#: aioseop_class.php:225
+msgid "This enables support for the Display Advertiser Features in Google Analytics."
+msgstr "Google Analytics のディスプレイ広告主向けの機能のサポートを有効にします。"
+
+#: aioseop_class.php:223
+msgid "Add a list of additional domains to track here.  Enter one domain name per line without the http://."
+msgstr "追跡するためのドメインリストを追加します。 http:// なしで1行に1つのドメイン名を入力します。"
+
+#: aioseop_class.php:220
+msgid "Check to use advanced Google Analytics options."
+msgstr "高度な Google Analytics のオプションを使用することを確認してください。"
+
+#: aioseop_class.php:221
+msgid "Enter your domain name without the http:// to set your cookie domain."
+msgstr "ドメインをクッキーに設定するには、 http:// なしで自分のドメイン名を入力します。"
+
+#: aioseop_class.php:419
+msgid "Enable Custom Canonical URLs:"
+msgstr "カスタム Canonical URL を有効化:"
+
+#: aioseop_class.php:945
+msgid "Custom Canonical URL"
+msgstr "カスタム Canonical URL"
+
+#: aioseop_class.php:410
+msgid "Canonical URLs:"
+msgstr "Canonical URL:"
+
+#: aioseop_class.php:217
+msgid "Add markup to tell Google the preferred name for your website."
+msgstr "Google にあなたのウェブサイトのための好ましい名前を伝えるためにマークアップを追加します。"
+
+#: aioseop_class.php:208
+msgid "Enter your verification code here to verify your site with Bing Webmaster Tools.<br /><a href='https://semperplugins.com/documentation/bing-webmaster-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Bing Webmaster Tools に認証されるために認証コードを入力してください。<br /><a href='https://semperplugins.com/documentation/bing-webmaster-verification/' target='_blank'>この設定の説明はここをクリック（英語）</a>"
+
+#: aioseop_class.php:210
+msgid "Enter your Google+ Profile URL here to add the rel=“author” tag to your site for Google authorship. It is recommended that the URL you enter here should be your personal Google+ profile.  Use the Advanced Authorship Options below if you want greater control over the use of authorship."
+msgstr "ここに Google+ プロフィールのURLを入力して、サイトの Google 作成者に rel = \"author\" タグを追加します。 ここに入力するURLは、個人の Google+ プロフィールにすることをおすすめします。 著者の使用方法をより詳細に管理したい場合は、以下の Advanced Authorship Options を使用してください。"
+
+#: aioseop_class.php:201
+msgid "This string gets appended/prepended to titles of paged index pages (like home or archive pages)."
+msgstr "この文字列は、ページされたインデックスページのタイトル（ホームページやアーカイブページなど）に追加 / 前置されます。"
+
+#: inc/commonstrings.php:41
+msgid "Check this to add All in One SEO Pack to the Admin Bar for easy access to your SEO settings."
+msgstr "SEOの設定に簡単にアクセスするための管理バーに All in One SEO Pack を追加するには、これを確認してください。"
+
+#: aioseop_class.php:213
+msgid "This option allows you to control which types of pages you want to display rel=\\\"author\\\" on for Google authorship. The options include the Front Page (the homepage of your site), Posts, Pages, and any Custom Post Types. The Everywhere Else option includes 404, search, categories, tags, custom taxonomies, date archives, author archives and any other page template."
+msgstr "このオプションを使用すると、Google の原作者のために rel=\\\"author\\\" 表示するページの種類を制御することができます。オプションには、フロントページ（サイトのホームページ）、投稿、ページ、および任意のカスタム投稿タイプがあります。他のすべての場所のオプションは404、検索、カテゴリ、タグ、カスタム分類法、日付アーカイブ、著者のアーカイブおよび他のページのテンプレートが含まれています。"
+
+#: aioseop_class.php:214
+msgid "This option allows you to control whether rel=\\\"publisher\\\" is displayed on the homepage of your site. Google recommends using this if the site is a business website."
+msgstr "このオプションは、 rel=\\\"publisher\\\"  サイトのホームページ上に表示されるかどうかを制御することができます。 Google はサイトがビジネスのウェブサイトである場合、これを使用することをお勧めします。"
+
+#: aioseop_class.php:215
+msgid "The Google+ profile you enter here will appear on your homepage only as the rel=\\\"publisher\\\" tag. It is recommended that the URL you enter here should be the Google+ profile for your business."
+msgstr "Google+ では、ここで入力したプロファイルのみの rel=\\\"publisher\\\" タグとして自分のホームページに表示されます。あなたがここで入力した URL は、あなたのビジネスのための Google+ プロフィールでなければならないことをお勧めします。"
+
+#: aioseop_class.php:216
+msgid "Add markup to display the Google Sitelinks Search Box next to your search results in Google."
+msgstr "Google での検索結果の横に Google のサイトリンク検索ボックスを表示するためのマークアップを追加します。"
+
+#: aioseop_class.php:218
+msgid "Press the connect button to connect with Google Analytics; or if already connected, press the disconnect button to disable and remove any stored analytics credentials."
+msgstr "Google Analytics と接続するための接続ボタンを押してください。またはすでに接続されている場合、任意の保存された分析の資格情報を無効にして削除するには切断ボタンを押してください。"
+
+#: aioseop_class.php:219
+msgid "Enter your Google Analytics ID here to track visitor behavior on your site using Google Analytics."
+msgstr "Google Analytics を使用して、サイトでのユーザーの行動を追跡するためにここにあなたの Google Analytics のIDを入力します。"
+
+#: aioseop_class.php:559
+msgid "Pinterest Site Verification:"
+msgstr "Pinterest のサイト検証: "
+
+#: aioseop_class.php:500
+msgid "Search Title Format:"
+msgstr "検索時のタイトルフォーマット: "
+
+#: aioseop_class.php:494
+msgid "Tag Title Format:"
+msgstr "タグのタイトルフォーマット: "
+
+#: aioseop_class.php:470
+msgid "Category Title Format:"
+msgstr "カテゴリータイトルのフォーマット: "
+
+#: aioseop_class.php:390 aioseop_class.php:406 aioseop_class.php:429
+#: aioseop_class.php:439 aioseop_class.php:448 aioseop_class.php:591
+#: aioseop_class.php:607 aioseop_class.php:629
+#: modules/aioseop_performance.php:68
+msgid "Disabled"
+msgstr "無効"
+
+#: aioseop_class.php:394
+msgid "Home Keywords (comma separated):"
+msgstr "ホームキーワード (カンマ区切り):"
+
+#: aioseop_class.php:247
+msgid "Check this to support Schema.org markup, i.e., itemprop on supported metadata."
+msgstr "Schema.org markup をサポートする場合はこれをチェックしてください。すなわち、 itemprop のサポートされているメタデータ。"
+
+#: aioseop_class.php:212
+msgid "Enable this to display advanced options for controlling Google Plus authorship information on your website."
+msgstr "これを有効にすると、ウェブサイトで Google+ の著者情報を管理するための詳細オプションが表示されます。"
+
+#: aioseop_class.php:211
+msgid "Check this to remove the Google Plus field from the user profile screen."
+msgstr "これをチェックすると、ユーザープロフィール画面から Google+ のフィールドが削除されます。"
+
+#: inc/commonstrings.php:42
+msgid "Check this to move the All in One SEO Pack menu item to the top of your WordPress Dashboard menu."
+msgstr "これをチェックすると、 All in One SEO Pack のメニュー項目が WordPress ダッシュボードメニューの一番上に移動します。"
+
+#: aioseop_class.php:933 modules/aioseop_opengraph.php:559
+msgid "Description"
+msgstr "説明"
+
+#: aioseop_class.php:524
+msgid "SEO on only these Content Types:"
+msgstr "SEO を行うコンテンツタイプ:"
+
+#: aioseop_class.php:424
+msgid "Rewrite Titles:"
+msgstr "タイトルの書き換え:"
+
+#: aioseop_class.php:534
+msgid "Default to NOINDEX:"
+msgstr "デフォルトで NOINDEX にする:"
+
+#: aioseop_class.php:539
+msgid "Default to NOFOLLOW:"
+msgstr "デフォルトで NOFOLLOW にする:"
+
+#: aioseop_class.php:764
+msgid "Use noindex for Categories:"
+msgstr "カテゴリーに noindex を使用:"
+
+#: aioseop_class.php:835
+msgid "Exclude Pages:"
+msgstr "除外するページ:"
+
+#: aioseop_class.php:401
+msgid "Use Static Front Page Instead"
+msgstr "固定フロントページを代用"
+
+#: aioseop_class.php:864
+msgid "Log important events:"
+msgstr "重要なイベントを記録:"
+
+#: aioseop_class.php:618
+msgid "Google Analytics ID:"
+msgstr "Google アナリティクス ID:"
+
+#: aioseop_class.php:512
+msgid "404 Title Format:"
+msgstr "404タイトルの形式:"
+
+#: aioseop_class.php:204
+msgid "Use these checkboxes to select which Content Types you want to use All in One SEO Pack with."
+msgstr "チェックボックスを使用して All in One SEO Pack を使用する投稿タイプを選択します。"
+
+#: aioseop_class.php:206
+msgid "This lets you select which screens display the SEO Title, SEO Keywords and SEO Description columns."
+msgstr "SEO タイトル、SEO キーワード、 SEO ディスクリプションの各カラムを、どの画面で表示するか選択できます。"
+
+#: aioseop_class.php:544
+msgid "Show Column Labels for Custom Post Types:"
+msgstr "カスタム投稿タイプでカラムラベルを表示:"
+
+#: aioseop_class.php:209
+msgid "Enter your verification code here to verify your site with Pinterest.<br /><a href='https://semperplugins.com/documentation/pinterest-site-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "認証コードを入力し、Pinterest によるサイトの認証を行います。<br /><a href='https://semperplugins.com/documentation/pinterest-site-verification/' target='_blank'>この設定の説明はここをクリック</a>"
+
+#: aioseop_class.php:414
+msgid "No Pagination for Canonical URLs:"
+msgstr "Canonical URL にページネーションを含まない: "
+
+#: aioseop_class.php:351
+msgid "Override the canonical URLs for this post."
+msgstr "この投稿の Canonical URL を上書きします。"
+
+#: aioseop_class.php:207
+msgid "Enter your verification code here to verify your site with Google Search Console.<br /><a href='https://semperplugins.com/documentation/google-search-console-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "認証コードを入力し、Google Search Console でサイトを確認してください。<br /><a href='https://semperplugins.com/documentation/google-search-console-verification/' target='_blank'>この設定の説明はここをクリックしてください</a>"
+
+#: aioseop_class.php:183
+msgid "%search% - What was searched for"
+msgstr "%search% - 検索キーワード"
+
+#: aioseop_class.php:184
+msgid "This controls the format of Meta Descriptions.The following macros are supported:"
+msgstr "これは Meta Descriptions のフォーマットを制御します。以下のマクロがサポートされています："
+
+#: aioseop_class.php:189
+msgid "%wp_title% - The original WordPress title, e.g. post_title for posts"
+msgstr "%wp_title% - 設定した WordPress のタイトル。例えば、投稿のpost_title。"
+
+#: aioseop_class.php:195
+msgid "This controls the format of the title tag for the 404 page.<br />The following macros are supported:"
+msgstr "404 ページのタイトルタグのフォーマットを制御します。<br />次のマクロがサポートしています: "
+
+#: aioseop_class.php:139
+msgid "%category_title% - The (main) category of the post"
+msgstr "%category_title% - 投稿のカテゴリー名"
+
+#: aioseop_class.php:141 aioseop_class.php:3204
+msgid "%post_author_login% - This post's author' login"
+msgstr "%post_author_login% - この投稿の投稿者のログイン"
+
+#: aioseop_class.php:142 aioseop_class.php:3205
+msgid "%post_author_nicename% - This post's author' nicename"
+msgstr "%post_author_nicename% - この投稿の投稿者のニックネーム"
+
+#: aioseop_class.php:143 aioseop_class.php:3206
+msgid "%post_author_firstname% - This post's author' first name (capitalized)"
+msgstr "%post_author_firstname% - この投稿の投稿者の名前（大文字）"
+
+#: aioseop_class.php:144 aioseop_class.php:3207
+msgid "%post_author_lastname% - This post's author' last name (capitalized)"
+msgstr "%post_author_lastname% - この投稿の投稿者の姓（大文字）"
+
+#: aioseop_class.php:154
+msgid "%category_title% - The original title of the category"
+msgstr "%category_title% - カテゴリーのオリジナルタイトル"
+
+#: aioseop_class.php:178
+msgid "%tag% - The name of the tag"
+msgstr "%tag% - タグの名前"
+
+#: aioseop_class.php:173
+msgid "%author% - The original archive title given by wordpress, e.g. \"Steve\" or \"John Smith\""
+msgstr "%author% - WordPress が作成する投稿者別アーカイブのタイトル。例: \"田中太郎\"、\"鈴木\" など"
+
+#: aioseop_class.php:155
+msgid "%category_description% - The description of the category"
+msgstr "%category_description% - カテゴリーのディスクリプション"
+
+#: aioseop_class.php:175
+msgid "This controls the format of the title tag for Tag Archives.<br />The following macros are supported:"
+msgstr "タグアーカイブのタイトルタグのフォーマットを制御します。<br />次のマクロがサポートしてています : "
+
+#: aioseop_class.php:180
+msgid "This controls the format of the title tag for the Search page.<br />The following macros are supported:"
+msgstr "検索ページのタイトルタグのフォーマットを制御します。<br />次のマクロがサポートしています : "
+
+#: aioseop_class.php:170
+msgid "This controls the format of the title tag for Author Archives.<br />The following macros are supported:"
+msgstr "投稿者アーカイブのタイトルタグのフォーマットを制御します。<br />次のマクロがサポートしてています : "
+
+#: aioseop_class.php:151
+msgid "This controls the format of the title tag for Category Archives.<br />The following macros are supported:"
+msgstr "カテゴリーアーカイブのタイトルタグのフォーマットを制御します。<br />次のマクロがサポートしてています : "
+
+#: aioseop_class.php:160
+msgid "%archive_title - The original archive title given by wordpress"
+msgstr "%archive_title - wordpress によって与えられたアーカイブのタイトル"
+
+#: aioseop_class.php:168
+msgid "%year% - The original archive year given by wordpress, e.g. \"2007\""
+msgstr "%year% - WordPress によって与えられたアーカイブ年。例: \"2007\""
+
+#: aioseop_class.php:167
+msgid "%month% - The original archive month given by wordpress, e.g. \"August\""
+msgstr "%month% - WordPress によって与えられたアーカイブ月。例: \"8月\""
+
+#: aioseop_class.php:166
+msgid "%day% - The original archive day given by wordpress, e.g. \"17\""
+msgstr "%day% - WordPress によって与えられたアーカイブ日。例: \"17\""
+
+#: aioseop_class.php:165
+msgid "%date% - The original archive title given by wordpress, e.g. \"2007\" or \"2007 August\""
+msgstr "%date% - WordPress が作成するアーカイブのタイトル。例:「2007」または「2007 August」"
+
+#: aioseop_class.php:162
+msgid "This controls the format of the title tag for Date Archives.<br />The following macros are supported:"
+msgstr "日付アーカイブのタイトルタグのフォーマットを制御します。<br />次のマクロがサポートしてています: "
+
+#: aioseop_class.php:157
+msgid "This controls the format of the title tag for Custom Post Archives.<br />The following macros are supported:"
+msgstr "カスタム投稿アーカイブのタイトルタグのフォーマットを制御します。<br />次のマクロがサポートしてています: "
+
+#: aioseop_class.php:140
+msgid "%category% - Alias for %category_title%"
+msgstr "%category% - %category_title% のエイリアス"
+
+#: aioseop_class.php:113 aioseop_class.php:124
+msgid "%page_title% - The original title of the page"
+msgstr "%page_title% - 固定ページのオリジナルタイトル"
+
+#: aioseop_class.php:114 aioseop_class.php:125
+msgid "%page_author_login% - This page's author' login"
+msgstr "%page_author_login% - このページの投稿者のログイン"
+
+#: aioseop_class.php:115 aioseop_class.php:126
+msgid "%page_author_nicename% - This page's author' nicename"
+msgstr "%page_author_nicename% -このページの投稿者のニックネーム"
+
+#: aioseop_class.php:116 aioseop_class.php:127
+msgid "%page_author_firstname% - This page's author' first name (capitalized)"
+msgstr "%page_author_firstname% - このページの投稿者の名　基本大文字英字）"
+
+#: aioseop_class.php:117 aioseop_class.php:128
+msgid "%page_author_lastname% - This page's author' last name (capitalized)"
+msgstr "%page_author_lastname% - このページの投稿者の姓（基本大文字英字）"
+
+#: aioseop_class.php:138 aioseop_class.php:188
+msgid "%post_title% - The original title of the post"
+msgstr "%post_title% - 投稿のオリジナルタイトル"
+
+#: aioseop_class.php:112 aioseop_class.php:123 aioseop_class.php:137
+#: aioseop_class.php:153 aioseop_class.php:159 aioseop_class.php:164
+#: aioseop_class.php:172 aioseop_class.php:177 aioseop_class.php:182
+#: aioseop_class.php:186 aioseop_class.php:197 aioseop_class.php:3195
+#: aioseop_class.php:3249
+msgid "%blog_description% - Your blog description"
+msgstr "%blog_description% - ブログのディスクリプション"
+
+#: aioseop_class.php:135
+msgid "This controls the format of the title tag for Posts.<br />The following macros are supported:"
+msgstr "投稿のタイトルタグのフォーマットを制御します。<br />次のマクロがサポートしてています : "
+
+#: aioseop_class.php:121
+msgid "This controls the format of the title tag for Pages.<br />The following macros are supported:"
+msgstr "固定ページのタイトルタグのフォーマットを制御します。<br />次のマクロがサポートしてています : "
+
+#: aioseop_class.php:111 aioseop_class.php:122 aioseop_class.php:136
+#: aioseop_class.php:152 aioseop_class.php:158 aioseop_class.php:163
+#: aioseop_class.php:171 aioseop_class.php:176 aioseop_class.php:181
+#: aioseop_class.php:185 aioseop_class.php:196 aioseop_class.php:3194
+#: aioseop_class.php:3248
+msgid "%blog_title% - Your blog title"
+msgstr "%blog_title% - ブログタイトル"
+
+#: aioseop_class.php:103
+msgid "Checking this option uses the title, description, and keywords set on your static Front Page."
+msgstr "このオプションをチェックすると、固定フロントページのタイトル、ディスクリプション、キーワードが使用されます。"
+
+#: aioseop_class.php:101
+msgid "This will be the Meta Description for your homepage. This is independent of any other option. The default is no Meta Description at all if this is not set."
+msgstr "ホームページのメタディスクリプションになります。これは他の設定には依存しません。設定しない場合、デフォルトではメタディスクリプションが完全に空になります。"
+
+#: aioseop_class.php:98
+msgid "Use wp_title to get the title used by the theme; this is disabled by default. If you use this option, set your title formats appropriately, as your theme might try to do its own title SEO as well."
+msgstr "テーマで使用されるタイトルを取得するための wp_title を使用します。これは標準では利用できません。このオプションを使用すると、あなたのテーマは同様に独自のタイトルSEOをしよう可能性があるため、適切にあなたのタイトルの書式を設定します。"
+
+#: aioseop_class.php:99
+msgid "Check this and All in One SEO Pack will create a log of important events (all-in-one-seo-pack.log) in its plugin directory which might help debugging. Make sure this directory is writable."
+msgstr "これをクリックすると  All in One SEO Pack はプラグインディレクトリに重要なイベントのログ(all-in-one-seo-pack.log) をデバッグのために作ります。このディレクトリは書き込み可能にする必要があります。"
+
+#: aioseop_class.php:104
+msgid "This option allows you to toggle the use of Meta Keywords throughout the whole of the site."
+msgstr "このオプションでは、サイトの全体を通じてメタキーワードの使用を切り替えることができます。"
+
+#: aioseop_class.php:105
+msgid "Check this if you want your categories for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "（編集後の画面で指定したキーワードに加えて）投稿のメタキーワードとしてカテゴリー名を使用したい場合は、これを確認してください。"
+
+#: aioseop_class.php:106
+msgid "Check this if you want your tags for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "（編集後の画面で指定したキーワードに加えて）投稿のメタキーワードとしてタグを使用したい場合は、これを確認してください。"
+
+#: aioseop_class.php:107
+msgid "Check this if you want your keywords on your Posts page (set in WordPress under Settings, Reading, Front Page Displays) and your archive pages to be dynamically generated from the keywords of the posts showing on that page.  If unchecked, it will use the keywords set in the edit page screen for the posts page."
+msgstr "投稿ページにキーワードをしたい場合は、これをチェックします（[設定]の下のワードプレスで設定し、読書は、フロントページの表示）やアーカイブページが動的にそのページに表示投稿のキーワードから生成されます。チェックしない場合は、投稿ページの編集ページ画面で設定したキーワードを使用します。"
+
+#: aioseop_class.php:110
+msgid "This controls the format of the title tag for your Home Page.<br />The following macros are supported:"
+msgstr "ホームページ（トップページ）のタイトルタグのフォーマットを制御します。<br />次のマクロがサポートしてています : "
+
+#: aioseop_class.php:100
+msgid "As the name implies, this will be the Meta Title of your homepage. This is independent of any other option. If not set, the default Site Title (found in WordPress under Settings, General, Site Title) will be used."
+msgstr "名前が示すように、これはあなたのホームページのメタタイトルになります。これは、他のオプションとは無関係です。設定されていない場合は、（[設定]の下の WordPress の一般的なサイトのタイトル）デフォルトのサイトのタイトルが使用されます。"
+
+#: aioseop_class.php:108
+msgid "Note that this is all about the title tag. This is what you see in your browser's window title bar. This is NOT visible on a page, only in the title bar and in the source code. If enabled, all page, post, category, search and archive page titles get rewritten. You can specify the format for most of them. For example: Using the default post title format below, Rewrite Titles will write all post titles as 'Post Title | Blog Name'. If you have manually defined a title using All in One SEO Pack, this will become the title of your post in the format string."
+msgstr "これはすべてのタイトルタグについてであることに注意してください。これは、ブラウザのウィンドウのタイトルバーに表示されるものです。これは、タイトルバーのみにし、ソースコードで、ページに表示されません。有効にした場合、すべての固定ページ、投稿、カテゴリ、検索やアーカイブページタイトルがリライトされます。あなたはそれらのほとんどの形式を指定することができます。例：以下のデフォルトの投稿タイトルの形式を使用して、書き換えられた投稿タイトルがすべての投稿タイトルを「投稿タイトル|ブログの名前」として書きます。手動 All in One SEO Pack を使用してタイトルを定義した場合、これは、フォーマット文字列で、あなたの投稿のタイトルになります。"
+
+#: aioseop_class.php:102
+msgid "Enter a comma separated list of your most important keywords for your site that will be written as Meta Keywords on your homepage. Do not stuff everything in here."
+msgstr "ホームページにメタキーワードとして最も重要なキーワードをコンマで区切って入力します。 ここに多くを詰め込まないでください。"
+
+#: aioseop_class.php:97
+msgid "Checking this option will allow you to customize Canonical URLs for specific posts."
+msgstr "このオプションをチェックすると、特定の投稿のための Canonical URL をカスタマイズすることができます。"
+
+#: aioseop_class.php:96
+msgid "Checking this option will set the Canonical URL for all paginated content to the first page."
+msgstr "このオプションをチェックすると、最初のページへのすべてのページ分割されたコンテンツの Canonical URL を設定します。"
+
+#: modules/aioseop_bad_robots.php:38
+msgid "User Agent Blocklist"
+msgstr "ユーザーエージェントブロックリスト"
+
+#: modules/aioseop_bad_robots.php:57
+msgid "Log Of Blocked Bots"
+msgstr "ブロックしたボットのログ"
+
+#: modules/aioseop_bad_robots.php:35
+msgid "Track Blocked Bots"
+msgstr "ブロックされたボットを追跡"
+
+#. translators: the Bad Bot Blocker module allows users to block requests from
+#. user agents that are known to misbehave.
+#: modules/aioseop_bad_robots.php:17 modules/aioseop_feature_manager.php:61
+msgid "Bad Bot Blocker"
+msgstr "悪意あるボットのブロッカー"
+
+#: aioseop_class.php:73 aioseop_class.php:977
+#: modules/aioseop_importer_exporter.php:46
+msgid "General Settings"
+msgstr "一般設定"
+
+#: modules/aioseop_bad_robots.php:46
+msgid "Referer Blocklist"
+msgstr "リファラーブロックリスト"
+
+#: aioseop_class.php:72
+msgid "%s Plugin Options"
+msgstr "%s プラグイン設定"
+
+#: modules/aioseop_bad_robots.php:23
+msgid "Block requests from user agents that are known to misbehave with 503."
+msgstr "503 と誤動作することが知られているユーザエージェントからのブロックを要求。"
+
+#: modules/aioseop_bad_robots.php:25
+msgid "Log and show recent requests from blocked bots."
+msgstr "ブロックしているボットからの最近の要求を表示しログします。"
+
+#: modules/aioseop_bad_robots.php:58
+msgid "No requests yet."
+msgstr "まだ、要求はありません。"
+
+#: modules/aioseop_bad_robots.php:26
+msgid "Check this to edit the list of disallowed user agents for blocking bad bots."
+msgstr "これをチェックして、不正なボットをブロックするために許可されていないユーザエージェントのリストを編集します。"
+
+#: modules/aioseop_bad_robots.php:27
+msgid "This is the list of disallowed user agents used for blocking bad bots."
+msgstr "これは、不正なボットをブロックするために使用される、許可されていないユーザエージェントのリストです。"
+
+#: modules/aioseop_bad_robots.php:29
+msgid "Shows log of most recent requests from blocked bots. Note: this will not track any bots that were already blocked at the web server / .htaccess level."
+msgstr "ブロックされたボットからの最新のリクエストのログを表示します。 注：これは、Web サーバー/  .htaccess レベルで既にブロックされたボットを追跡しません。"
+
+#: modules/aioseop_bad_robots.php:28
+msgid "This is the list of disallowed referers used for blocking bad bots."
+msgstr "これは不正なボットをブロックするために使用される許可されていないリファラーのリストです。"
+
+#: modules/aioseop_bad_robots.php:99
+msgid "Blocked bot with IP %1$s -- matched referer %2$s found in blocklist."
+msgstr "IP %1$s のブロックしたボット -- %2$s はブロックリストで見つかったリファラに一致しました。"
+
+#: modules/aioseop_bad_robots.php:93
+msgid "Blocked bot with IP %1$s -- matched user agent %2$s found in blocklist."
+msgstr "IP %1$s のブロックしたボット -- %2$s はブロックリストで見つかったユーザエージェントに一致しました。"

@@ -1,0 +1,11 @@
+.tablepress tbody tr:last-child td {
+	border-bottom: 1px solid #ddd;
+}
+
+@media (max-width: 767px) {
+
+	table.tablepress {
+		font-size: 14px;
+	}
+
+}

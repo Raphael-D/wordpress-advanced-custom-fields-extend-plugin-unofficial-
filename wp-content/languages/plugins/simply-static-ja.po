@@ -1,0 +1,648 @@
+# Translation of Plugins - Simply Static - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Simply Static - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-11 09:19:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Simply Static - Stable (latest release)\n"
+
+#. Author of the plugin/theme
+msgid "Code of Conduct LLC"
+msgstr "Code of Conduct LLC"
+
+#: includes/tasks/class-ss-setup-task.php:106
+msgid "Additional Dir"
+msgstr "追加ディレクトリ"
+
+#: includes/tasks/class-ss-setup-task.php:94
+msgid "Additional File"
+msgstr "追加ファイル"
+
+#: includes/class-ss-diagnostic.php:191
+msgid "Try whitelisting the ip address"
+msgstr "IP アドレスをホワイトリストに登録する"
+
+#: includes/class-ss-diagnostic.php:170
+msgid "Checking if WordPress can make requests to itself from <code>%s</code>"
+msgstr "WordPress が <code>%s</code> から自分自身にリクエストを行うことができるか確認します"
+
+#: views/settings.php:274
+msgid "This will reset Simply Static's settings back to their defaults."
+msgstr "これにより、Simply Static の設定がデフォルトにリセットされます。"
+
+#: views/settings.php:269 views/settings.php:272
+msgid "Reset Plugin Settings"
+msgstr "プラグインの設定をリセット"
+
+#: views/settings.php:200
+msgid "/wp-content/uploads/image.jpg"
+msgstr "/wp-content/uploads/image.jpg"
+
+#: views/settings.php:199 views/settings.php:201
+msgid ".jpg"
+msgstr ".jpg"
+
+#: views/settings.php:198
+msgid "Example: <code>%s</code> would exclude <code>%s</code> and other files containing <code>%s</code> from processing"
+msgstr "例: <code>%s</code>は、 <code>%s</code> および <code>%s</code> を含む他のファイルを処理から除外します"
+
+#: views/settings.php:197
+msgid "<b>Do not save</b>: do not save a static copy of the page/file"
+msgstr "<b>保存しない</b>: ページ / ファイルの静的コピーを保存しないでください"
+
+#: views/settings.php:196
+msgid "In this section you can specify URLs, or parts of a URL, to exclude from Simply Static's processing. You may also use regex to specify a pattern to match."
+msgstr "このセクションでは、URL または URL の一部を指定して、Simply Static の処理から除外することができます。 正規表現を使用して一致するパターンを指定することもできます。"
+
+#: views/settings.php:192
+msgid "Add URL to Exclude"
+msgstr "除外する URL を追加"
+
+#: views/settings.php:186
+msgid "Remove"
+msgstr "削除する"
+
+#: views/settings.php:160
+msgid "URLs to Exclude"
+msgstr "除外する URL"
+
+#: views/settings.php:13
+msgid "Reset"
+msgstr "リセット"
+
+#: views/settings.php:11
+msgid "Include/Exclude"
+msgstr "インクルード / エクスクルード"
+
+#: views/diagnostics.php:137
+msgid "Send"
+msgstr "送信"
+
+#: views/diagnostics.php:133
+msgid "Send Debug Log by Email"
+msgstr "メールでデバッグログを送信"
+
+#: views/diagnostics.php:128 views/diagnostics.php:139
+msgid "You have not created a debug log yet."
+msgstr "まだデバッグログを作成していません。"
+
+#: views/diagnostics.php:126
+msgid "You have created <a href='%s'>a debug log</a>."
+msgstr "<a href='%s'>デバッグログ</a> を作成しました。"
+
+#: views/diagnostics.php:123
+msgid "View Debug Log"
+msgstr "デバッグログを表示"
+
+#: views/diagnostics.php:98
+msgid "When enabled, a debug log will be created when generating static files."
+msgstr "有効にすると、静的ファイルを生成するときにデバッグログが作成されます。"
+
+#: views/diagnostics.php:95
+msgid "Enable debugging mode"
+msgstr "デバッグモードを有効にする"
+
+#: views/diagnostics.php:91
+msgid "Debugging Mode"
+msgstr "デバッグモード"
+
+#: views/diagnostics.php:81
+msgid "Debugging Options"
+msgstr "デバッグオプション"
+
+#: views/diagnostics.php:60
+msgid "Plugin URL"
+msgstr "プラグイン URL"
+
+#: views/diagnostics.php:59
+msgid "Plugin Name"
+msgstr "プラグイン名"
+
+#: views/diagnostics.php:49 views/diagnostics.php:74
+msgid "No"
+msgstr "いいえ"
+
+#: views/diagnostics.php:47 views/diagnostics.php:72
+msgid "Yes"
+msgstr "はい"
+
+#: views/diagnostics.php:37 views/diagnostics.php:62
+msgid "Enabled"
+msgstr "有効"
+
+#: views/diagnostics.php:36 views/diagnostics.php:61
+msgid "Version"
+msgstr "バージョン"
+
+#: views/diagnostics.php:35
+msgid "Theme URL"
+msgstr "テーマ URL"
+
+#: views/diagnostics.php:34
+msgid "Theme Name"
+msgstr "テーマ名"
+
+#: views/_export_log.php:38
+msgid "Found on %s"
+msgstr "%s に見つかりました"
+
+#: views/_export_log.php:17
+msgid "Notes"
+msgstr "注"
+
+#: simply-static.php:28
+msgid "Contact your hosting company or your system administrator and ask for an upgrade to version 5.3 of PHP."
+msgstr "ホスティング会社またはシステム管理者に問い合わせて、PHP バージョン5.3へのアップグレードを依頼してください。"
+
+#: simply-static.php:26
+msgid "<b>Simply Static</b> requires PHP 5.3 or higher, and the plugin has now deactivated itself."
+msgstr "<b>Simply Static</b> には PHP 5.3以上が必要です。プラグインは現在無効になっています。"
+
+#: includes/tasks/class-ss-setup-task.php:70
+msgid "Additional URL"
+msgstr "追加 URL"
+
+#: includes/tasks/class-ss-fetch-urls-task.php:130
+#: includes/tasks/class-ss-fetch-urls-task.php:212 views/settings.php:178
+msgid "Do not save"
+msgstr "保存しない"
+
+#: includes/tasks/class-ss-fetch-urls-task.php:112
+#: includes/tasks/class-ss-fetch-urls-task.php:181 views/settings.php:183
+msgid "Do not follow"
+msgstr "フォローしない"
+
+#: includes/tasks/class-ss-fetch-urls-task.php:58
+msgid "Do not save or follow"
+msgstr "保存したりフォローしたりしないでください"
+
+#: includes/tasks/class-ss-cancel-task.php:12
+msgid "Cancelling job"
+msgstr "ジョブをキャンセルする"
+
+#: includes/libraries/wp-background-processing/classes/wp-background-process.php:425
+msgid "Every %d Minutes"
+msgstr "%d分ごと"
+
+#: includes/class-ss-url-fetcher.php:77
+msgid "Attempted to fetch a remote URL"
+msgstr "リモート URL を取得しようとしました"
+
+#: includes/class-ss-plugin.php:638
+msgid "Plugin reset complete."
+msgstr "プラグインのリセットが完了しました。"
+
+#: includes/class-ss-plugin.php:507
+msgid "We encountered an error when attempting to send out the debug log."
+msgstr "デバッグログを送信しようとしたときにエラーが発生しました。"
+
+#: includes/class-ss-plugin.php:504
+msgid "Debug log successfully sent to: %s"
+msgstr "デバッグログの送信に成功しました: %s"
+
+#: includes/class-ss-plugin.php:496
+msgid "Unable to create a ZIP of the debug log."
+msgstr "デバッグログの ZIP を作成できません。"
+
+#: includes/class-ss-plugin.php:424 includes/class-ss-plugin.php:477
+msgid "Your changes have been saved."
+msgstr "変更内容が保存されました。"
+
+#: includes/class-ss-plugin.php:691
+msgid "View what changed in this version"
+msgstr "このバージョンで変更された内容を表示する"
+
+#: includes/class-ss-plugin.php:691
+msgid "Simply Static Version"
+msgstr "Simply Static バージョン"
+
+#: includes/class-ss-plugin.php:676
+msgid "Enjoying Simply Static? Add your [stars] on wordpress.org."
+msgstr "Simply Static を楽しんでいますか ? wordpress.org にスターを追加してください。"
+
+#: includes/class-ss-plugin.php:672
+msgid "Contact Support"
+msgstr "サポート問い合わせ先"
+
+#: includes/class-ss-plugin.php:225 includes/class-ss-plugin.php:270
+#: includes/class-ss-plugin.php:293 includes/class-ss-plugin.php:722
+msgid "Not permitted"
+msgstr "許可されていません"
+
+#: views/settings.php:75
+msgid "Convert all URLs for your WordPress site so that you can browse the site locally on your own computer without hosting it on a web server."
+msgstr "WordPress サイトのすべての URL を変換して、Web サーバー上でホストせずに自分のコンピュータでローカルにサイトを参照できるようにします。"
+
+#: views/settings.php:73
+msgid "Save for offline use"
+msgstr "オフラインで使用するために保存"
+
+#: views/settings.php:61
+msgid "Example: enter <code>/path/</code> above if you wanted to serve your files at <code>www.example.com<b>/path/</b></code>"
+msgstr "例: <code>www.example.com<b>/path/</b></code> でファイルを配信する場合は、上記の <code>/path/</code>を入力"
+
+#: views/settings.php:60
+msgid "Convert all URLs for your WordPress site to relative URLs that will work at any domain. Optionally specify a path above if you intend to place the files in a subdirectory."
+msgstr "WordPress サイトのすべての URL を任意のドメインで動作する相対 URL に変換します。 オプションで、ファイルをサブディレクトリに配置する場合は、上のパスを指定します。"
+
+#: views/settings.php:57
+msgid "Use relative URLs"
+msgstr "相対 URL を使用する"
+
+#: views/settings.php:46
+msgid "Convert all URLs for your WordPress site to absolute URLs at the domain specified above."
+msgstr "WordPressサイトのすべての URLを 上記のドメインの絶対 URL に変換します。"
+
+#: views/settings.php:45
+msgid "www.example.com/"
+msgstr "www.example.com/"
+
+#: views/settings.php:39
+msgid "Use absolute URLs"
+msgstr "絶対 URL を使用する"
+
+#: views/settings.php:29
+msgid "When exporting your static site, any links to your WordPress site will be replaced by one of the following: absolute URLs, relative URLs, or URLs contructed for offline use."
+msgstr "静的サイトをエクスポートすると、WordPress サイトへのリンクは絶対 URL、相対 URL、またはオフラインで使用するように構成された URL のいずれかに置き換えられます。"
+
+#: views/settings.php:154
+msgid "fancy.pdf"
+msgstr "fancy.pdf"
+
+#: views/settings.php:153
+msgid "additional-directory/"
+msgstr "additional-directory/"
+
+#: views/settings.php:151
+msgid "Sometimes you may want to include additional files (such as files referenced via AJAX) or directories. Add the paths to those files or directories here (one per line)."
+msgstr "場合によっては、追加のファイル (AJAX で参照されるファイルなど) またはディレクトリを含めることもできます。 これらのファイルまたはディレクトリへのパスを1行に1つずつ追加します。"
+
+#: views/settings.php:146
+msgid "Additional Files and Directories"
+msgstr "追加ファイルとディレクトリ"
+
+#: views/settings.php:140
+msgid "/images/secret.jpg"
+msgstr "/images/secret.jpg"
+
+#: views/settings.php:139
+msgid "/hidden-page/"
+msgstr "/hidden-page/"
+
+#: views/settings.php:138 views/settings.php:152
+msgid "Examples: <code>%s</code> or <code>%s</code>"
+msgstr "例: <code>%s</code> または <code>%s</code>"
+
+#: views/settings.php:132
+msgid "Additional URLs"
+msgstr "追加する URL"
+
+#: views/settings.php:241
+msgid "Static files are temporarily saved to the directory above before being copied to their destination. These files can be deleted after the copy process, or you can keep them as a backup."
+msgstr "静的ファイルは、目的地にコピーされる前に一時的に上のディレクトリに保存されます。 これらのファイルは、コピー処理後に削除することも、バックアップとして保持することもできます。"
+
+#: views/settings.php:238
+msgid "Delete temporary files"
+msgstr "一時ファイルを削除する"
+
+#: views/settings.php:229
+msgid "Default: <code>%s</code>"
+msgstr "デフォルト: <code>%s</code>"
+
+#: views/settings.php:228
+msgid "Your static files (and ZIP archives, if generated) are temporarily saved to this directory. This directory must exist and be writeable."
+msgstr "静的ファイル (および生成された場合は ZIP アーカイブ) は一時的にこのディレクトリに保存されます。 このディレクトリは存在し、書き込み可能でなければなりません。"
+
+#: views/settings.php:222
+msgid "Temporary Files Directory"
+msgstr "一時ファイルディレクトリ"
+
+#: views/diagnostics.php:106 views/settings.php:119 views/settings.php:209
+#: views/settings.php:249
+msgid "Save Changes"
+msgstr "変更内容を保存"
+
+#: views/settings.php:111
+msgid "Example: <code>%s</code>"
+msgstr "例: <code>%s</code>"
+
+#: views/settings.php:110
+msgid "This is the directory where your static files will be saved. The directory must exist and be writeable by the webserver."
+msgstr "これは静的ファイルが保存されるディレクトリです。 ディレクトリは存在し、Web サーバーによって書き込み可能でなければなりません。"
+
+#: views/settings.php:99
+msgid "Saving your static files to a local directory is useful if you want to serve your static files from the same server as your WordPress installation. WordPress can live on a subdomain (e.g. wordpress.example.com) while your static files are served from your primary domain (e.g. www.example.com)."
+msgstr "静的ファイルをローカルディレクトリに保存することは、WordPress インストールと同じサーバーから静的ファイルを提供する場合に便利です。静的ファイルがプライマリドメイン (例: www.example.com) から配信されている間、WordPress はサブドメイン (例: wordpress.example.com) に存在することができます。"
+
+#: views/settings.php:93
+msgid "Saving your static files to a ZIP archive is Simply Static's default delivery method. After generating your static files you will be provided with a link to download the ZIP archive."
+msgstr "静的ファイルを ZIP アーカイブに保存するのは、Simply Static のデフォルトの配信方法です。 静的ファイルを生成すると、ZIP アーカイブをダウンロードするためのリンクが提供されます。"
+
+#: views/settings.php:86 views/settings.php:104
+msgid "Local Directory"
+msgstr "ローカルディレクトリ"
+
+#: views/settings.php:85
+msgid "ZIP Archive"
+msgstr "ZIP アーカイブ"
+
+#: views/settings.php:82
+msgid "Delivery Method"
+msgstr "配送方法"
+
+#: views/settings.php:26
+msgid "Destination URLs"
+msgstr "リンク先 URL"
+
+#: includes/tasks/class-ss-setup-task.php:59
+msgid "Origin URL"
+msgstr "元の URL"
+
+#: views/settings.php:12
+msgid "Advanced"
+msgstr "上級者向け"
+
+#: views/settings.php:10
+msgid "General"
+msgstr "一般"
+
+#: views/settings.php:5
+msgid "Simply Static &rsaquo; Settings"
+msgstr "Simply Static &rsaquo; 設定"
+
+#: views/redirect.php:12
+msgid "You are being redirected to %s"
+msgstr "%s にリダイレクト中"
+
+#: views/redirect.php:4
+msgid "Redirecting..."
+msgstr "リダイレクト中..."
+
+#: views/layouts/admin.php:36
+msgid "Subscribe"
+msgstr "申し込む"
+
+#: views/layouts/admin.php:33
+msgid "email address"
+msgstr "メールアドレス"
+
+#: views/layouts/admin.php:27
+msgid "Join the mailing list to be notified when new features and plugins are released."
+msgstr "メーリングリストに参加して、新しい機能やプラグインがリリースされた時に通知を受けましょう。"
+
+#: views/layouts/admin.php:24
+msgid "Like this plugin?"
+msgstr "プラグインを気に入りましたか ?"
+
+#: views/generate.php:24
+msgid "Export Log"
+msgstr "ログのエクスポート"
+
+#: views/generate.php:19
+msgid "Activity Log"
+msgstr "アクティビティ・ログ"
+
+#: views/generate.php:14
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: views/generate.php:12
+msgid "Generate Static Files"
+msgstr "静的ファイルを生成する"
+
+#: views/generate.php:5
+msgid "Simply Static &rsaquo; Generate"
+msgstr "Simply Static &rsaquo; 生成"
+
+#: views/diagnostics.php:5
+msgid "Simply Static &rsaquo; Diagnostics"
+msgstr "Simply Static &rsaquo; 診断"
+
+#: views/_pagination.php:11
+msgid "%d URLs"
+msgstr "%d URL"
+
+#: views/_pagination.php:7
+msgid "<a href='https://en.wikipedia.org/wiki/List_of_HTTP_status_codes'>More info on HTTP status codes</a>"
+msgstr "<a href='https://ja.wikipedia.org/wiki/HTTP%E3%82%B9%E3%83%86%E3%83%BC%E3%82%BF%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89'>HTTPステータスコードの詳細</a>"
+
+#: views/_pagination.php:6
+msgid "5xx Server Error:"
+msgstr "5xx サーバーエラー: "
+
+#: views/_pagination.php:5
+msgid "4xx Client Error:"
+msgstr "4xx クライアントエラー: "
+
+#: views/_pagination.php:4
+msgid "3xx Redirection:"
+msgstr "3xx リダイレクト: "
+
+#: views/_pagination.php:3
+msgid "2xx Success:"
+msgstr "2xx 成功: "
+
+#: views/_pagination.php:2
+msgid "1xx Informational:"
+msgstr "1xx 情報: "
+
+#: views/_export_log.php:19
+msgid "Errors (%d)"
+msgstr "エラー (%d)"
+
+#: views/_export_log.php:16
+msgid "URL"
+msgstr "URL"
+
+#: views/_export_log.php:15
+msgid "Code"
+msgstr "コード"
+
+#: includes/class-ss-plugin.php:211
+msgid "Diagnostics"
+msgstr "診断"
+
+#: includes/class-ss-plugin.php:210
+msgid "Simply Static Diagnostics"
+msgstr "Simply Static 診断"
+
+#: includes/class-ss-diagnostic.php:287
+msgid "Checking for cURL support"
+msgstr "cURL に対応しているか確認しています"
+
+#: includes/class-ss-diagnostic.php:278
+msgid "Checking if PHP version >= %s"
+msgstr "PHP のバージョンが%s以上か確認中"
+
+#: includes/class-ss-diagnostic.php:270
+msgid "Checking if MySQL user has <code>DROP</code> privilege"
+msgstr "MySQL ユーザーが <code>DROP</code> 権限を持っているか確認します"
+
+#: includes/class-ss-diagnostic.php:262
+msgid "Checking if MySQL user has <code>ALTER</code> privilege"
+msgstr "MySQL ユーザーが <code>ALTER</code> 権限を持っているか確認します"
+
+#: includes/class-ss-diagnostic.php:254
+msgid "Checking if MySQL user has <code>CREATE</code> privilege"
+msgstr "MySQL ユーザーが <code>CREATE</code> 権限を持っているか確認します"
+
+#: includes/class-ss-diagnostic.php:246
+msgid "Checking if MySQL user has <code>SELECT</code> privilege"
+msgstr "MySQL ユーザーが <code>SELECT</code> 権限を持っているか確認します"
+
+#: includes/class-ss-diagnostic.php:238
+msgid "Checking if MySQL user has <code>INSERT</code> privilege"
+msgstr "MySQL ユーザーが <code>INSERT</code> 権限を持っているか確認します"
+
+#: includes/class-ss-diagnostic.php:230
+msgid "Checking if MySQL user has <code>DELETE</code> privilege"
+msgstr "MySQL ユーザーが <code>DELETE</code> 権限を持っているか確認します"
+
+#: includes/class-ss-diagnostic.php:222
+msgid "Checking if web server can write to Local Directory: <code>%s</code>"
+msgstr "Web サーバーがローカルディレクトリに書き込むことができるか確認します: <code>%s</code>"
+
+#: includes/class-ss-diagnostic.php:213
+msgid "Checking if web server can write to Temp Files Directory: <code>%s</code>"
+msgstr "WebサーバーがTemp Filesディレクトリに書き込めるか確認します: <code>%s</code>"
+
+#: includes/class-ss-diagnostic.php:204
+msgid "Checking if web server can read from Temp Files Directory: <code>%s</code>"
+msgstr "WebサーバーがTemp Filesディレクトリから読み取れるか確認します: <code>%s</code>"
+
+#: includes/class-ss-diagnostic.php:161
+msgid "Checking if WordPress permalink structure is set"
+msgstr "WordPress のパーマリンク構造が設定されているか確認します"
+
+#: includes/class-ss-diagnostic.php:147
+msgid "Not readable"
+msgstr "読込不能"
+
+#: includes/class-ss-diagnostic.php:144
+msgid "Not a valid path"
+msgstr "有効なパスではありません"
+
+#: includes/class-ss-diagnostic.php:141
+msgid "Checking if Additional File/Dir <code>%s</code> is valid"
+msgstr "追加ファイル / ディレクトリ <code>%s</code> が有効か確認します"
+
+#: includes/class-ss-diagnostic.php:127
+msgid "Not a local URL"
+msgstr "ローカル URL ではありません"
+
+#: includes/class-ss-diagnostic.php:124
+msgid "Not a valid URL"
+msgstr "有効な URL ではありません"
+
+#: includes/class-ss-diagnostic.php:121
+msgid "Checking if Additional URL <code>%s</code> is valid"
+msgstr "追加 URL <code>%s</code> が有効か確認します"
+
+#: includes/class-ss-diagnostic.php:113
+msgid "Checking if Destination URL <code>%s</code> is valid"
+msgstr "<code>%s</code> のリンク先 URL が有効か確認します"
+
+#: includes/class-ss-diagnostic.php:101
+msgid "FAIL"
+msgstr "失敗"
+
+#: includes/class-ss-diagnostic.php:101
+msgid "OK"
+msgstr "OK"
+
+#: includes/class-ss-archive-creation-job.php:328
+msgid "Error: %s"
+msgstr "エラー: %s"
+
+#: includes/class-ss-archive-creation-job.php:301
+#: includes/class-ss-url-fetcher.php:77 includes/class-ss-url-fetcher.php:102
+msgid "An error occurred: %s"
+msgstr "エラーが発生しました: %s"
+
+#: includes/class-ss-archive-creation-job.php:288
+msgid "An exception occurred: %s"
+msgstr "例外が発生しました: %s"
+
+#: includes/class-ss-archive-creation-job.php:172
+msgid "Done! Finished in %s"
+msgstr "完了 ! %sで完成しました"
+
+#: includes/tasks/class-ss-wrapup-task.php:14
+msgid "Wrapping up"
+msgstr "ラッピング"
+
+#: includes/tasks/class-ss-transfer-files-locally-task.php:29
+msgid "Destination URL:"
+msgstr "リンク先 URL: "
+
+#: includes/tasks/class-ss-fetch-urls-task.php:83
+msgid "Fetched %d of %d pages/files"
+msgstr "%d 個のページ/ファイルの %d を取得しました"
+
+#: includes/tasks/class-ss-setup-task.php:16
+msgid "Setting up"
+msgstr "セットアップ"
+
+#. Author URI of the plugin/theme
+msgid "http://codeofconduct.co/"
+msgstr "http://codeofconduct.co/ "
+
+#. Description of the plugin/theme
+msgid "Produces a static HTML version of your WordPress install and adjusts URLs accordingly."
+msgstr "WordPress の静的 HTML バージョンを作成し、それに応じて URL を調整します。"
+
+#. Plugin URI of the plugin/theme
+msgid "http://codeofconduct.co/simply-static"
+msgstr "http://codeofconduct.co/simply-static"
+
+#: includes/tasks/class-ss-create-zip-archive.php:19
+msgid "Click here to download"
+msgstr "ダウンロードするにはこちらをクリック"
+
+#: includes/tasks/class-ss-create-zip-archive.php:18
+msgid "ZIP archive created: "
+msgstr "ZIP アーカイブを作成しました:"
+
+#: includes/class-ss-plugin.php:202
+msgid "Settings"
+msgstr "設定"
+
+#: includes/class-ss-plugin.php:193
+msgid "Generate"
+msgstr "生成"
+
+#: includes/class-ss-plugin.php:192
+msgid "Generate Static Site"
+msgstr "静的サイトを生成します"
+
+#. #-#-#-#-#  tmp-simply-static.pot (Simply Static 2.0.7)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-ss-plugin.php:182 includes/class-ss-plugin.php:183
+msgid "Simply Static"
+msgstr "Simply Static"
+
+#: includes/class-ss-plugin.php:201
+msgid "Simply Static Settings"
+msgstr "Simply Static 設定"
+
+#: includes/class-ss-view.php:146
+msgid "Can't find view layout: %s"
+msgstr "表示レイアウトが見つかりません: %s"
+
+#: includes/class-ss-view.php:140
+msgid "Can't find view template: %s"
+msgstr "ビューテンプレートが見つかりません: %s"
+
+#: includes/tasks/class-ss-wrapup-task.php:38
+#: includes/tasks/class-ss-wrapup-task.php:47
+msgid "Could not delete temporary file or directory: %s"
+msgstr "一時ファイル又は一時ディレクトリが削除できません: %s"
+
+#: includes/tasks/class-ss-create-zip-archive.php:44
+msgid "Unable to create ZIP archive"
+msgstr "ZIP ファイルが作成できません"

@@ -1,0 +1,265 @@
+# Translation of Plugins - Imsanity - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Imsanity - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-09 23:05:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Imsanity - Stable (latest release)\n"
+
+#: settings.php:561
+msgid "Scanning existing images. This may take a moment."
+msgstr "既存画像のスキャン。これには時間がかかることがあります。"
+
+#: settings.php:552
+msgid "It is also recommended that you initially select only 1 or 2 images and verify that everything is working properly before processing your entire library."
+msgstr "最初に1つか2つの画像のみを選択し、ライブラリ全体を処理する前にすべてが正しく機能していることを確認することもお勧めします。"
+
+#: settings.php:551
+msgid "It is HIGHLY recommended that you backup your wp-content/uploads folder before proceeding. You will have a chance to preview and select the images to convert."
+msgstr "先に進む前に wp-content / uploads フォルダーをバックアップすることを強くお勧めします。変換する画像をプレビューして選択する機会があります。"
+
+#: settings.php:549
+msgid "WARNING: Bulk Resize will alter your original images and cannot be undone!"
+msgstr "警告: 一括リサイズは元の画像を変更し、元に戻すことはできません !"
+
+#: settings.php:545
+msgid "NOTE: To give you greater control over the resizing process, a maximum of %d images will be returned at one time. Bitmap images cannot be bulk resized and will not appear in the search results."
+msgstr "注: サイズ変更プロセスをより詳細に制御するために、一度に最大 %d個の画像を返します。ビットマップ画像は一括でリサイズすることはできず、検索結果には表示されません。"
+
+#: settings.php:544
+msgid "If you have existing images that were uploaded prior to installing Imsanity, you may resize them all in bulk to recover disk space. To begin, click the \"Search Images\" button to search all existing attachments for images that are larger than the configured limit."
+msgstr "Imsanity のインストール前にアップロードされた既存の画像がある場合は、それらを一括でリサイズしてディスク領域を回復できます。"
+
+#: settings.php:256 settings.php:264 settings.php:272 settings.php:600
+#: settings.php:608 settings.php:616
+msgid "in pixels, enter 0 to disable"
+msgstr "ピクセル単位、0を入力して無効"
+
+#: settings.php:256 settings.php:264 settings.php:272 settings.php:600
+#: settings.php:608 settings.php:616
+msgid "Max Height"
+msgstr "最大の高さ"
+
+#: settings.php:255 settings.php:263 settings.php:271 settings.php:599
+#: settings.php:607 settings.php:615
+msgid "Max Width"
+msgstr "最大の幅"
+
+#: settings.php:71
+msgid "There are no images that need to be resized."
+msgstr "サイズ変更の必要な画像はありません。"
+
+#: settings.php:70
+msgid "Received an invalid response, please check for errors in the Developer Tools console of your browser."
+msgstr "無効な応答を受け取りました。ブラウザーのデベロッパーツールコンソールでエラーを確認してください。"
+
+#: settings.php:69
+msgid "Image"
+msgstr "画像"
+
+#: settings.php:68
+msgid "Resize Selected Images"
+msgstr "選択した画像のサイズを変更する"
+
+#: settings.php:67
+msgid "Resizing Complete"
+msgstr "リサイズの完了"
+
+#: settings.php:54
+msgid "Settings"
+msgstr "設定"
+
+#: imsanity.php:261
+msgid "Imsanity was unable to process the %s file. If you continue to see this error you may need to disable the conversion option in the Imsanity settings."
+msgstr "Imsanity は%sファイルを処理できませんでした。このエラーが引き続き表示される場合は、Imsanity 設定で変換オプションを無効にする必要があります。"
+
+#: imsanity.php:237
+msgid "Unknown image type specified in imsanity_convert_to_jpg"
+msgstr "imsanity_convert_to_jpg で指定された不明な画像タイプ"
+
+#: imsanity.php:226
+msgid "Imsanity requires the GD library to convert PNG images to JPG"
+msgstr "Imsanity は PNG 画像を JPG に変換するのに GD ライブラリが必要です"
+
+#: imsanity.php:197
+msgid "Imsanity was unable to resize this image for the following reason: %s. If you continue to see this error message, you may need to install missing server components. If you think you have discovered a bug, please report it on the Imsanity support forum: %s"
+msgstr ""
+"Imsanity は次の理由でこのイメージのサイズを変更できませんでした: %s。\n"
+"もしこのエラーメッセージが引き続き表示される場合、不足しているサーバーコンポーネントをインストールする必要があります。バグを発見したと思われる場合は、Imsanity サポートフォーラム: %sに報告してください。"
+
+#: ajax.php:138
+msgid "Unknown error, resizing function returned the same filename"
+msgstr "不明なエラー、リサイズ関数が同じファイル名を返しました"
+
+#: ajax.php:136
+msgid "Resized image was larger than the original"
+msgstr "リサイズ画像が元のサイズよりも大きかった"
+
+#: ajax.php:89
+msgid "%s is not writable"
+msgstr "%sは書き込み可能ではありません"
+
+#: ajax.php:21
+msgid "Access token has expired, please reload the page."
+msgstr "アクセストークンの有効期限が切れました。ページをリロードしてください。"
+
+#: ajax.php:18
+msgid "Administrator permission is required"
+msgstr "管理者権限が必要です"
+
+#. Author URI of the plugin/theme
+msgid "https://ewww.io/"
+msgstr "https://ewww.io/"
+
+#. Author of the plugin/theme
+msgid "Shane Bishop"
+msgstr "Shane Bishop"
+
+#. Description of the plugin/theme
+msgid "Imsanity stops insanely huge image uploads"
+msgstr "Imsanity は巨大な画像がアップロードされることを阻止します"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/imsanity/"
+msgstr "https://ja.wordpress.org/plugins/imsanity/"
+
+#. Plugin Name of the plugin/theme
+msgid "Imsanity"
+msgstr "Imsanity"
+
+#: settings.php:645
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: settings.php:636
+msgid "Convert PNG To JPG"
+msgstr "PNG 形式を JPG 形式へ変換する"
+
+#: settings.php:628
+msgid "Convert BMP To JPG"
+msgstr "BMP 形式を JPG 形式へ変換する"
+
+#: settings.php:579
+msgid "Imsanity settings have been configured by the server administrator. There are no site-specific settings available."
+msgstr "サーバー管理者によって Imsanity の設定が行われています。サイト固有の項目はありません。"
+
+#: settings.php:556
+msgid "Search Images..."
+msgstr "画像を検索..."
+
+#: settings.php:541
+msgid "Bulk Resize Images"
+msgstr "一括画像リサイズ"
+
+#: settings.php:523
+msgid "Imsanity Settings"
+msgstr "Imsanity 設定"
+
+#: settings.php:300
+msgid "Update Settings"
+msgstr "更新設定"
+
+#: settings.php:295 settings.php:624
+msgid "WordPress default is 82"
+msgstr "WordPress デフォルトは 82 です"
+
+#: settings.php:294 settings.php:623
+msgid "Valid values are 1-100."
+msgstr "有効な値は1〜100です。"
+
+#: settings.php:293 settings.php:622
+msgid "JPG image quality"
+msgstr "JPG 画像品質"
+
+#: settings.php:285
+msgid "Convert PNG to JPG"
+msgstr "PNG 形式から JPG 形式へ変換する"
+
+#: settings.php:280 settings.php:288 settings.php:631 settings.php:639
+msgid "No"
+msgstr "いいえ"
+
+#: settings.php:279 settings.php:287 settings.php:630 settings.php:638
+msgid "Yes"
+msgstr "はい"
+
+#: settings.php:277
+msgid "Convert BMP to JPG"
+msgstr "BMP 形式から JPG 形式へ変換する"
+
+#: settings.php:269 settings.php:613
+msgid "Images uploaded elsewhere (Theme headers, backgrounds, logos, etc)"
+msgstr "その他の方法でアップロードされた画像（テーマヘッダー、背景、ロゴなど）"
+
+#: settings.php:261 settings.php:605
+msgid "Images uploaded directly to the Media Library"
+msgstr "メディアライブラリへ直接アップロードされた画像"
+
+#: settings.php:253 settings.php:597
+msgid "Images uploaded within a Page/Post"
+msgstr "固定ページ / 投稿でアップロードされた画像"
+
+#: settings.php:247
+msgid "Use global Imsanity settings (below) for all sites"
+msgstr "すべてのサイトでグローバルな Imsanity 設定 (下記) を使用する"
+
+#: settings.php:246
+msgid "Allow each site to configure Imsanity settings"
+msgstr "各サイト毎に Imsanity の設定を許可する"
+
+#: settings.php:243
+msgid "Global Settings Override"
+msgstr "グローバル設定の上書き"
+
+#: settings.php:350
+msgid "Imsanity network settings saved."
+msgstr "Imsanity ネットワーク設定が保存されました。"
+
+#: settings.php:44 settings.php:222
+msgid "Imsanity Network Settings"
+msgstr "Imsanity ネットワーク設定"
+
+#: settings.php:32
+msgid "Imsanity Plugin Settings"
+msgstr "Imsanity プラグイン設定"
+
+#: libs/imagecreatefrombmp.php:129
+msgid "imagecreatefrombmp: %s has %d bits and this is not supported!"
+msgstr "imagecreatefrombmp: %s は %d ビットで、これはサポートしていません。"
+
+#: libs/imagecreatefrombmp.php:43
+msgid "imagecreatefrombmp: Cannot obtain filesize of %s !"
+msgstr "imagecreatefrombmp: filesize of %s のファイルサイズを取得できません"
+
+#: libs/imagecreatefrombmp.php:21
+msgid "imagecreatefrombmp: %s is not a bitmap!"
+msgstr "imagecreatefrombmp: %s はビットマップではありません"
+
+#: libs/imagecreatefrombmp.php:14
+msgid "imagecreatefrombmp: Can not open %s!"
+msgstr "imagecreatefrombmp: %s を開けません"
+
+#: ajax.php:167
+msgid "ERROR: Attachment with ID of %s not found"
+msgstr "エラー: ID %s の添付ファイルが見つかりません"
+
+#: ajax.php:155
+msgid "SKIPPED: %s (Resize not required)"
+msgstr "スキップ: %s (リサイズが不要)"
+
+#: ajax.php:136 ajax.php:138 ajax.php:145 ajax.php:151
+msgid "ERROR: %s (%s)"
+msgstr "エラー: %s (%s)"
+
+#: ajax.php:129
+msgid "OK: %s"
+msgstr "OK: %s"
+
+#: ajax.php:79
+msgid "Missing ID Parameter"
+msgstr "IDパラメータがありません"

@@ -1,0 +1,56 @@
+# Translation of Plugins - Show Current Template - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Show Current Template - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-12 23:59:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Show Current Template - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://tekapo.com/"
+msgstr "http://tekapo.com/"
+
+#. Author of the plugin/theme
+msgid "JOTAKI Taisuke"
+msgstr "上滝 太祐"
+
+#. Description of the plugin/theme
+msgid "Show the current template file name in the tool bar."
+msgstr "現在のテンプレートファイル名をツールバーに表示します。"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wp.tekapo.com/"
+msgstr "http://wp.tekapo.com/"
+
+#. Plugin Name of the plugin/theme
+msgid "Show Current Template"
+msgstr "Show Current Template"
+
+#: show-current-template.php:112
+msgid "Also, below template files are included:"
+msgstr "また、次のテンプレートファイルもインクルードされています:"
+
+#: show-current-template.php:99
+msgid "Template relative path:"
+msgstr "テンプレート相対パス: "
+
+#: show-current-template.php:90
+msgid "Template:"
+msgstr "テンプレート: "
+
+#: show-current-template.php:69
+msgid "NOT a child theme"
+msgstr "子テーマではありません"
+
+#: show-current-template.php:65
+msgid "'s child"
+msgstr " の子テーマです"
+
+#: show-current-template.php:61 show-current-template.php:68
+msgid "Theme name: "
+msgstr "テーマ名: "

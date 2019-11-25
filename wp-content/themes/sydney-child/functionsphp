@@ -1,0 +1,83 @@
+<?php
+/**
+ * Sydney-child functions and definitions
+ *
+ */
+add_action( 'wp_enqueue_scripts', 'sydney_child_enqueue' );
+function sydney_child_enqueue() {
+    wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/style.css' );
+}
+
+function get_post_slug() {
+  global $post;
+  $state = $post->post_type;
+  if($state !== 'post') {
+    return $state;
+  } else {
+    return get_the_category()[0]->category_nicename;
+  }
+}
+// カテゴリーのスラッグがカスタムフィールドの接頭辞に一つでも含んでいるかをチェック
+function has_check_c_fields() {
+  global $post;
+  echo '<pre>';
+  var_dump(get_post_meta($post->ID));
+  echo '</pre>';
+  $category_state = get_the_category()[0]->category_nicename;
+  foreach (get_post_meta($post->ID) as $custom_key => $custom_fields) {
+    if(preg_match("/^$category_state/", $custom_key) && get_post_meta($post->ID, $custom_key, true) && get_field_object($custom_key)) {
+      $results[$custom_key] = true;
+    } else {
+      $results[$custom_key] = false;
+    }
+  }
+  if(array_search(true, $results)) {
+    return true;
+  } else {
+    return false;
+  }
+}
+
+function create_custom_fields() {
+  ob_start();
+  global $post;
+  $category_state = get_the_category()[0]->category_nicename;
+  echo '<table class="wp-table wp-table-bordered custom-field-table custom-field-table--' . $category_state . '">';
+  foreach (get_post_meta($post->ID) as $custom_key => $custom_fields) {
+    if(preg_match("/^$category_state/", $custom_key) && get_post_meta($post->ID, $custom_key, true)){
+        $values = get_field($custom_key);
+        $labels = get_field_object($custom_key);
+        if($labels['label']) {
+          echo '<tr class="custom-field-table__row">';
+            echo '<th class="custom-field-table__th">' . $labels['label'] . '</th>';
+            echo '<td class="custom-field-table__td">';
+            if(gettype($values) === "array") {
+              foreach($values as $arrays) {
+                if($arrays !== end($values)) {
+                  echo $arrays;
+                  echo ",&nbsp;";
+                } else {
+                  echo $arrays;
+                }
+              }
+            } else {
+              echo $values;
+            }
+          echo '</td>';
+        echo '</tr>';
+      }
+    }
+  }
+  echo '</table>';
+  return ob_get_clean();
+}
+function get_custom_fields($content) {
+  var_dump(has_check_c_fields());
+  if(is_single() && has_check_c_fields()) {
+    $content_custom_fields = '';
+    $content_custom_fields = create_custom_fields();
+    $content .= $content_custom_fields;
+  }
+  return $content;
+}
+add_filter('the_content', 'get_custom_fields', 10);

@@ -1,0 +1,38 @@
+/*
+Theme Name: sydney-child
+Template: sydney
+Theme URI:
+Author:
+Author URI:
+Description:
+Version:
+License:
+License URI:
+Text Domain:
+Tags:
+*/
+
+
+
+p {
+    margin-bottom: 0 !important;
+}
+
+@media (max-width: 767px) {
+	p {
+    font-size: 14px;
+}
+}
+.custom-field-table th,
+.custom-field-table td {
+  padding: 1em .6em;
+}
+.custom-field-table th {
+  min-width: 7em;
+  white-space: nowrap;
+  background-color: #eee;
+}
+.custom-field-table td {
+  text-align: left;
+  width: 100%;
+}

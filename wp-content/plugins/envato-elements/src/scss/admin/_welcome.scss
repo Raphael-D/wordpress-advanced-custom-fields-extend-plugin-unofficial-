@@ -1,0 +1,53 @@
+.envato-elements__welcome {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  margin:auto;
+}
+
+.envato-elements__welcome-inner {
+  align-items: center;
+  width: 410px;
+  border: 1px solid #E0E5E9;
+  background-color: #FFFFFF;
+  text-align: center;
+  padding:30px;
+  h2{
+    font-weight: 300;
+    font-size: 20px;
+    color:#777;
+    margin: 0;
+    padding: 0;
+    line-height: 1.1;
+  }
+  p:first-of-type {
+    margin-bottom: 0.5em;
+  }
+  input[type="email"]{
+    padding: 9px;
+    width:100%;
+    border-radius: 5px;
+  }
+  div{
+    padding:2px;
+  }
+  .button-primary{
+    padding: 2px 40px;
+    font-size: 1.1em;
+    height: auto;
+    margin-top: 15px;
+  }
+}
+
+
+.envato-elements__welcome-checkboxes{
+  text-align: left;
+  margin-top: 10px;
+  label{
+    display:flex;
+    padding: 5px;
+    input{
+      margin: auto 10px auto 0;
+    }
+  }
+}

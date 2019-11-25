@@ -1,0 +1,530 @@
+.envato-elements-screen-only,.screen-reader-text,.screen-reader-text span,.ui-helper-hidden-accessible{position:absolute;top:-10000em;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}
+.envato-elements-clearfix:after{content:'';display:block;clear:both;width:0;height:0}
+.envato-elements__wrapper{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin:0;min-height:85vh;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;color:#555d66;background:#f1f1f1}
+.envato-elements__header{background-color:#fff;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;border-bottom:1px solid #e0e5e9}
+.envato-elements__header-logo{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;padding:0 20px 0 20px;min-height:55px}
+.envato-elements__header-logo img{height:22px}
+.envato-elements__header-logo a:active,.envato-elements__header-logo a:focus{outline:0;border:0;-moz-outline-style:none;box-shadow:none}
+.envato-elements__header-menu{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:left;-webkit-justify-content:left;-ms-flex-pack:left;justify-content:left;border-left:1px solid #f1f1f1;-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1}
+.envato-elements__header-menu--right{margin-right:0}
+.envato-elements__header-menu-label{position:absolute;display:block;font-size:10px;top:4px;right:8px;border-radius:5px;padding:0 4px;line-height:15px;background-color:#ca4a1f;color:#fff}
+.envato-elements__header-menuwrap{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:left;-webkit-justify-content:left;-ms-flex-pack:left;justify-content:left;margin:0;padding:0}
+.envato-elements__header-menulink{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;font-weight:500;text-align:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;font-size:13px;text-decoration:none;color:#555d66;height:55px;padding:0 30px}
+.envato-elements__header-menulink:hover{color:#222;background:#f8f9f9}
+.envato-elements__header-menulink:active,.envato-elements__header-menulink:focus{outline:0;border:0;border-right:1px solid #f1f1f1;-moz-outline-style:none;box-shadow:none}
+.envato-elements__header-menulink--current,.envato-elements__header-menulink--current:hover{background-color:#f0f2f4}
+.envato-elements__header-menuitem{padding:0;margin:0;border-right:1px solid #f1f1f1;position:relative}
+.envato-elements__header-menuitem--has-children>.envato-elements__header-menulink{padding:0 40px 0 30px}
+.envato-elements__header-menuitem--has-children>.envato-elements__header-menulink:after{content:"\f345";opacity:.7;top:50%;margin-top:-7px;font-family:dashicons;position:absolute;right:14px;-webkit-transform:rotate(0);-ms-transform:rotate(0);transform:rotate(0);-webkit-transform-origin:50% 50%;-ms-transform-origin:50% 50%;transform-origin:50% 50%;-webkit-transition:-webkit-transform .1s ease;transition:-webkit-transform .1s ease;transition:transform .1s ease;transition:transform .1s ease,-webkit-transform .1s ease}
+.envato-elements__header-menuitem:hover>.envato-elements__header-menulink:after{-webkit-transform:rotate(90deg);-ms-transform:rotate(90deg);transform:rotate(90deg)}
+.envato-elements__header-menusubwrap{position:absolute;z-index:999;box-shadow:0 6px 18px 2px rgba(0,0,0,0.09);width:200px;left:-1px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:left;-webkit-justify-content:left;-ms-flex-pack:left;justify-content:left;margin:0;padding:0;background:#FFF;border-top:1px solid #f1f1f1;border-left:1px solid #f1f1f1;border-right:1px solid #f1f1f1;overflow:hidden;max-height:0;opacity:0;-webkit-transform:scale(0.4);-ms-transform:scale(0.4);transform:scale(0.4);-webkit-transform-origin:60% top;-ms-transform-origin:60% top;transform-origin:60% top;-webkit-transition:0s max-height 0s linear,0.2s opacity cubic-bezier(0.39,0.575,0.565,1),0.15s -webkit-transform cubic-bezier(0.1,1.26,0.83,1);transition:0s max-height 0s linear,0.2s opacity cubic-bezier(0.39,0.575,0.565,1),0.15s -webkit-transform cubic-bezier(0.1,1.26,0.83,1);transition:0s max-height 0s linear,0.2s opacity cubic-bezier(0.39,0.575,0.565,1),0.15s transform cubic-bezier(0.1,1.26,0.83,1);transition:0s max-height 0s linear,0.2s opacity cubic-bezier(0.39,0.575,0.565,1),0.15s transform cubic-bezier(0.1,1.26,0.83,1),0.15s -webkit-transform cubic-bezier(0.1,1.26,0.83,1)}
+.envato-elements__header-menusubwrap .envato-elements__header-menusubitem{margin:0;padding:0;border-bottom:1px solid #f1f1f1}
+.envato-elements__header-menusubwrap .envato-elements__header-menulink{-webkit-box-pack:left;-webkit-justify-content:left;-ms-flex-pack:left;justify-content:left;height:45px}
+.envato-elements__header-menuitem:hover .envato-elements__header-menusubwrap{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);-webkit-transition-delay:.1s;transition-delay:.1s;overflow:visible;opacity:1;max-height:200px}
+.envato-elements__content{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;padding:20px;background:#f8f9f9}
+.envato-elements__content-dynamic{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1}
+.envato-elements__content-dynamic--loading{background-image:url("../images/loader.svg");background-position:center;background-repeat:no-repeat}
+.envato-elements__content-dynamic--loading>*{display:none !important}
+.envato-elements__content-dynamic>.envato-elements__collections-single{margin-top:20px}
+.envato-elements-notice{border:1px solid #e0e5e9;padding:15px;background:#FFF;margin:0 0 15px}
+.envato-elements-notice--error{border-color:#9e4848;color:#9e4848}
+.envato-elements-notice--warning{border-color:#eaeaea;color:#6d6d6d}
+.envato-elements-notice--success{border-color:#1f6824;color:#6d6d6d}
+.envato-elements-notice--global{border-color:#eaeaea;color:#6d6d6d;margin-top:20px}
+.envato-elements-notice--advertisement{border-color:#eaeaea;border-radius:10px;font-size:14px;color:#FFF;margin-top:20px;background:#008482;background:-webkit-linear-gradient(left,#008482,#0dbdbd);background:linear-gradient(to right,#008482,#0dbdbd);background-repeat:repeat-x}
+.envato-elements-notice--advertisement a{color:#FFF}
+.envato-elements-notice__close{float:right;background:transparent;border:0;box-shadow:none;padding:5px;right:9999px;position:relative;width:20px}
+.envato-elements-notice__close:before{right:-9999px;content:"\f335";color:#FFF;padding-right:2px;font-family:dashicons;position:absolute;top:0;width:100%;text-align:center;height:100%;font-size:20px;line-height:30.8px}
+.envato-elements-notice__cta{position:relative;background-color:#fc9f97;padding:5px 10px;margin-left:30px;color:#2d2d2d !important;font-weight:600;border-radius:4px;text-decoration:none;display:inline-block;text-align:center;min-width:100px}
+.envato-elements--action{cursor:pointer}
+.envato-elements__link--back:before{content:"\f341";padding-right:2px;font-family:dashicons;font-size:.7em}
+.envato-elements__link--next:after{content:"\f345";padding-left:2px;font-family:dashicons;font-size:.7em}
+.admin_page_envato-elements-section .smush-notice.notice,.elements_page_envato-elements-activation .smush-notice.notice,.toplevel_page_envato-elements .smush-notice.notice{display:none !important}
+.admin_page_envato-elements-section #screen-meta,.admin_page_envato-elements-section #screen-meta-links,.elements_page_envato-elements-activation #screen-meta,.elements_page_envato-elements-activation #screen-meta-links,.toplevel_page_envato-elements #screen-meta,.toplevel_page_envato-elements #screen-meta-links{display:none}
+.admin_page_envato-elements-section #wpbody-content>.notice,.admin_page_envato-elements-section .update-nag,.admin_page_envato-elements-section .updated,.admin_page_envato-elements-section .error,.admin_page_envato-elements-section .is-dismissible,.admin_page_envato-elements-section #dolly,.elements_page_envato-elements-activation #wpbody-content>.notice,.elements_page_envato-elements-activation .update-nag,.elements_page_envato-elements-activation .updated,.elements_page_envato-elements-activation .error,.elements_page_envato-elements-activation .is-dismissible,.elements_page_envato-elements-activation #dolly,.toplevel_page_envato-elements #wpbody-content>.notice,.toplevel_page_envato-elements .update-nag,.toplevel_page_envato-elements .updated,.toplevel_page_envato-elements .error,.toplevel_page_envato-elements .is-dismissible,.toplevel_page_envato-elements #dolly{display:none}
+.admin_page_envato-elements-section #wpcontent,.elements_page_envato-elements-activation #wpcontent,.toplevel_page_envato-elements #wpcontent{padding-left:0}
+.admin_page_envato-elements-section #wpbody-content,.elements_page_envato-elements-activation #wpbody-content,.toplevel_page_envato-elements #wpbody-content{padding-bottom:0}
+.admin_page_envato-elements-section #wpfooter,.elements_page_envato-elements-activation #wpfooter,.toplevel_page_envato-elements #wpfooter{display:none}
+.envato-elements__error{width:100%}
+.envato-elements-import-button{position:relative}
+.envato-elements-import-button span{display:block;position:absolute;top:3px;right:5px;font:400 20px/1 dashicons;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;vertical-align:top}
+.envato-elements-import-button--importing{padding-right:30px !important}
+.envato-elements-import-button--importing span{-webkit-animation:import-rotation 2s infinite linear;animation:import-rotation 2s infinite linear;width:20px;height:20px}
+.envato-elements-import-button--importing span:before{displaY:block;position:absolute;color:#f56e28;content:"\f463"}
+.envato-elements-import-button--importing.button-primary span:before{color:#fff}
+.envato-elements-import-button--imported span{width:20px;height:20px}
+.envato-elements-import-button--imported span:before{color:#79ba49;content:'\f147';margin:3px 5px 0 -2px}
+.envato-elements-insert-button{position:relative}
+.envato-elements-insert-button span{display:block;position:absolute;top:3px;right:5px;font:400 20px/1 dashicons;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;vertical-align:top}
+.envato-elements-insert-button--inserting{padding-right:30px !important}
+.envato-elements-insert-button--inserting span{-webkit-animation:import-rotation 2s infinite linear;animation:import-rotation 2s infinite linear;width:20px;height:20px}
+.envato-elements-insert-button--inserting span:before{displaY:block;position:absolute;color:#f56e28;content:"\f463"}
+.envato-elements-insert-button--inserting.button-primary span:before{color:#fff}
+.envato-elements-insert-button--inserted{padding-right:30px !important}
+.envato-elements-insert-button--inserted span{width:20px;height:20px}
+.envato-elements-insert-button--inserted span:before{color:#79ba49;content:'\f147';margin:3px 5px 0 -2px}
+.envato-elements__collection--loading .envato-elements-import-button:before,.envato-elements__collections--loading .envato-elements-import-button:before{display:none !important}
+.envato-elements--modal-open{overflow:hidden}
+.envato-elements--modal-open .envato-elements__collection-header,.envato-elements--modal-open .envato-elements__collection-content,.envato-elements--modal-open .envato-elements__collections-header,.envato-elements--modal-open .envato-elements__collections-content{-webkit-filter:blur(2px);filter:blur(2px)}
+.envato-elements__modal{position:fixed;top:0;left:0;right:0;height:100vh;background:rgba(14,14,14,0.79);z-index:900000}
+.envato-elements__modal-inner{position:fixed;left:400px;right:200px;margin-top:20vh;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;text-align:center}
+.envato-elements__modal-header{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin-top:-30px;width:100%;-webkit-align-content:space-between;-ms-flex-line-pack:justify;align-content:space-between}
+.envato-elements__modal-close{margin-left:auto;margin-right:0;width:40px;border:0;box-shadow:none;background:transparent;position:relative;cursor:pointer}
+.envato-elements__modal-close:before{font-family:dashicons;font-size:20px;content:"\f335"}
+.envato-elements__modal-inner-bg{border:1px solid #ccc;width:600px;border-radius:5px;background:#FFF;padding:40px 20px}
+.envato-elements__feedback-question{text-align:center;width:100%}
+.envato-elements__feedback-answers-wrap{width:344px;margin:0 auto;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}
+.envato-elements__feedback-answer{margin:5px;display:inline-block;width:150px;height:150px;border:1px solid #ccc;text-align:center;text-decoration:none;font-size:20px;color:#777;border-radius:5px}
+.envato-elements__feedback-answer span{font-size:80px;display:block;margin-top:38px;margin-bottom:4px}
+.envato-elements__feedback-answer span img{width:45px;height:45px}
+.envato-elements__feedback-answer--yes:hover{background:#6ca12b;color:#FFF}
+.envato-elements__feedback-answer--no:hover{background:#b42f2c;color:#FFF}
+.envato-elements__modal--plugin-feedback *{box-sizing:border-box}
+.envato-elements__modal--plugin-feedback .envato-elements__modal-inner-bg{padding:0}
+.envato-elements__modal--plugin-feedback .envato-elements__modal-header{margin-top:0;padding:5px 30px;border-bottom:2px solid #efefef}
+.envato-elements__modal--plugin-feedback .envato-elements__modal-content{text-align:left;padding:5px 30px 20px}
+.envato-elements__modal--plugin-feedback .envato-elements-notice{padding:0;border:0;text-align:left}
+.envato-elements__modal--plugin-feedback h2{font-size:15px;font-weight:normal}
+.envato-elements__modal--plugin-feedback .elements-deact-text{display:none;padding:5px 0}
+.envato-elements__modal--plugin-feedback .elements-deact-text input{padding:5px;width:100%}
+.envato-elements__modal--plugin-feedback li{padding:3px 0}
+.envato-elements__modal--plugin-feedback [type="radio"]:checked ~ .elements-deact-text{display:block}
+.envato-elements__modal--plugin-feedback .envato-elements__disaable-buttons{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center}
+.envato-elements__modal--plugin-feedback .envato-elements__disable-submit{background-color:#7aac41;border-radius:3px;border:0;color:#fff;line-height:1;padding:12px 20px;font-size:13px;width:180px;height:38px;cursor:pointer !important}
+.envato-elements__modal--plugin-feedback .envato-elements__disable-skip{text-decoration:none;color:#a4afb7;padding-right:20px}
+.envato-elements__chktoggle{position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}
+.envato-elements__chktoggle-input{display:none !important}
+.envato-elements__chktoggle-input:checked ~ .envato-elements__chktoggle-content{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);max-height:400px;opacity:1;-webkit-transition-delay:.1s;transition-delay:.1s;overflow:visible}
+.envato-elements__chktoggle-input:checked ~ .envato-elements__chktoggle-trigger:after{-webkit-transform:rotate(90deg);-ms-transform:rotate(90deg);transform:rotate(90deg)}
+.envato-elements__chktoggle-content{max-height:0;opacity:0;position:absolute;z-index:999;box-shadow:0 -1px 14px 2px rgba(0,0,0,0.09);-webkit-transform:scale(0.4);-ms-transform:scale(0.4);transform:scale(0.4);-webkit-transform-origin:60% top;-ms-transform-origin:60% top;transform-origin:60% top;-webkit-transition:0s max-height 0s linear,0.2s opacity cubic-bezier(0.39,0.575,0.565,1),0.15s -webkit-transform cubic-bezier(0.1,1.26,0.83,1);transition:0s max-height 0s linear,0.2s opacity cubic-bezier(0.39,0.575,0.565,1),0.15s -webkit-transform cubic-bezier(0.1,1.26,0.83,1);transition:0s max-height 0s linear,0.2s opacity cubic-bezier(0.39,0.575,0.565,1),0.15s transform cubic-bezier(0.1,1.26,0.83,1);transition:0s max-height 0s linear,0.2s opacity cubic-bezier(0.39,0.575,0.565,1),0.15s transform cubic-bezier(0.1,1.26,0.83,1),0.15s -webkit-transform cubic-bezier(0.1,1.26,0.83,1);background:#FFF;border-radius:5px;padding:10px;top:100%;right:2px;border-top:0;overflow:hidden}
+.envato-elements__chktoggle-content-inner{max-height:400px;overflow:hidden;overflow-y:auto}
+.envato-elements__chktoggle-content:before{content:'';position:absolute;top:-11px;right:12px;width:0;height:0;z-index:9999;border-bottom:solid 11px #FFF;border-left:solid 11px transparent;border-right:solid 11px transparent}
+.envato-elements__chktoggle-content ul{margin:0;padding:0}
+.envato-elements__chktoggle-trigger{border:0;background:0;text-align:center;position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;padding:0 38px 0 4px;font-size:12px}
+.envato-elements__chktoggle-trigger:after{content:"\f345";opacity:.7;top:50%;margin-top:-9px;font-family:dashicons;position:absolute;right:19px;-webkit-transform:rotate(0);-ms-transform:rotate(0);transform:rotate(0);-webkit-transform-origin:50% 50%;-ms-transform-origin:50% 50%;transform-origin:50% 50%;-webkit-transition:-webkit-transform .1s ease;transition:-webkit-transform .1s ease;transition:transform .1s ease;transition:transform .1s ease,-webkit-transform .1s ease}
+.envato-elements__welcome{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:stretch;-webkit-align-items:stretch;-ms-flex-align:stretch;align-items:stretch;margin:auto}
+.envato-elements__welcome-inner{-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;width:410px;border:1px solid #e0e5e9;background-color:#fff;text-align:center;padding:30px}
+.envato-elements__welcome-inner h2{font-weight:300;font-size:20px;color:#777;margin:0;padding:0;line-height:1.1}
+.envato-elements__welcome-inner p:first-of-type{margin-bottom:.5em}
+.envato-elements__welcome-inner input[type="email"]{padding:9px;width:100%;border-radius:5px}
+.envato-elements__welcome-inner div{padding:2px}
+.envato-elements__welcome-inner .button-primary{padding:2px 40px;font-size:1.1em;height:auto;margin-top:15px}
+.envato-elements__welcome-checkboxes{text-align:left;margin-top:10px}
+.envato-elements__welcome-checkboxes label{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:5px}
+.envato-elements__welcome-checkboxes label input{margin:auto 10px auto 0}
+.envato-elements__collections-single-detail{height:0;-webkit-transition:height .5s;transition:height .5s;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;margin-bottom:20px;overflow:hidden}
+.envato-elements__collections-single{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;width:100%}
+.envato-elements__collections-single--open .envato-elements__collections-single-detail{height:calc(100vh - 367px)}
+.envato-elements__collections-single--opened .envato-elements__collections-single-detail{min-height:300px}
+.envato-elements__collection-detail-thumbnail{width:70%;max-width:1360px;padding-right:30px;height:100%;overflow:hidden;overflow-y:auto}
+.envato-elements__collection-detail-thumbnail .envato-elements__template-features{top:10px;right:40px}
+.envato-elements__collection-detail-actions{width:30%;padding:0 0 0 20px;overflow:hidden;overflow-y:auto}
+.envato-elements__collection-preview-placeholder{min-height:90%;position:relative;overflow:hidden}
+.envato-elements__collection-preview-placeholder>div{z-index:3;position:relative}
+.envato-elements__collection-preview-placeholder .envato-elements__collection-preview-placeholder-img-wrap{position:relative;overflow:hidden;z-index:1}
+.envato-elements__collection-preview-placeholder .envato-elements__collection-preview-placeholder-img-wrap:before{position:absolute;top:0;left:0;right:0;bottom:0;display:block;content:'';z-index:2}
+.envato-elements__collection-preview-placeholder .envato-elements__collection-preview-placeholder-img{position:relative;-webkit-filter:blur(4px);filter:blur(4px);max-width:100%;height:auto;-webkit-transition:opacity .2s linear;transition:opacity .2s linear}
+.envato-elements__collection-preview-placeholder .envato-elements__collection-preview-large-img{position:absolute;left:0;right:0;max-width:100%;height:auto;box-sizing:border-box;z-index:3;opacity:0;-webkit-transition:opacity .2s linear;transition:opacity .2s linear}
+.envato-elements__collection-preview-placeholder.--loaded .envato-elements__collection-preview-large-img{opacity:1}
+.envato-elements__collection-preview-placeholder.--loaded .envato-elements__collection-preview-placeholder-img{opacity:0}
+.envato-elements__collection-template-options{padding-top:10px}
+.envato-elements__collection-template-option{text-align:center;padding:5px 0}
+.envato-elements__collection-template-option img{margin-bottom:10px}
+.envato-elements__collection-template-option p{margin-top:0}
+.envato-elements__collection-template-option a{margin-bottom:5px !important}
+.envato-elements__collection-template-option--create-page input{padding:7px;margin:0 0 10px;min-width:240px}
+.envato-elements__collection-template-option--help-text{padding:5px 5px;color:#979797}
+.envato-elements__collection-template-option--help-text a{color:#979797}
+.envato-elements__collection-template-option--divider{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-basis:100%;-ms-flex-preferred-size:100%;flex-basis:100%;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;color:rgba(0,0,0,0.35);margin:8px 0}
+.envato-elements__collection-template-option--divider:before,.envato-elements__collection-template-option--divider:after{content:"";-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;background:rgba(0,0,0,0.1);height:1px;font-size:0;line-height:0}
+.envato-elements__collection-template-option--divider:before{margin:0 8px 0 0}
+.envato-elements__collection-template-option--divider:after{margin:0 0 0 8px}
+.envato-elements__collection-template-label{display:block;width:100%;text-align:center;padding:6px 0 0 0;opacity:0;-webkit-transition:opacity .4s;transition:opacity .4s;color:#888}
+.envato-elements__collections-single--opened .envato-elements__collection-template-label{opacity:1}
+.envato-elements__collection-preview-close{float:right;background:transparent;border:0;box-shadow:none;padding:5px;position:relative;width:20px;height:20px;display:block}
+.envato-elements__collection-preview-close:before{content:"\f335";padding-right:2px;font-family:dashicons;position:absolute;top:2px;left:0;width:100%;text-align:center;height:100%;font-size:20px;line-height:30.8px}
+.envato-elements__collection-preview-label{margin:0}
+.envato-elements__collection-preview-title{margin:.5em 0}
+.envato-elements__collections{width:100%;position:relative}
+.envato-elements__collections--loading .envato-elements__collections-single-title,.envato-elements__collections--loading .envato-elements__collections-single-count,.envato-elements__collections--loading .envato-elements__link--next,.envato-elements__collections--loading .envato-elements__collections-template{background:#d8d8d9;position:relative;-webkit-transform:translateZ(0);transform:translateZ(0);opacity:.4;border:1px solid #e0e5e9;box-shadow:none;border-radius:3px}
+.envato-elements__collections--loading .envato-elements__collections-single-title:before,.envato-elements__collections--loading .envato-elements__collections-single-title:after,.envato-elements__collections--loading .envato-elements__collections-single-count:before,.envato-elements__collections--loading .envato-elements__collections-single-count:after,.envato-elements__collections--loading .envato-elements__link--next:before,.envato-elements__collections--loading .envato-elements__link--next:after,.envato-elements__collections--loading .envato-elements__collections-template:before,.envato-elements__collections--loading .envato-elements__collections-template:after{content:"";background:-webkit-linear-gradient(right,#d8d8d9,#f2f2f3);background:linear-gradient(270deg,#d8d8d9,#f2f2f3);position:absolute;top:0;right:0;bottom:0;left:0;z-index:-1;-webkit-animation:placeHolderShimmer 4s linear infinite;animation:placeHolderShimmer 4s linear infinite}
+.envato-elements__collections--loading .envato-elements__collections-single-title:before,.envato-elements__collections--loading .envato-elements__collections-single-count:before,.envato-elements__collections--loading .envato-elements__link--next:before,.envato-elements__collections--loading .envato-elements__collections-template:before{-webkit-animation-delay:.35s;animation-delay:.35s;background:-webkit-linear-gradient(left,#d8d8d9,#f2f2f3);background:linear-gradient(90deg,#d8d8d9,#f2f2f3)}
+.envato-elements__collections--loading .envato-elements__link--next,.envato-elements__collections--loading .envato-elements__collections-single-title,.envato-elements__collections--loading .envato-elements__collections-single-count{border-radius:3px;text-indent:-9999px;overflow:hidden;min-width:180px}
+.envato-elements__collections--loading .envato-elements__collections-scroller{border-bottom:2px solid #e0e5e9;overflow:hidden}
+.envato-elements__collections-header{border-bottom:1px solid #e0e5e9;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center}
+.envato-elements__collections-header__title{font-weight:normal;font-size:18px}
+.envato-elements__collections-header__subtypes{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin-right:1em}
+.envato-elements__collections-header__subtype-link{margin:0;padding:1em;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;text-decoration:none;color:#555d66}
+.envato-elements__collections-header__subtype-link--current{background-color:#f0f2f4;box-shadow:inset 0 -2px 0 0 #81b440}
+.envato-elements__collections-header__subnav{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;padding-left:.5em;background:#FFF;border:1px solid #f1f1f1;margin-top:-2px;white-space:nowrap;overflow:hidden;height:42px}
+.envato-elements__collections-header__subnav--hasmore{overflow:visible}
+.envato-elements__collections-header__subnav-title{margin:0 1em;font-size:12px;opacity:.7;font-weight:normal;color:#23282d}
+.envato-elements__collections-header__subnav-link{margin:.5em 0;padding:.3em 1em;font-size:12px;color:#555d66;font-weight:bold;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;text-decoration:none;text-align:center;white-space:nowrap}
+.envato-elements__collections-header__subnav-link--current{background-color:#81b440;border-radius:2px;color:#FFF}
+.envato-elements__collections-header__subnav-link--current:hover{color:#FFF}
+.envato-elements__collections-header__subnav-link--hidden{display:none}
+.envato-elements__collections-header__subnav-link-count{font-weight:normal;display:inline-block;margin-left:.4em;opacity:.7}
+.envato-elements__collections-header__subnav-more{display:none;height:42px;margin:.5em 0 .5em 1em}
+.envato-elements__collections-header__subnav-more .envato-elements__chktoggle-trigger{color:#555d66;font-weight:bold}
+.envato-elements__collections-header__subnav-more .envato-elements__chktoggle-trigger:before{right:0;font-weight:normal;left:auto;opacity:.7}
+.envato-elements__collections-header__subnav-more .envato-elements__chktoggle-content-inner .envato-elements__collections-header__subnav-link{text-align:left;-webkit-box-pack:left;-webkit-justify-content:left;-ms-flex-pack:left;justify-content:left}
+.envato-elements__collections-header__subnav--hasmore .envato-elements__collections-header__subnav-more{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}
+.envato-elements__collections-content{padding-top:20px}
+.envato-elements__collections-single{margin-bottom:20px;padding-bottom:20px;cursor:default}
+.envato-elements__collections-single:last-child{border-bottom:0}
+.envato-elements__collections-single-summary header{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;margin-bottom:25px;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between}
+.envato-elements__collections-single-summary header h3{border-right:1px solid #e0e5e9;padding-right:20px;font-weight:normal;font-size:16px}
+.envato-elements__collections-single-summary header span{-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1;max-width:235px;margin-left:20px;margin-right:auto}
+.envato-elements__collections-single-summary header a{text-decoration:none;color:#555d66}
+.envato-elements__collections-single-summary header a:hover{text-decoration:underline}
+.envato-elements__collections-single-summary header *{margin:0;padding:0;height:30px;line-height:30px}
+.envato-elements__collections-scroller{padding:6px 6px 36px;margin:0 -6px}
+.envato-elements__collections-single--opened .envato-elements__collections-scroller{padding-bottom:48px}
+.envato-elements__collections-templates{height:106px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row}
+.envato-elements__collection-template-cell{margin:0;padding:1px;-webkit-box-flex:0;-webkit-flex:0 0 auto;-ms-flex:0 0 auto;flex:0 0 auto;margin-right:24px;border:2px solid #FFF;background:#FFF;position:relative}
+.envato-elements__collection-template-cell--active{border:2px solid #0079b4}
+.envato-elements__template-features{position:absolute;right:8px;top:10px;font-size:12px;line-height:12px;z-index:10}
+.envato-elements__template-features .envato-elements__template-feature{background:#FFF;box-sizing:border-box;pointer-events:none;text-transform:uppercase;right:5px;background-color:#555;color:#f1f1f1;padding:2px 4px;font-size:11px;border-radius:2px}
+.envato-elements__collection-template{overflow:hidden}
+.envato-elements__collection-template-thumb{padding-bottom:0 !important;text-decoration:none;display:block;position:relative;width:200px;height:100px;border:0 !important;overflow:hidden;background-position:center top;background-size:cover;background-repeat:no-repeat;-webkit-transition:background-position 3s ease-out;transition:background-position 3s ease-out}
+.envato-elements__collection-template-thumb:hover{background-position:center bottom}
+.envato-elements__pagination{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}
+.envato-elements__pagination a{display:inline-block;border:1px solid #e0e5e9;padding:10px 20px;color:#444;text-decoration:none;font-size:16px;margin:0 2px}
+.envato-elements__pagination a:hover{background:#e0e5e9}
+.envato-elements__pagination-item--current{display:inline-block;border:1px solid #e0e5e9;padding:10px 20px;color:#444;text-decoration:none;font-size:16px;margin:0 2px;background:#f1f1f1}
+.envato-elements__coming-soon{background:#FFF;border:1px dotted #e0e5e9;border-left:5px solid #e0e5e9;text-align:left;margin-bottom:20px;padding:20px 10px}
+.envato-elements__collections-single-title--new:after{content:'NEW';background:#81b440;font-size:11px;padding:3px 5px;text-transform:uppercase;color:#FFF;font-weight:normal;margin-left:15px}
+.envato-elements__collections--elementor-blocks .envato-elements__collections-content{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:100%;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column}
+.envato-elements__collections--elementor-blocks .envato-elements__collections-content .envato-elements__block-wrap{margin-bottom:20px}
+.envato-elements__collections--elementor-blocks .envato-elements__collections-content .envato-elements__block-type{text-align:center;margin:0 3px 20px;overflow:hidden}
+.envato-elements__collections--elementor-blocks .envato-elements__collections-content .envato-elements__block-type h3{display:inline-block;font-weight:normal;font-size:15px;margin:0;padding:5px 10px;position:relative}
+.envato-elements__collections--elementor-blocks .envato-elements__collections-content .envato-elements__block-type h3:before,.envato-elements__collections--elementor-blocks .envato-elements__collections-content .envato-elements__block-type h3:after{content:'';border-top:1px solid #ddd;border-bottom:1px solid #fafafa;position:absolute;height:1px;top:12px;width:1300px}
+.envato-elements__collections--elementor-blocks .envato-elements__collections-content .envato-elements__block-type h3:before{right:100%;margin-right:15px}
+.envato-elements__collections--elementor-blocks .envato-elements__collections-content .envato-elements__block-type h3:after{left:100%;margin-left:15px}
+.envato-elements__collections--elementor-blocks .envato-elements__collections-content .envato-elements__block-content{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;margin:0 -27px}
+.envato-elements__collections--elementor-blocks .envato-elements__collections-content .envato-elements__collection-blocks{width:30%;margin:0 auto 30px;background:transparent;border:0;padding:0;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;box-sizing:border-box}
+.envato-elements__collections--elementor-blocks .envato-elements__collections-content .envato-elements__collection-blocks .envato-elements__collection-template{background:#FFF;padding:5px;border:1px solid #f1f1f1}
+.envato-elements__collections--elementor-blocks .envato-elements__collections-content .envato-elements__collection-blocks .envato-elements__collection-template .envato-elements__block-title{text-align:center;padding:5px;display:none}
+.envato-elements__collections--elementor-blocks .envato-elements__collections-content .envato-elements__collection-blocks .envato-elements__collection-block-thumb{display:block;line-height:0;background-repeat:no-repeat;background-size:100% auto}
+.envato-elements__collections--elementor-blocks .envato-elements__collections-content .envato-elements__collection-blocks .envato-elements__collection-block-thumb img{max-width:100%;height:auto;opacity:1;-webkit-transition:opacity linear .2s;transition:opacity linear .2s}
+.envato-elements__collections--elementor-blocks .envato-elements__collections-content .envato-elements__collection-blocks .envato-elements__collection-block-thumb.--lazyloaded img{opacity:0}
+.envato-elements__collections--elementor-blocks.--block-visible{display:none}
+.envato-elements__block-preview{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:20px 20px 0 0;position:relative}
+.envato-elements__block-detail-thumbnail{width:70%;max-width:1360px;padding-right:30px;height:100%;overflow:hidden;overflow-y:auto;position:relative}
+.envato-elements__block-detail-thumbnail .envato-elements__template-features{top:10px;right:40px}
+.envato-elements__block-detail-actions{width:30%;padding:0 0 0 20px;overflow:hidden;overflow-y:auto}
+.envato-elements__block-preview-placeholder{min-height:90%;position:relative}
+.envato-elements__block-preview-placeholder>div{z-index:3;position:relative}
+.envato-elements__block-preview-placeholder .envato-elements__block-preview-placeholder-img-wrap{position:relative;overflow:hidden;z-index:1}
+.envato-elements__block-preview-placeholder .envato-elements__block-preview-placeholder-img-wrap:before{position:absolute;top:0;left:0;right:0;bottom:0;display:block;content:'';z-index:2}
+.envato-elements__block-preview-placeholder .envato-elements__block-preview-placeholder-img{position:relative;-webkit-filter:blur(4px);filter:blur(4px);max-width:100%;height:auto;-webkit-transition:opacity .2s linear;transition:opacity .2s linear}
+.envato-elements__block-preview-placeholder .envato-elements__block-preview-large-img{position:absolute;left:0;right:0;width:100%;max-width:100%;height:auto;box-sizing:border-box;z-index:3;opacity:0;-webkit-transition:opacity .2s linear;transition:opacity .2s linear}
+.envato-elements__block-preview-placeholder.--loaded .envato-elements__block-preview-large-img{opacity:1}
+.envato-elements__block-preview-placeholder.--loaded .envato-elements__block-preview-placeholder-img{opacity:0}
+.envato-elements__block-template-options{padding-top:10px}
+.envato-elements__block-template-option{text-align:center;padding:5px 0}
+.envato-elements__block-template-option img{margin-bottom:10px}
+.envato-elements__block-template-option p{margin-top:0}
+.envato-elements__block-template-option a{margin-bottom:5px !important}
+.envato-elements__block-template-option--create-page input{padding:7px;margin:0 0 10px;min-width:240px}
+.envato-elements__block-template-option--help-text{padding:5px 5px;color:#979797}
+.envato-elements__block-template-option--help-text a{color:#979797}
+.envato-elements__block-template-option--divider{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-basis:100%;-ms-flex-preferred-size:100%;flex-basis:100%;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;color:rgba(0,0,0,0.35);margin:8px 0}
+.envato-elements__block-template-option--divider:before,.envato-elements__block-template-option--divider:after{content:"";-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;background:rgba(0,0,0,0.1);height:1px;font-size:0;line-height:0}
+.envato-elements__block-template-option--divider:before{margin:0 8px 0 0}
+.envato-elements__block-template-option--divider:after{margin:0 0 0 8px}
+.envato-elements__block-template-label{display:block;width:100%;text-align:center;padding:6px 0 0 0;opacity:0;-webkit-transition:opacity .4s;transition:opacity .4s;color:#888}
+.envato-elements__blocks-single--opened .envato-elements__block-template-label{opacity:1}
+.envato-elements__block-preview-close{background:transparent;border:0;box-shadow:none;padding:5px;position:absolute;top:0;right:0;width:20px;height:20px;display:block}
+.envato-elements__block-preview-close:before{content:"\f335";padding-right:2px;font-family:dashicons;position:absolute;top:2px;left:0;width:100%;text-align:center;height:100%;font-size:20px;line-height:30.8px}
+.envato-elements__block-preview-label{margin:0}
+.envato-elements__block-preview-title{margin:.5em 0}
+.envato-elements__photos-header{background:#fff;margin:-5px -20px 5px;box-shadow:0 2px 2px rgba(0,0,0,0.1);padding:20px}
+.envato-elements__collections--photos .envato-elements__collections-content{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:100%;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap}
+.envato-elements__collections--photos .envato-elements__photo-wrap{position:relative;margin:0 10px 10px 0}
+.envato-elements__collections--photos .envato-elements__collection-photo-thumb{display:block;line-height:0;background-repeat:no-repeat;background-size:100% auto}
+.envato-elements__collections--photos .envato-elements__photo-title{position:absolute;bottom:0;display:none}
+.envato-elements__collections--photos.--photo-visible{display:none}
+.envato-elements__photo-preview{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:20px 20px 0 0;position:relative}
+.envato-elements__photo-detail-thumbnail{width:70%;max-width:1360px;padding-right:30px;height:100%;max-height:80vh;overflow:hidden;overflow-y:auto;position:relative}
+.envato-elements__photo-detail-thumbnail .envato-elements__template-features{top:10px;right:40px}
+.envato-elements__photo-detail-actions{width:30%;padding:0 0 0 20px;overflow:hidden;overflow-y:auto}
+.envato-elements__photo-preview-placeholder{min-height:90%;position:relative}
+.envato-elements__photo-preview-placeholder>div{z-index:3;position:relative}
+.envato-elements__photo-preview-placeholder .envato-elements__photo-preview-placeholder-img-wrap{position:relative;overflow:hidden;z-index:1}
+.envato-elements__photo-preview-placeholder .envato-elements__photo-preview-placeholder-img-wrap:before{position:absolute;top:0;left:0;right:0;bottom:0;display:block;content:'';z-index:2}
+.envato-elements__photo-preview-placeholder .envato-elements__photo-preview-placeholder-img{position:relative;-webkit-filter:blur(4px);filter:blur(4px);max-width:100%;width:100%;height:auto;-webkit-transition:opacity .2s linear;transition:opacity .2s linear}
+.envato-elements__photo-preview-placeholder .envato-elements__photo-preview-large-img{position:absolute;left:0;right:0;width:100%;max-width:100%;height:auto;box-sizing:border-box;z-index:3;opacity:0;-webkit-transition:opacity .2s linear;transition:opacity .2s linear}
+.envato-elements__photo-preview-placeholder.--loaded .envato-elements__photo-preview-large-img{opacity:1}
+.envato-elements__photo-preview-placeholder.--loaded .envato-elements__photo-preview-placeholder-img{opacity:0}
+.envato-elements__photo-template-options{padding-top:10px}
+.envato-elements__photo-template-option{text-align:center;padding:5px 0}
+.envato-elements__photo-template-option img{margin-bottom:10px}
+.envato-elements__photo-template-option p{margin-top:0}
+.envato-elements__photo-template-option a{margin-bottom:5px !important}
+.envato-elements__photo-template-option--create-page input{padding:7px;margin:0 0 10px;min-width:240px}
+.envato-elements__photo-template-option--help-text{padding:5px 5px;color:#979797}
+.envato-elements__photo-template-option--help-text a{color:#979797}
+.envato-elements__photo-template-option--divider{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-basis:100%;-ms-flex-preferred-size:100%;flex-basis:100%;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;color:rgba(0,0,0,0.35);margin:8px 0}
+.envato-elements__photo-template-option--divider:before,.envato-elements__photo-template-option--divider:after{content:"";-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;background:rgba(0,0,0,0.1);height:1px;font-size:0;line-height:0}
+.envato-elements__photo-template-option--divider:before{margin:0 8px 0 0}
+.envato-elements__photo-template-option--divider:after{margin:0 0 0 8px}
+.envato-elements__photo-template-label{display:block;width:100%;text-align:center;padding:6px 0 0 0;opacity:0;-webkit-transition:opacity .4s;transition:opacity .4s;color:#888}
+.envato-elements__photos-single--opened .envato-elements__photo-template-label{opacity:1}
+.envato-elements__photo-preview-close{background:transparent;border:0;box-shadow:none;padding:5px;position:absolute;top:0;right:0;width:20px;height:20px;display:block}
+.envato-elements__photo-preview-close:before{content:"\f335";padding-right:2px;font-family:dashicons;position:absolute;top:2px;left:0;width:100%;text-align:center;height:100%;font-size:20px;line-height:30.8px}
+.envato-elements__photo-preview-label{margin:0}
+.envato-elements__photo-preview-title{margin:.5em 0}
+.envato-elements__importer-wrapper{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}
+.envato-elements__importer{margin-left:auto;margin-right:0;height:55px}
+.envato-elements__importer-status{border-left:1px solid #f1f1f1;border-right:1px solid #f1f1f1;opacity:0;-webkit-transition:opacity .2s linear;transition:opacity .2s linear;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;text-align:center;display:none}
+.envato-elements__importer-status.--active{opacity:.8;padding:0 20px}
+.envato-elements__importer-trigger{padding-left:20px}
+.envato-elements__importer-list{width:320px;line-height:1}
+.envato-elements__support{height:40px;border-top:1px solid #e0e5e9;width:100%;clear:both;line-height:40px}
+.envato-elements__support p{text-align:center}
+.envato-elements__topnav-wrapper{margin-left:auto;margin-right:6px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}
+.envato-elements__topnav-section-link{text-decoration:none;padding:10px;color:#555d66}
+.envato-elements__section{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:stretch;-webkit-align-items:stretch;-ms-flex-align:stretch;align-items:stretch;margin:auto}
+.envato-elements__section-inner{-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;max-width:1000px;margin:40px auto;border:1px solid #e0e5e9;background-color:#fff;text-align:center}
+.envato-elements__section-inner h2{font-weight:300;font-size:20px;color:#777;margin:0;padding:0;line-height:1.1}
+.envato-elements__section-inner p{font-size:14px}
+.envato-elements__section-inner .button-primary{padding:2px 40px;font-size:1.1em;height:auto;margin-top:15px}
+.envato-elements__section-banner{display:block;padding:20px 40px 30px;border-radius:4px;margin-top:30px;text-align:center;margin-bottom:5px}
+.envato-elements__section-banner p{color:#464646 !important;font-size:16px}
+.envato-elements__section-banner a.button-primary{padding:10px 40px;background:#7aac41;border:1px solid #65913b;text-shadow:none;box-shadow:none}
+.envato-elements__section-banner a.button-primary:hover{background:#65913b}
+.envato-elements__photos-logo{width:220px;margin-bottom:20px}
+.envato-elements__photos-promo{max-width:100%;height:auto}
+.envato-elements__notifications-wrapper{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}
+.envato-elements__notifications{margin-left:auto;margin-right:0;height:55px}
+.envato-elements__notifications-trigger{padding-left:20px}
+.envato-elements__notifications-list{width:320px;padding:15px 10px 20px 20px;overflow:hidden}
+.envato-elements__notifications_list{overflow:hidden}
+.envato-elements__notifications_item{color:#363b3f;position:relative;padding:5px 0 10px 20px;margin-bottom:0}
+.envato-elements__notifications_item:before{content:"";position:absolute;width:1px;left:5px;top:10px;bottom:-60px;background-color:#81b440}
+.envato-elements__notifications_item:after{content:"";top:10px;left:1px;position:absolute;display:inline-block;box-sizing:border-box;width:8px;height:8px;background-color:white;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;border-width:1px;border-style:solid;border-color:#81b440;-webkit-border-image:initial;-o-border-image:initial;border-image:initial;border-radius:50%}
+.envato-elements__notifications_item__date{opacity:.5;font-size:9px;text-transform:uppercase;margin-bottom:5px}
+.envato-elements__notifications_item__categories{font-size:11px;margin-bottom:5px}
+.envato-elements__notifications_item__title{font-size:14px;font-weight:bold;padding:4px 0 0 0}
+.envato-elements__notifications_item__content{font-size:12px}
+.envato-elements__notifications_item__content p{margin:7px 0}
+.envato-elements__notifications .envato-elements__notifications_list li:last-of-type{padding-bottom:0}
+.envato-elements__notifications .envato-elements__header-menu-label{top:20px;right:16px;border-radius:50%;padding:1px 6px;z-index:100}
+/*! OverlayScrollbars https://github.com/KingSora/OverlayScrollbars Version: 1.4.5 Copyright KingSora. https://github.com/KingSora Released under the MIT license. Date: 18.05.2018 */html.os-html,html.os-html>.os-host{display:block;overflow:hidden;box-sizing:border-box;height:100% !important;width:100% !important;min-width:100% !important;min-height:100% !important;margin:0 !important;position:absolute !important}
+html.os-html>.os-host>.os-padding{position:absolute}
+body.os-dragging,body.os-dragging *{cursor:default}
+.os-host,.os-host-textarea{position:relative;overflow:visible !important}
+#hs-dummy-scrollbar-size{position:fixed;opacity:0;-ms-filter:'alpha(opacity=0)';visibility:hidden;overflow:scroll;height:500px;width:500px}
+#hs-dummy-scrollbar-size,.os-viewport{-ms-overflow-style:scrollbar !important}
+.os-viewport-native-scrollbars-invisible#hs-dummy-scrollbar-size::-webkit-scrollbar,.os-viewport-native-scrollbars-invisible.os-viewport::-webkit-scrollbar,.os-viewport-native-scrollbars-invisible#hs-dummy-scrollbar-size::-webkit-scrollbar-corner,.os-viewport-native-scrollbars-invisible.os-viewport::-webkit-scrollbar-corner{display:none !important;width:0 !important;height:0 !important;visibility:hidden !important;background:transparent !important}
+.os-content-glue{max-height:100%;max-width:100%;width:100%;pointer-events:none}
+.os-padding{direction:inherit;position:absolute;overflow:visible;padding:0;margin:0;left:0;top:0;bottom:0;right:0;width:auto !important;height:auto !important;z-index:1}
+.os-host-overflow>.os-padding{overflow:hidden}
+.os-viewport{direction:inherit !important;box-sizing:inherit !important;resize:none !important;position:absolute;overflow:hidden;top:0;left:0;bottom:0;right:0;padding:0;margin:0;-webkit-overflow-scrolling:touch}
+.os-content-arrange{position:absolute;z-index:-1;min-height:1px;min-width:1px;pointer-events:none}
+.os-content{direction:inherit;box-sizing:border-box !important;position:relative;display:block;height:100%;width:100%;height:100%;width:100%;visibility:visible}
+.os-host-textarea>.os-padding>.os-content{overflow:hidden !important}
+.os-content>.os-textarea{direction:inherit !important;float:none !important;margin:0 !important;max-height:none !important;max-width:none !important;border:none !important;border-radius:0 !important;background:transparent !important;outline:0 none transparent !important;overflow:hidden !important;resize:none !important;position:absolute !important;top:0 !important;left:0 !important;z-index:1;padding:0}
+.os-host-rtl>.os-padding>.os-viewport>.os-content>.os-textarea{right:0 !important}
+.os-content>.os-textarea-cover{z-index:-1;pointer-events:none}
+.os-content>.os-textarea[wrap='off']{white-space:pre !important;margin:0 !important}
+.os-text-inherit{font-family:inherit;font-size:inherit;font-weight:inherit;font-style:inherit;font-variant:inherit;text-transform:inherit;text-decoration:inherit;text-indent:inherit;text-align:inherit;text-shadow:inherit;text-overflow:inherit;letter-spacing:inherit;word-spacing:inherit;line-height:inherit;unicode-bidi:inherit;direction:inherit;color:inherit;cursor:text}
+.os-resize-observer,.os-resize-observer-host{box-sizing:inherit;display:block;opacity:0;position:absolute;top:0;left:0;height:100%;width:100%;overflow:hidden;pointer-events:none;z-index:-1}
+.os-resize-observer-host{padding:inherit;border:inherit;border-color:transparent;border-style:solid;box-sizing:border-box}
+.os-resize-observer-host:after{content:''}
+.os-resize-observer-host>.os-resize-observer,.os-resize-observer-host:after{height:200%;width:200%;padding:inherit;border:inherit;margin:0;display:block;box-sizing:content-box}
+.os-resize-observer.observed,object.os-resize-observer{box-sizing:border-box !important}
+.os-size-auto-observer{box-sizing:inherit !important;height:100%;width:inherit;max-width:1px;position:relative;float:left;max-height:1px;margin-top:-1px;overflow:hidden;z-index:-1;padding:0;margin:0;pointer-events:none}
+.os-size-auto-observer>.os-resize-observer{width:1000%;height:1000%;min-height:1px;min-width:1px}
+.os-resize-observer-item{position:absolute;top:0;right:0;bottom:0;left:0;overflow:hidden;z-index:-1;opacity:0;direction:ltr !important;-webkit-box-flex:0 !important;-ms-flex:none !important;-webkit-flex:none !important;flex:none !important}
+.os-resize-observer-item-final{position:absolute;left:0;top:0;-webkit-transition:none !important;transition:none !important;-webkit-box-flex:0 !important;-ms-flex:none !important;-webkit-flex:none !important;flex:none !important}
+.os-resize-observer{-webkit-animation-duration:.001s;animation-duration:.001s;-webkit-animation-name:hs-resize-observer-dummy-animation;animation-name:hs-resize-observer-dummy-animation}
+.os-host-transition>.os-scrollbar,.os-host-transition>.os-scrollbar-corner{-webkit-transition:opacity .3s,visibility .3s,top .3s,right .3s,bottom .3s,left .3s;transition:opacity .3s,visibility .3s,top .3s,right .3s,bottom .3s,left .3s}
+html.os-html>.os-host>.os-scrollbar{position:absolute;z-index:999999}
+.os-scrollbar,.os-scrollbar-corner{position:absolute;opacity:1;-ms-filter:'alpha(opacity=100)';z-index:1}
+.os-scrollbar-corner{bottom:0;right:0}
+.os-scrollbar-track{pointer-events:auto;position:relative;height:100%;width:100%;padding:0 !important;border:none !important}
+.os-scrollbar-handle{pointer-events:auto;position:absolute;width:100%;height:100%;cursor:pointer}
+.os-scrollbar-handle-off,.os-scrollbar-track-off{pointer-events:none}
+.os-scrollbar.os-scrollbar-unusable,.os-scrollbar.os-scrollbar-unusable *{pointer-events:none !important}
+.os-scrollbar.os-scrollbar-unusable .os-scrollbar-handle{opacity:0 !important}
+.os-scrollbar-horizontal{bottom:0;left:0}
+.os-scrollbar-vertical{top:0;right:0}
+.os-host-rtl>.os-scrollbar-horizontal{right:0}
+.os-host-rtl>.os-scrollbar-vertical{right:auto;left:0}
+.os-host-rtl>.os-scrollbar-corner{right:auto;left:0}
+.os-scrollbar-auto-hidden,.os-padding+.os-scrollbar-corner,.os-host-resize-disabled.os-host-scrollbar-horizontal-hidden>.os-scrollbar-corner,.os-host-scrollbar-horizontal-hidden>.os-scrollbar-horizontal,.os-host-resize-disabled.os-host-scrollbar-vertical-hidden>.os-scrollbar-corner,.os-host-scrollbar-vertical-hidden>.os-scrollbar-vertical,.os-scrollbar-horizontal.os-scrollbar-auto-hidden+.os-scrollbar-vertical+.os-scrollbar-corner,.os-scrollbar-horizontal+.os-scrollbar-vertical.os-scrollbar-auto-hidden+.os-scrollbar-corner,.os-scrollbar-horizontal.os-scrollbar-auto-hidden+.os-scrollbar-vertical.os-scrollbar-auto-hidden+.os-scrollbar-corner{opacity:0;visibility:hidden;pointer-events:none}
+.os-scrollbar-corner-resize-both{cursor:nwse-resize}
+.os-host-rtl>.os-scrollbar-corner-resize-both{cursor:nesw-resize}
+.os-scrollbar-corner-resize-horizontal{cursor:ew-resize}
+.os-scrollbar-corner-resize-vertical{cursor:ns-resize}
+.os-dragging .os-scrollbar-corner.os-scrollbar-corner-resize{cursor:default}
+.os-host-resize-disabled.os-host-scrollbar-horizontal-hidden>.os-scrollbar-vertical{top:0;bottom:0}
+.os-host-resize-disabled.os-host-scrollbar-vertical-hidden>.os-scrollbar-horizontal{right:0;left:0}
+.os-scrollbar:hover,.os-scrollbar-corner.os-scrollbar-corner-resize{opacity:1 !important;visibility:visible !important}
+.os-scrollbar-corner.os-scrollbar-corner-resize{background-image:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PHN2ZyAgIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgICB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbnMjIiAgIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyIgICB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgICB3aWR0aD0iMTAiICAgaGVpZ2h0PSIxMCIgICB2ZXJzaW9uPSIxLjEiPiAgPGcgICAgIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsLTEwNDIuMzYyMikiICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmUiPiAgICA8cGF0aCAgICAgICBzdHlsZT0iZmlsbDojMDAwMDAwO2ZpbGwtb3BhY2l0eTowLjQ5NDExNzY1O2ZpbGwtcnVsZTpldmVub2RkO3N0cm9rZTpub25lIiAgICAgICBkPSJtIDcuNDI0MjE4NywxMDQyLjM2MjIgYyAtMC43MjM1NzkyLDAgLTEuMzEwMTU2MiwwLjU4NjYgLTEuMzEwMTU2MiwxLjMxMDIgMCwwLjI5OSAwLjEwNDM0MTksMC41NzEgMC4yNzI5NDkyLDAuNzkxNSAwLjIwOTEwMjQsMC4xNDEzIDAuNDY1NjIwNiwwLjIxODQgMC43MzY5NjI5LDAuMjE4NCAwLjcyMzU3OTMsMCAxLjMxMDE1NjMsLTAuNTg2NiAxLjMxMDE1NjMsLTEuMzEwMiAwLC0wLjI3MTMgLTAuMDc3MDkzLC0wLjUyNzggLTAuMjE4MzU5NCwtMC43MzcgLTAuMjIwNDk0MSwtMC4xNjg2IC0wLjQ5MjU0NDMsLTAuMjcyOSAtMC43OTE1NTI4LC0wLjI3MjkgeiBtIDAsMy4wODQzIGMgLTAuNzIzNTc5MiwwIC0xLjMxMDE1NjIsMC41ODY2IC0xLjMxMDE1NjIsMS4zMTAyIDAsMC4yOTkgMC4xMDQzNDE5LDAuNTcxIDAuMjcyOTQ5MiwwLjc5MTUgMC4yMDkxMDI0LDAuMTQxMyAwLjQ2NTYyMDYsMC4yMTg0IDAuNzM2OTYyOSwwLjIxODQgMC43MjM1NzkzLDAgMS4zMTAxNTYzLC0wLjU4NjYgMS4zMTAxNTYzLC0xLjMxMDIgMCwtMC4yNzEzIC0wLjA3NzA5MywtMC41Mjc4IC0wLjIxODM1OTQsLTAuNzM2OSAtMC4yMjA0OTQxLC0wLjE2ODYgLTAuNDkyNTQ0MywtMC4yNzMgLTAuNzkxNTUyOCwtMC4yNzMgeiBtIC0zLjA4NDMyNjEsMCBjIC0wLjcyMzU3OTMsMCAtMS4zMTAxNTYzLDAuNTg2NiAtMS4zMTAxNTYzLDEuMzEwMiAwLDAuMjk5IDAuMTA0MzQxOSwwLjU3MSAwLjI3Mjk0OTIsMC43OTE1IDAuMjA5MTAyNCwwLjE0MTMgMC40NjU2MjA3LDAuMjE4NCAwLjczNjk2MjksMC4yMTg0IDAuNzIzNTc5MywwIDEuMzEwMTU2MywtMC41ODY2IDEuMzEwMTU2MywtMS4zMTAyIDAsLTAuMjcxMyAtMC4wNzcwOTMsLTAuNTI3OCAtMC4yMTgzNTk0LC0wLjczNjkgLTAuMjIwNDk0LC0wLjE2ODYgLTAuNDkyNTQ0MiwtMC4yNzMgLTAuNzkxNTUyNywtMC4yNzMgeiBtIC0zLjAyOTczNjQsMy4wMjk4IEMgMC41ODY1NzY5MywxMDQ4LjQ3NjMgMCwxMDQ5LjA2MjggMCwxMDQ5Ljc4NjQgYyAwLDAuMjk5IDAuMTA0MzQxOSwwLjU3MTEgMC4yNzI5NDkyMiwwLjc5MTYgMC4yMDkxMDIyOSwwLjE0MTIgMC40NjU2MjA2NSwwLjIxODMgMC43MzY5NjI4OCwwLjIxODMgMC43MjM1NzkzLDAgMS4zMTAxNTYzLC0wLjU4NjUgMS4zMTAxNTYzLC0xLjMxMDEgMCwtMC4yNzE0IC0wLjA3NzA5MywtMC41Mjc5IC0wLjIxODM1OTQsLTAuNzM3IC0wLjIyMDQ5NDEsLTAuMTY4NiAtMC40OTI1NDQzLC0wLjI3MjkgLTAuNzkxNTUyOCwtMC4yNzI5IHogbSAzLjAyOTczNjQsMCBjIC0wLjcyMzU3OTMsMCAtMS4zMTAxNTYzLDAuNTg2NSAtMS4zMTAxNTYzLDEuMzEwMSAwLDAuMjk5IDAuMTA0MzQxOSwwLjU3MTEgMC4yNzI5NDkyLDAuNzkxNiAwLjIwOTEwMjQsMC4xNDEyIDAuNDY1NjIwNywwLjIxODMgMC43MzY5NjI5LDAuMjE4MyAwLjcyMzU3OTMsMCAxLjMxMDE1NjMsLTAuNTg2NSAxLjMxMDE1NjMsLTEuMzEwMSAwLC0wLjI3MTQgLTAuMDc3MDkzLC0wLjUyNzkgLTAuMjE4MzU5NCwtMC43MzcgLTAuMjIwNDk0LC0wLjE2ODYgLTAuNDkyNTQ0MiwtMC4yNzI5IC0wLjc5MTU1MjcsLTAuMjcyOSB6IG0gMy4wODQzMjYxLDAgYyAtMC43MjM1NzkyLDAgLTEuMzEwMTU2MiwwLjU4NjUgLTEuMzEwMTU2MiwxLjMxMDEgMCwwLjI5OSAwLjEwNDM0MTksMC41NzExIDAuMjcyOTQ5MiwwLjc5MTYgMC4yMDkxMDI0LDAuMTQxMiAwLjQ2NTYyMDYsMC4yMTgzIDAuNzM2OTYyOSwwLjIxODMgMC43MjM1NzkzLDAgMS4zMTAxNTYzLC0wLjU4NjUgMS4zMTAxNTYzLC0xLjMxMDEgMCwtMC4yNzE0IC0wLjA3NzA5MywtMC41Mjc5IC0wLjIxODM1OTQsLTAuNzM3IC0wLjIyMDQ5NDEsLTAuMTY4NiAtMC40OTI1NDQzLC0wLjI3MjkgLTAuNzkxNTUyOCwtMC4yNzI5IHoiLz4gIDwvZz4gIDxnICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmUiPiAgICA8cGF0aCAgICAgICBzdHlsZT0iZmlsbDojZmZmZmZmO2ZpbGwtb3BhY2l0eToxO2ZpbGwtcnVsZTpldmVub2RkO3N0cm9rZTpub25lIiAgICAgICBkPSJtIDguMjE1NzcxNSwwLjI3Mjk0OTIyIGMgMC4xNDEyNjY3LDAuMjA5MTAyMjkgMC4yMTgzNTk0LDAuNDY1NjIwNjUgMC4yMTgzNTk0LDAuNzM2OTYyODggMCwwLjcyMzU3OTMgLTAuNTg2NTc3LDEuMzEwMTU2MyAtMS4zMTAxNTYzLDEuMzEwMTU2MyAtMC4yNzEzNDIzLDAgLTAuNTI3ODYwNSwtMC4wNzcwOTMgLTAuNzM2OTYyOSwtMC4yMTgzNTk0IDAuMjM5NDEwNCwwLjMxMzA4NTkgMC42MTI2MzYyLDAuNTE4NjAzNSAxLjAzNzIwNywwLjUxODYwMzUgMC43MjM1NzkzLDAgMS4zMTAxNTYzLC0wLjU4NjU3NyAxLjMxMDE1NjMsLTEuMzEwMTU2MyAwLC0wLjQyNDU3MDc2IC0wLjIwNTUxNzYsLTAuNzk3Nzk2NTkgLTAuNTE4NjAzNSwtMS4wMzcyMDY5OCB6IG0gMCwzLjA4NDMyNjE4IGMgMC4xNDEyNjY3LDAuMjA5MTAyMyAwLjIxODM1OTQsMC40NjU2MjA2IDAuMjE4MzU5NCwwLjczNjk2MjkgMCwwLjcyMzU3OTMgLTAuNTg2NTc3LDEuMzEwMTU2MiAtMS4zMTAxNTYzLDEuMzEwMTU2MiAtMC4yNzEzNDIzLDAgLTAuNTI3ODYwNSwtMC4wNzcwOTMgLTAuNzM2OTYyOSwtMC4yMTgzNTkzIDAuMjM5NDEwNCwwLjMxMzA4NTkgMC42MTI2MzYyLDAuNTE4NjAzNSAxLjAzNzIwNywwLjUxODYwMzUgMC43MjM1NzkzLDAgMS4zMTAxNTYzLC0wLjU4NjU3NyAxLjMxMDE1NjMsLTEuMzEwMTU2MyAwLC0wLjQyNDU3MDggLTAuMjA1NTE3NiwtMC43OTc3OTY3IC0wLjUxODYwMzUsLTEuMDM3MjA3IHogbSAtMy4wODQzMjYyLDAgYyAwLjE0MTI2NjcsMC4yMDkxMDIzIDAuMjE4MzU5NCwwLjQ2NTYyMDYgMC4yMTgzNTk0LDAuNzM2OTYyOSAwLDAuNzIzNTc5MyAtMC41ODY1NzcsMS4zMTAxNTYyIC0xLjMxMDE1NjMsMS4zMTAxNTYyIC0wLjI3MTM0MjIsMCAtMC41Mjc4NjA1LC0wLjA3NzA5MyAtMC43MzY5NjI5LC0wLjIxODM1OTMgMC4yMzk0MTA0LDAuMzEzMDg1OSAwLjYxMjYzNjMsMC41MTg2MDM1IDEuMDM3MjA3MSwwLjUxODYwMzUgMC43MjM1NzkzLDAgMS4zMTAxNTYyLC0wLjU4NjU3NyAxLjMxMDE1NjIsLTEuMzEwMTU2MyAwLC0wLjQyNDU3MDggLTAuMjA1NTE3NSwtMC43OTc3OTY3IC0wLjUxODYwMzUsLTEuMDM3MjA3IHogTSAyLjEwMTcwOSw2LjM4NzAxMTcgYyAwLjE0MTI2NjcsMC4yMDkxMDI0IDAuMjE4MzU5NCwwLjQ2NTYyMDYgMC4yMTgzNTk0LDAuNzM2OTYyOSAwLDAuNzIzNTc5MyAtMC41ODY1NzcsMS4zMTAxNTYzIC0xLjMxMDE1NjMsMS4zMTAxNTYzIC0wLjI3MTM0MjIzLDAgLTAuNTI3ODYwNTksLTAuMDc3MDkzIC0wLjczNjk2Mjg4LC0wLjIxODM1OTQgMC4yMzk0MTAzOSwwLjMxMzA4NTkgMC42MTI2MzYyMiwwLjUxODYwMzUgMS4wMzcyMDY5OCwwLjUxODYwMzUgMC43MjM1NzkzLDAgMS4zMTAxNTYzLC0wLjU4NjU3NyAxLjMxMDE1NjMsLTEuMzEwMTU2MyAwLC0wLjQyNDU3MDggLTAuMjA1NTE3NiwtMC43OTc3OTY2IC0wLjUxODYwMzUsLTEuMDM3MjA3IHogbSAzLjAyOTczNjMsMCBjIDAuMTQxMjY2NywwLjIwOTEwMjQgMC4yMTgzNTk0LDAuNDY1NjIwNiAwLjIxODM1OTQsMC43MzY5NjI5IDAsMC43MjM1NzkzIC0wLjU4NjU3NywxLjMxMDE1NjMgLTEuMzEwMTU2MywxLjMxMDE1NjMgLTAuMjcxMzQyMiwwIC0wLjUyNzg2MDUsLTAuMDc3MDkzIC0wLjczNjk2MjksLTAuMjE4MzU5NCAwLjIzOTQxMDQsMC4zMTMwODU5IDAuNjEyNjM2MywwLjUxODYwMzUgMS4wMzcyMDcxLDAuNTE4NjAzNSAwLjcyMzU3OTMsMCAxLjMxMDE1NjIsLTAuNTg2NTc3IDEuMzEwMTU2MiwtMS4zMTAxNTYzIDAsLTAuNDI0NTcwOCAtMC4yMDU1MTc1LC0wLjc5Nzc5NjYgLTAuNTE4NjAzNSwtMS4wMzcyMDcgeiBtIDMuMDg0MzI2MiwwIGMgMC4xNDEyNjY3LDAuMjA5MTAyNCAwLjIxODM1OTQsMC40NjU2MjA2IDAuMjE4MzU5NCwwLjczNjk2MjkgMCwwLjcyMzU3OTMgLTAuNTg2NTc3LDEuMzEwMTU2MyAtMS4zMTAxNTYzLDEuMzEwMTU2MyAtMC4yNzEzNDIzLDAgLTAuNTI3ODYwNSwtMC4wNzcwOTMgLTAuNzM2OTYyOSwtMC4yMTgzNTk0IDAuMjM5NDEwNCwwLjMxMzA4NTkgMC42MTI2MzYyLDAuNTE4NjAzNSAxLjAzNzIwNywwLjUxODYwMzUgMC43MjM1NzkzLDAgMS4zMTAxNTYzLC0wLjU4NjU3NyAxLjMxMDE1NjMsLTEuMzEwMTU2MyAwLC0wLjQyNDU3MDggLTAuMjA1NTE3NiwtMC43OTc3OTY2IC0wLjUxODYwMzUsLTEuMDM3MjA3IHoiIC8+ICA8L2c+PC9zdmc+);background-repeat:no-repeat;background-position:100% 100%;pointer-events:auto !important}
+.os-host-rtl>.os-scrollbar-corner.os-scrollbar-corner-resize{-webkit-transform:scale(-1,1);-ms-transform:scale(-1,1);transform:scale(-1,1)}
+.os-host-overflow{overflow:hidden !important}
+.os-theme-round-dark>.os-scrollbar{padding:0}
+.os-theme-round-dark>.os-scrollbar-horizontal{right:20px;height:20px}
+.os-theme-round-dark>.os-scrollbar-vertical{bottom:20px;width:20px}
+.os-theme-round-dark.os-host-rtl>.os-scrollbar-horizontal{left:20px;right:0}
+.os-theme-round-dark>.os-scrollbar-corner{height:20px;width:20px;background-color:transparent}
+.os-theme-round-dark>.os-scrollbar>.os-scrollbar-track{background:transparent}
+.os-theme-round-dark>.os-scrollbar-horizontal>.os-scrollbar-track:before,.os-theme-round-dark>.os-scrollbar-vertical>.os-scrollbar-track:before{content:'';display:block;position:absolute;background:#e0e5e9}
+.os-theme-round-dark>.os-scrollbar-horizontal>.os-scrollbar-track:before{left:3px;right:3px;height:2px;top:50%;margin-top:-1px}
+.os-theme-round-dark>.os-scrollbar-vertical>.os-scrollbar-track:before{top:3px;bottom:3px;width:2px;left:50%;margin-left:-1px}
+.os-theme-round-dark>.os-scrollbar>.os-scrollbar-track>.os-scrollbar-handle{background:transparent}
+.os-theme-round-dark>.os-scrollbar>.os-scrollbar-track>.os-scrollbar-handle:before{content:'';display:block;position:absolute;background:#e0e5e9;border-radius:20px;top:3px;bottom:3px;left:4px;right:3px;-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1)}
+.os-theme-round-dark>.os-scrollbar>.os-scrollbar-track>.os-scrollbar-handle:hover:before,.os-theme-round-dark>.os-scrollbar>.os-scrollbar-track>.os-scrollbar-handle.active:before{-webkit-transform:scale(1.1);-ms-transform:scale(1.1);transform:scale(1.1)}
+.os-theme-round-dark>.os-scrollbar-horizontal>.os-scrollbar-track>.os-scrollbar-handle{height:100%;min-width:40px;max-width:40px}
+.os-theme-round-dark>.os-scrollbar-vertical>.os-scrollbar-track>.os-scrollbar-handle{width:100%;min-height:40px;max-height:40px}
+.os-theme-round-dark.os-host-transition>.os-scrollbar>.os-scrollbar-track>.os-scrollbar-handle:before{-webkit-transition:-webkit-transform .3s;transition:-webkit-transform .3s;transition:transform .3s;transition:transform .3s,-webkit-transform .3s}
+.os-theme-thick-dark>.os-scrollbar{padding:5px}
+.os-theme-thick-dark>.os-scrollbar:before{content:'';display:block;position:absolute;background:#f6f6f6;border-radius:15px;top:2px;bottom:2px;right:1px;left:2px;border:1px solid #e8e8e8}
+.os-theme-thick-dark>.os-scrollbar:hover:before{border:1px solid rgba(0,0,0,0.16)}
+.os-theme-thick-dark>.os-scrollbar.active:before{border:1px solid rgba(0,0,0,0.16)}
+.os-theme-thick-dark>.os-scrollbar-horizontal{height:10px;left:4px !important}
+.os-theme-thick-dark>.os-scrollbar-vertical{width:10px}
+.os-theme-thick-dark.os-host-rtl>.os-scrollbar-horizontal{left:18px;right:0}
+.os-theme-thick-dark>.os-scrollbar-corner{height:18px;width:18px;background-color:transparent}
+.os-theme-thick-dark>.os-scrollbar>.os-scrollbar-track{background:transparent}
+.os-theme-thick-dark>.os-scrollbar>.os-scrollbar-track>.os-scrollbar-handle{background:#a4afb7;border-radius:8px}
+.os-theme-thick-dark>.os-scrollbar>.os-scrollbar-track>.os-scrollbar-handle:hover{background:#81b441}
+.os-theme-thick-dark>.os-scrollbar>.os-scrollbar-track>.os-scrollbar-handle.active{background:#81b441}
+.os-theme-thick-dark>.os-scrollbar-horizontal>.os-scrollbar-track>.os-scrollbar-handle{height:100%;min-width:27px;max-width:27px}
+.os-theme-thick-dark>.os-scrollbar-vertical>.os-scrollbar-track>.os-scrollbar-handle{width:100%;min-height:27px;max-height:27px}
+.os-theme-thick-dark>.os-scrollbar>.os-scrollbar-track>.os-scrollbar-handle:before{content:'';position:absolute;left:0;right:0;top:-3px;bottom:-5px;display:block}
+.os-theme-thick-dark>.os-scrollbar>.os-scrollbar-track>.os-scrollbar-handle:after{position:absolute;left:0;right:0;top:-4px;display:block;z-index:10;color:#FFF;font-size:6px;text-align:center}
+.os-theme-thick-dark>.os-scrollbar-vertical>.os-scrollbar-track>.os-scrollbar-handle:after{-webkit-transform:rotate(90deg);-ms-transform:rotate(90deg);transform:rotate(90deg);top:0;bottom:0;left:-9px}
+.os-theme-thick-dark>.os-scrollbar-horizontal>.os-scrollbar-track>.os-scrollbar-handle:before{top:-3px;bottom:-5px}
+.os-theme-thick-dark>.os-scrollbar-vertical>.os-scrollbar-track>.os-scrollbar-handle:before{left:-3px;right:-5px}
+.os-theme-thick-dark.os-host-rtl>.os-scrollbar-vertical>.os-scrollbar-track>.os-scrollbar-handle:before{right:-3px;left:-5px}
+.os-theme-thick-dark.os-host-transition>.os-scrollbar>.os-scrollbar-track>.os-scrollbar-handle{-webkit-transition:background .3s;transition:background .3s}
+.os-theme-thick-dark.os-host-transition>.os-scrollbar:before{-webkit-transition:border .3s;transition:border .3s}
+.select2-container{box-sizing:border-box;display:inline-block;margin:0;position:relative;vertical-align:middle}
+.select2-container .select2-selection--single{box-sizing:border-box;cursor:pointer;display:block;height:28px;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-user-select:none}
+.select2-container .select2-selection--single .select2-selection__rendered{display:block;padding-left:8px;padding-right:20px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.select2-container .select2-selection--single .select2-selection__clear{position:relative}
+.select2-container[dir="rtl"] .select2-selection--single .select2-selection__rendered{padding-right:8px;padding-left:20px}
+.select2-container .select2-selection--multiple{box-sizing:border-box;cursor:pointer;display:block;min-height:32px;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-user-select:none}
+.select2-container .select2-selection--multiple .select2-selection__rendered{display:inline-block;overflow:hidden;padding-left:8px;text-overflow:ellipsis;white-space:nowrap}
+.select2-container .select2-search--inline{float:left}
+.select2-container .select2-search--inline .select2-search__field{box-sizing:border-box;border:0;font-size:100%;margin-top:5px;padding:0}
+.select2-container .select2-search--inline .select2-search__field::-webkit-search-cancel-button{-webkit-appearance:none}
+.select2-dropdown{background-color:white;border:1px solid #aaa;border-radius:4px;box-sizing:border-box;display:block;position:absolute;left:-100000px;width:100%;z-index:1051}
+.select2-results{display:block}
+.select2-results__options{list-style:none;margin:0;padding:0}
+.select2-results__option{padding:6px;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-user-select:none}
+.select2-results__option[aria-selected]{cursor:pointer}
+.select2-container--open .select2-dropdown{left:0}
+.select2-container--open .select2-dropdown--above{border-bottom:0;border-bottom-left-radius:0;border-bottom-right-radius:0}
+.select2-container--open .select2-dropdown--below{border-top:0;border-top-left-radius:0;border-top-right-radius:0}
+.select2-search--dropdown{display:block;padding:4px}
+.select2-search--dropdown .select2-search__field{padding:4px;width:100%;box-sizing:border-box}
+.select2-search--dropdown .select2-search__field::-webkit-search-cancel-button{-webkit-appearance:none}
+.select2-search--dropdown.select2-search--hide{display:none}
+.select2-close-mask{border:0;margin:0;padding:0;display:block;position:fixed;left:0;top:0;min-height:100%;min-width:100%;height:auto;width:auto;opacity:0;z-index:99;background-color:#fff;filter:alpha(opacity=0)}
+.select2-hidden-accessible{border:0 !important;clip:rect(0 0 0 0) !important;-webkit-clip-path:inset(50%) !important;clip-path:inset(50%) !important;height:1px !important;overflow:hidden !important;padding:0 !important;position:absolute !important;width:1px !important;white-space:nowrap !important}
+.select2-container--default .select2-selection--single{background-color:#fff;border:1px solid #aaa;border-radius:4px}
+.select2-container--default .select2-selection--single .select2-selection__rendered{color:#444;line-height:28px}
+.select2-container--default .select2-selection--single .select2-selection__clear{cursor:pointer;float:right;font-weight:bold}
+.select2-container--default .select2-selection--single .select2-selection__placeholder{color:#999}
+.select2-container--default .select2-selection--single .select2-selection__arrow{height:26px;position:absolute;top:1px;right:1px;width:20px}
+.select2-container--default .select2-selection--single .select2-selection__arrow b{border-color:#888 transparent transparent transparent;border-style:solid;border-width:5px 4px 0 4px;height:0;left:50%;margin-left:-4px;margin-top:-2px;position:absolute;top:50%;width:0}
+.select2-container--default[dir="rtl"] .select2-selection--single .select2-selection__clear{float:left}
+.select2-container--default[dir="rtl"] .select2-selection--single .select2-selection__arrow{left:1px;right:auto}
+.select2-container--default.select2-container--disabled .select2-selection--single{background-color:#eee;cursor:default}
+.select2-container--default.select2-container--disabled .select2-selection--single .select2-selection__clear{display:none}
+.select2-container--default.select2-container--open .select2-selection--single .select2-selection__arrow b{border-color:transparent transparent #888 transparent;border-width:0 4px 5px 4px}
+.select2-container--default .select2-selection--multiple{background-color:white;border:1px solid #aaa;border-radius:4px;cursor:text}
+.select2-container--default .select2-selection--multiple .select2-selection__rendered{box-sizing:border-box;list-style:none;margin:0;padding:0 5px;width:100%}
+.select2-container--default .select2-selection--multiple .select2-selection__rendered li{list-style:none}
+.select2-container--default .select2-selection--multiple .select2-selection__placeholder{color:#999;margin-top:5px;float:left}
+.select2-container--default .select2-selection--multiple .select2-selection__clear{cursor:pointer;float:right;font-weight:bold;margin-top:5px;margin-right:10px}
+.select2-container--default .select2-selection--multiple .select2-selection__choice{background-color:#e4e4e4;border:1px solid #aaa;border-radius:4px;cursor:default;float:left;margin-right:5px;margin-top:5px;padding:0 5px}
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove{color:#999;cursor:pointer;display:inline-block;font-weight:bold;margin-right:2px}
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove:hover{color:#333}
+.select2-container--default[dir="rtl"] .select2-selection--multiple .select2-selection__choice,.select2-container--default[dir="rtl"] .select2-selection--multiple .select2-selection__placeholder,.select2-container--default[dir="rtl"] .select2-selection--multiple .select2-search--inline{float:right}
+.select2-container--default[dir="rtl"] .select2-selection--multiple .select2-selection__choice{margin-left:5px;margin-right:auto}
+.select2-container--default[dir="rtl"] .select2-selection--multiple .select2-selection__choice__remove{margin-left:2px;margin-right:auto}
+.select2-container--default.select2-container--focus .select2-selection--multiple{border:solid black 1px;outline:0}
+.select2-container--default.select2-container--disabled .select2-selection--multiple{background-color:#eee;cursor:default}
+.select2-container--default.select2-container--disabled .select2-selection__choice__remove{display:none}
+.select2-container--default.select2-container--open.select2-container--above .select2-selection--single,.select2-container--default.select2-container--open.select2-container--above .select2-selection--multiple{border-top-left-radius:0;border-top-right-radius:0}
+.select2-container--default.select2-container--open.select2-container--below .select2-selection--single,.select2-container--default.select2-container--open.select2-container--below .select2-selection--multiple{border-bottom-left-radius:0;border-bottom-right-radius:0}
+.select2-container--default .select2-search--dropdown .select2-search__field{border:1px solid #aaa}
+.select2-container--default .select2-search--inline .select2-search__field{background:transparent;border:0;outline:0;box-shadow:none;-webkit-appearance:textfield}
+.select2-container--default .select2-results>.select2-results__options{max-height:200px;overflow-y:auto}
+.select2-container--default .select2-results__option[role=group]{padding:0}
+.select2-container--default .select2-results__option[aria-disabled=true]{color:#999}
+.select2-container--default .select2-results__option[aria-selected=true]{background-color:#ddd}
+.select2-container--default .select2-results__option .select2-results__option{padding-left:1em}
+.select2-container--default .select2-results__option .select2-results__option .select2-results__group{padding-left:0}
+.select2-container--default .select2-results__option .select2-results__option .select2-results__option{margin-left:-1em;padding-left:2em}
+.select2-container--default .select2-results__option .select2-results__option .select2-results__option .select2-results__option{margin-left:-2em;padding-left:3em}
+.select2-container--default .select2-results__option .select2-results__option .select2-results__option .select2-results__option .select2-results__option{margin-left:-3em;padding-left:4em}
+.select2-container--default .select2-results__option .select2-results__option .select2-results__option .select2-results__option .select2-results__option .select2-results__option{margin-left:-4em;padding-left:5em}
+.select2-container--default .select2-results__option .select2-results__option .select2-results__option .select2-results__option .select2-results__option .select2-results__option .select2-results__option{margin-left:-5em;padding-left:6em}
+.select2-container--default .select2-results__option--highlighted[aria-selected]{background-color:#5897fb;color:white}
+.select2-container--default .select2-results__group{cursor:default;display:block;padding:6px}
+.select2-container--classic .select2-selection--single{background-color:#f7f7f7;border:1px solid #aaa;border-radius:4px;outline:0;background-image:-webkit-linear-gradient(top,white 50%,#eee 100%);background-image:linear-gradient(to bottom,white 50%,#eee 100%);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFFFF',endColorstr='#FFEEEEEE',GradientType=0)}
+.select2-container--classic .select2-selection--single:focus{border:1px solid #5897fb}
+.select2-container--classic .select2-selection--single .select2-selection__rendered{color:#444;line-height:28px}
+.select2-container--classic .select2-selection--single .select2-selection__clear{cursor:pointer;float:right;font-weight:bold;margin-right:10px}
+.select2-container--classic .select2-selection--single .select2-selection__placeholder{color:#999}
+.select2-container--classic .select2-selection--single .select2-selection__arrow{background-color:#ddd;border:0;border-left:1px solid #aaa;border-top-right-radius:4px;border-bottom-right-radius:4px;height:26px;position:absolute;top:1px;right:1px;width:20px;background-image:-webkit-linear-gradient(top,#eee 50%,#ccc 100%);background-image:linear-gradient(to bottom,#eee 50%,#ccc 100%);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFEEEEEE',endColorstr='#FFCCCCCC',GradientType=0)}
+.select2-container--classic .select2-selection--single .select2-selection__arrow b{border-color:#888 transparent transparent transparent;border-style:solid;border-width:5px 4px 0 4px;height:0;left:50%;margin-left:-4px;margin-top:-2px;position:absolute;top:50%;width:0}
+.select2-container--classic[dir="rtl"] .select2-selection--single .select2-selection__clear{float:left}
+.select2-container--classic[dir="rtl"] .select2-selection--single .select2-selection__arrow{border:0;border-right:1px solid #aaa;border-radius:0;border-top-left-radius:4px;border-bottom-left-radius:4px;left:1px;right:auto}
+.select2-container--classic.select2-container--open .select2-selection--single{border:1px solid #5897fb}
+.select2-container--classic.select2-container--open .select2-selection--single .select2-selection__arrow{background:transparent;border:0}
+.select2-container--classic.select2-container--open .select2-selection--single .select2-selection__arrow b{border-color:transparent transparent #888 transparent;border-width:0 4px 5px 4px}
+.select2-container--classic.select2-container--open.select2-container--above .select2-selection--single{border-top:0;border-top-left-radius:0;border-top-right-radius:0;background-image:-webkit-linear-gradient(top,white 0,#eee 50%);background-image:linear-gradient(to bottom,white 0,#eee 50%);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFFFF',endColorstr='#FFEEEEEE',GradientType=0)}
+.select2-container--classic.select2-container--open.select2-container--below .select2-selection--single{border-bottom:0;border-bottom-left-radius:0;border-bottom-right-radius:0;background-image:-webkit-linear-gradient(top,#eee 50%,white 100%);background-image:linear-gradient(to bottom,#eee 50%,white 100%);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFEEEEEE',endColorstr='#FFFFFFFF',GradientType=0)}
+.select2-container--classic .select2-selection--multiple{background-color:white;border:1px solid #aaa;border-radius:4px;cursor:text;outline:0}
+.select2-container--classic .select2-selection--multiple:focus{border:1px solid #5897fb}
+.select2-container--classic .select2-selection--multiple .select2-selection__rendered{list-style:none;margin:0;padding:0 5px}
+.select2-container--classic .select2-selection--multiple .select2-selection__clear{display:none}
+.select2-container--classic .select2-selection--multiple .select2-selection__choice{background-color:#e4e4e4;border:1px solid #aaa;border-radius:4px;cursor:default;float:left;margin-right:5px;margin-top:5px;padding:0 5px}
+.select2-container--classic .select2-selection--multiple .select2-selection__choice__remove{color:#888;cursor:pointer;display:inline-block;font-weight:bold;margin-right:2px}
+.select2-container--classic .select2-selection--multiple .select2-selection__choice__remove:hover{color:#555}
+.select2-container--classic[dir="rtl"] .select2-selection--multiple .select2-selection__choice{float:right;margin-left:5px;margin-right:auto}
+.select2-container--classic[dir="rtl"] .select2-selection--multiple .select2-selection__choice__remove{margin-left:2px;margin-right:auto}
+.select2-container--classic.select2-container--open .select2-selection--multiple{border:1px solid #5897fb}
+.select2-container--classic.select2-container--open.select2-container--above .select2-selection--multiple{border-top:0;border-top-left-radius:0;border-top-right-radius:0}
+.select2-container--classic.select2-container--open.select2-container--below .select2-selection--multiple{border-bottom:0;border-bottom-left-radius:0;border-bottom-right-radius:0}
+.select2-container--classic .select2-search--dropdown .select2-search__field{border:1px solid #aaa;outline:0}
+.select2-container--classic .select2-search--inline .select2-search__field{outline:0;box-shadow:none}
+.select2-container--classic .select2-dropdown{background-color:white;border:1px solid transparent}
+.select2-container--classic .select2-dropdown--above{border-bottom:0}
+.select2-container--classic .select2-dropdown--below{border-top:0}
+.select2-container--classic .select2-results>.select2-results__options{max-height:200px;overflow-y:auto}
+.select2-container--classic .select2-results__option[role=group]{padding:0}
+.select2-container--classic .select2-results__option[aria-disabled=true]{color:grey}
+.select2-container--classic .select2-results__option--highlighted[aria-selected]{background-color:#3875d7;color:white}
+.select2-container--classic .select2-results__group{cursor:default;display:block;padding:6px}
+.select2-container--classic.select2-container--open .select2-dropdown{border-color:#5897fb}
+@media screen and (min-width:783px){.envato-elements__wrapper--fixed .envato-elements__header{opacity:0;position:fixed;top:32px;z-index:20;-webkit-transition:opacity .2s;transition:opacity .2s}
+.envato-elements__wrapper--fixed .envato-elements__header:before{content:"";position:absolute;background-color:#f1f1f1;left:-1px;right:-1px;top:-21px;height:20px}
+.envato-elements__wrapper--fixed .envato-elements__header--set{opacity:1}
+.envato-elements__wrapper--fixed .envato-elements__content{padding:60px 20px 20px}
+}@media screen and (max-width:782px){.envato-elements__header-logo{max-width:61px;overflow:hidden;margin-right:20px}
+.envato-elements__modal-inner{left:10px;right:10px}
+.envato-elements__importer-wrapper{display:none}
+.envato-elements__topnav-wrapper{display:none}
+.envato-elements__notifications-wrapper{display:none}
+}@-webkit-keyframes import-rotation{100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}
+}@keyframes import-rotation{100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}
+}@-webkit-keyframes placeHolderShimmer{0%{opacity:1}
+50%{opacity:0}
+to{opacity:1}
+}@keyframes placeHolderShimmer{0%{opacity:1}
+50%{opacity:0}
+to{opacity:1}
+}@-webkit-keyframes hs-resize-observer-dummy-animation{from{z-index:0}
+to{z-index:-1}
+}@keyframes hs-resize-observer-dummy-animation{from{z-index:0}
+to{z-index:-1}
+}

@@ -1,0 +1,5 @@
+.media-frame .media-router .media-menu-item-elements{position:relative}
+.media-frame .media-router .media-menu-item-elements:after{content:'BETA';display:block;position:absolute;right:-18px;top:-8px;background:#81b440;font-size:10px;padding:1px 7px 0;text-transform:uppercase;color:#FFF;font-weight:normal;border-radius:9px;z-index:9999999}
+.media-frame .attachments-browser{overflow-y:auto !important}
+.media-frame .envatoelements-attachments-browser a{color:inherit}
+a[data-cy="get-elements-token"]{color:#fff !important}

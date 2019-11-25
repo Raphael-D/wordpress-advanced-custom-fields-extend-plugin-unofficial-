@@ -1,0 +1,4265 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Elementor Addon Elements\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-11 07:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.1; wp-5.1"
+
+#: inc/bootstrap.php:177
+msgid ""
+"<b>Elementor Addon Elements</b> is not working because you need to activate "
+"the <b>Elementor</b> plugin."
+msgstr ""
+
+#: inc/bootstrap.php:179
+msgid "Activate Elementor"
+msgstr ""
+
+#: inc/bootstrap.php:185
+msgid ""
+"<b>Elementor Addon Elements</b> is not working because you need to install "
+"the <b>Elementor</b> plugin."
+msgstr ""
+
+#: inc/bootstrap.php:187
+msgid "Install Elementor"
+msgstr ""
+
+#: classes/helper.php:276 classes/helper.php:606 classes/helper.php:614
+#: classes/helper.php:1003 modules/advance-tabs.php:217
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1037
+#: modules/timeline/skins/skin-base.php:814
+#: modules/timeline/skins/skin-base.php:1032
+#: modules/dual-button/widgets/dual-button.php:367
+#: modules/dual-button/widgets/dual-button.php:535
+msgid "Normal"
+msgstr ""
+
+#: classes/helper.php:284 classes/helper.php:332 classes/helper.php:389
+#: classes/helper.php:627 classes/helper.php:698 classes/helper.php:782
+#: classes/helper.php:1011 classes/helper.php:1054 classes/helper.php:1110
+#: modules/text-separator/widgets/text-separator.php:330
+msgid "Primary Color"
+msgstr ""
+
+#: classes/helper.php:304 classes/helper.php:349 classes/helper.php:409
+#: classes/helper.php:647 classes/helper.php:718 classes/helper.php:802
+#: classes/helper.php:1027 classes/helper.php:1070 classes/helper.php:1126
+#: modules/text-separator/widgets/text-separator.php:345
+msgid "Secondary Color"
+msgstr ""
+
+#: classes/helper.php:324 classes/helper.php:673 classes/helper.php:684
+#: classes/helper.php:1046 modules/modal-popup/widgets/modal-popup.php:532
+#: modules/info-circle/skins/skin-base.php:359
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1100
+#: modules/timeline/skins/skin-base.php:578
+#: modules/timeline/skins/skin-base.php:856
+#: modules/timeline/skins/skin-base.php:1086
+#: modules/dual-button/widgets/dual-button.php:412
+#: modules/dual-button/widgets/dual-button.php:581
+msgid "Hover"
+msgstr ""
+
+#: classes/helper.php:367 classes/helper.php:740 classes/helper.php:1088
+msgid "Hover Animation"
+msgstr ""
+
+#: classes/helper.php:380 classes/helper.php:761 classes/helper.php:769
+#: classes/helper.php:1101
+msgid "Focus"
+msgstr ""
+
+#: classes/helper.php:437 classes/helper.php:834 classes/helper.php:1151
+#: modules/modal-popup/widgets/modal-popup.php:665
+#: modules/comparison-table/widgets/comparison-table.php:836
+#: modules/timeline/skins/skin-base.php:359
+#: modules/timeline/widgets/timeline.php:258
+#: modules/dual-button/widgets/dual-button.php:694
+msgid "Size"
+msgstr ""
+
+#: classes/helper.php:457 classes/helper.php:858 classes/helper.php:1305
+#: modules/modal-popup/widgets/modal-popup.php:315
+#: modules/modal-popup/widgets/modal-popup.php:407
+#: modules/modal-popup/widgets/modal-popup.php:609
+#: modules/image-compare/widgets/image-compare.php:376
+#: modules/evergreen-timer/skins/skin-base.php:87
+#: modules/evergreen-timer/skins/skin-base.php:169
+#: modules/evergreen-timer/skins/skin-base.php:218
+#: modules/animated-text/widgets/animated-text.php:218
+#: modules/split-text/widgets/split-text.php:184
+#: modules/split-text/widgets/split-text.php:274
+#: modules/comparison-table/widgets/comparison-table.php:814
+#: modules/comparison-table/widgets/comparison-table.php:921
+#: modules/comparison-table/widgets/comparison-table.php:987
+#: modules/comparison-table/widgets/comparison-table.php:1067
+#: modules/comparison-table/widgets/comparison-table.php:1198
+#: modules/comparison-table/widgets/comparison-table.php:1478
+#: modules/comparison-table/widgets/comparison-table.php:1577
+#: modules/comparison-table/widgets/comparison-table.php:1678
+#: modules/testimonial-slider/widgets/testimonial-slider.php:597
+#: modules/testimonial-slider/widgets/testimonial-slider.php:693
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1305
+#: modules/timeline/skins/skin-base.php:299
+#: modules/timeline/skins/skin-base.php:788
+#: modules/timeline/skins/skin-base.php:1194
+#: modules/dual-button/widgets/dual-button.php:327
+#: modules/dual-button/widgets/dual-button.php:503
+#: modules/dual-button/widgets/dual-button.php:672
+msgid "Padding"
+msgstr ""
+
+#: classes/helper.php:480 classes/helper.php:884 classes/helper.php:1194
+#: controls/hover-transition.php:32
+msgid "Rotate"
+msgstr ""
+
+#: classes/helper.php:497 classes/helper.php:903
+msgid "Border Style"
+msgstr ""
+
+#: classes/helper.php:500 classes/helper.php:906
+#: controls/hover-transition.php:152 modules/flip-box-set.php:74
+#: modules/flip-box-set.php:471 modules/advance-tabs.php:97
+#: modules/bg-slider/module.php:132 modules/bg-slider/module.php:177
+#: modules/price-table/widgets/price-table.php:136
+#: modules/testimonial-slider/widgets/testimonial-slider.php:492
+#: modules/dual-button/widgets/dual-button.php:289
+msgid "None"
+msgstr ""
+
+#: classes/helper.php:501 classes/helper.php:907
+#: modules/text-separator/widgets/text-separator.php:177
+msgid "Solid"
+msgstr ""
+
+#: classes/helper.php:502 classes/helper.php:908
+#: modules/text-separator/widgets/text-separator.php:178
+msgid "Double"
+msgstr ""
+
+#: classes/helper.php:503 classes/helper.php:909
+#: modules/text-separator/widgets/text-separator.php:179
+msgid "Dotted"
+msgstr ""
+
+#: classes/helper.php:504 classes/helper.php:910
+#: modules/text-separator/widgets/text-separator.php:180
+msgid "Dashed"
+msgstr ""
+
+#: classes/helper.php:519 classes/helper.php:928 classes/helper.php:1211
+#: modules/text-separator/widgets/text-separator.php:419
+msgid "Border Width"
+msgstr ""
+
+#: classes/helper.php:536 classes/helper.php:944 classes/helper.php:1227
+#: classes/helper.php:1274 modules/flip-box-set.php:939
+#: modules/flip-box-set.php:1033 modules/flip-box-set.php:1513
+#: modules/advance-tabs.php:276 modules/advance-tabs.php:350
+#: modules/advance-tabs.php:578 modules/modal-popup/widgets/modal-popup.php:429
+#: modules/modal-popup/widgets/modal-popup.php:510
+#: modules/modal-popup/widgets/modal-popup.php:582
+#: modules/flip-box/widgets/flip-box.php:304
+#: modules/flip-box/widgets/flip-box.php:745
+#: modules/text-separator/widgets/text-separator.php:433
+#: modules/image-compare/widgets/image-compare.php:363
+#: modules/evergreen-timer/skins/skin-1.php:41
+#: modules/evergreen-timer/skins/skin-3.php:130
+#: modules/animated-text/widgets/animated-text.php:206
+#: modules/price-table/widgets/price-table.php:315
+#: modules/price-table/widgets/price-table.php:498
+#: modules/price-table/widgets/price-table.php:695
+#: modules/split-text/widgets/split-text.php:172
+#: modules/split-text/widgets/split-text.php:262
+#: modules/comparison-table/widgets/comparison-table.php:1666
+#: modules/testimonial-slider/widgets/testimonial-slider.php:987
+#: modules/testimonial-slider/widgets/testimonial-slider.php:999
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1083
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1148
+#: modules/post-list/widgets/post-list.php:352
+#: modules/post-list/widgets/post-list.php:603
+#: modules/post-list/widgets/post-list.php:650
+#: modules/timeline/skins/skin-base.php:556
+#: modules/timeline/skins/skin-base.php:654
+#: modules/timeline/skins/skin-base.php:753
+#: modules/timeline/skins/skin-base.php:1073
+#: modules/timeline/skins/skin-base.php:1125
+#: modules/timeline/skins/skin-base.php:1178
+#: modules/dual-button/widgets/dual-button.php:492
+#: modules/dual-button/widgets/dual-button.php:661
+#: modules/dual-button/widgets/dual-button.php:757
+msgid "Border Radius"
+msgstr ""
+
+#: classes/helper.php:592
+msgid "Custom Icon Style"
+msgstr ""
+
+#: classes/helper.php:594 modules/flip-box-set.php:205
+#: modules/advance-tabs.php:58 modules/advance-tabs.php:438
+#: modules/pinterest.php:121 modules/pinterest.php:136
+#: modules/pinterest.php:150 modules/pinterest.php:347
+#: modules/animated-gradient/module.php:37 modules/particles/module.php:42
+#: modules/modal-popup/widgets/modal-popup.php:72
+#: modules/twitter/widgets/twitter.php:527
+#: modules/twitter/widgets/twitter.php:668
+#: modules/progress-bar/widgets/progress-bar.php:77
+#: modules/progress-bar/widgets/progress-bar.php:89
+#: modules/gmap/widgets/gmap.php:165
+#: modules/comparison-table/widgets/comparison-table.php:151
+#: modules/testimonial-slider/widgets/testimonial-slider.php:464
+#: modules/testimonial-slider/widgets/testimonial-slider.php:511
+#: modules/testimonial-slider/widgets/testimonial-slider.php:526
+#: modules/testimonial-slider/widgets/testimonial-slider.php:541
+#: modules/testimonial-slider/widgets/testimonial-slider.php:556
+#: modules/post-list/widgets/post-list.php:142
+#: modules/post-list/widgets/post-list.php:226
+#: modules/post-list/widgets/post-list.php:245
+#: modules/post-list/widgets/post-list.php:267
+#: modules/post-list/widgets/post-list.php:299
+#: modules/timeline/widgets/timeline.php:221
+#: modules/timeline/widgets/timeline.php:384
+#: modules/timeline/widgets/timeline.php:459
+#: modules/timeline/widgets/timeline.php:482
+#: modules/timeline/widgets/timeline.php:518
+msgid "No"
+msgstr ""
+
+#: classes/helper.php:595 modules/flip-box-set.php:204
+#: modules/advance-tabs.php:57 modules/advance-tabs.php:437
+#: modules/pinterest.php:120 modules/pinterest.php:135
+#: modules/pinterest.php:149 modules/pinterest.php:346
+#: modules/animated-gradient/module.php:36 modules/particles/module.php:41
+#: modules/modal-popup/widgets/modal-popup.php:71
+#: modules/twitter/widgets/twitter.php:526
+#: modules/twitter/widgets/twitter.php:667
+#: modules/progress-bar/widgets/progress-bar.php:76
+#: modules/progress-bar/widgets/progress-bar.php:88
+#: modules/gmap/widgets/gmap.php:164
+#: modules/comparison-table/widgets/comparison-table.php:147
+#: modules/testimonial-slider/widgets/testimonial-slider.php:463
+#: modules/testimonial-slider/widgets/testimonial-slider.php:510
+#: modules/testimonial-slider/widgets/testimonial-slider.php:525
+#: modules/testimonial-slider/widgets/testimonial-slider.php:540
+#: modules/testimonial-slider/widgets/testimonial-slider.php:555
+#: modules/post-list/widgets/post-list.php:138
+#: modules/post-list/widgets/post-list.php:222
+#: modules/post-list/widgets/post-list.php:241
+#: modules/post-list/widgets/post-list.php:263
+#: modules/post-list/widgets/post-list.php:295
+#: modules/timeline/widgets/timeline.php:220
+#: modules/timeline/widgets/timeline.php:385
+#: modules/timeline/widgets/timeline.php:460
+#: modules/timeline/widgets/timeline.php:483
+#: modules/timeline/widgets/timeline.php:519
+msgid "Yes"
+msgstr ""
+
+#: classes/helper.php:1170
+msgid "Background Size"
+msgstr ""
+
+#: classes/helper.php:1261
+msgid " Border"
+msgstr ""
+
+#: classes/helper.php:1292
+msgid "Box Shadow"
+msgstr ""
+
+#: classes/helper.php:1323 modules/image-compare/widgets/image-compare.php:388
+#: modules/evergreen-timer/skins/skin-2.php:44
+#: modules/animated-text/widgets/animated-text.php:229
+#: modules/split-text/widgets/split-text.php:195
+#: modules/split-text/widgets/split-text.php:285
+#: modules/testimonial-slider/widgets/testimonial-slider.php:705
+#: modules/testimonial-slider/widgets/testimonial-slider.php:769
+#: modules/testimonial-slider/widgets/testimonial-slider.php:834
+#: modules/testimonial-slider/widgets/testimonial-slider.php:912
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1379
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1515
+#: modules/timeline/skins/skin-base.php:800
+msgid "Margin"
+msgstr ""
+
+#: classes/post-helper.php:17 modules/timeline/widgets/timeline.php:51
+msgid "Source"
+msgstr ""
+
+#: classes/post-helper.php:43
+msgid "Filter Mode"
+msgstr ""
+
+#: classes/post-helper.php:46
+msgid "Includes"
+msgstr ""
+
+#: classes/post-helper.php:47
+msgid "Excludes"
+msgstr ""
+
+#: classes/post-helper.php:79
+msgid "Order & Limit"
+msgstr ""
+
+#: classes/post-helper.php:88 modules/post-list/widgets/post-list.php:99
+msgid "Order By"
+msgstr ""
+
+#: classes/post-helper.php:91
+msgid "ID"
+msgstr ""
+
+#: classes/post-helper.php:92 modules/timeline/skins/skin-base.php:781
+#: modules/timeline/widgets/timeline.php:119
+msgid "Date"
+msgstr ""
+
+#: classes/post-helper.php:93 modules/flip-box-set.php:156
+#: modules/flip-box-set.php:277 modules/flip-box-set.php:554
+#: modules/flip-box-set.php:660 modules/flip-box-set.php:1113
+#: modules/flip-box-set.php:1305 modules/control-test.php:44
+#: modules/control-test.php:76 modules/modal-popup/widgets/modal-popup.php:79
+#: modules/modal-popup/widgets/modal-popup.php:283
+#: modules/flip-box/widgets/flip-box.php:86
+#: modules/flip-box/widgets/flip-box.php:180
+#: modules/flip-box/widgets/flip-box.php:353
+#: modules/flip-box/widgets/flip-box.php:533
+#: modules/text-separator/widgets/text-separator.php:34
+#: modules/text-separator/widgets/text-separator.php:41
+#: modules/text-separator/widgets/text-separator.php:217
+#: modules/progress-bar/skins/skin-base.php:63
+#: modules/evergreen-timer/skins/skin-base.php:101
+#: modules/evergreen-timer/widgets/evergreen-timer.php:91
+#: modules/info-circle/skins/skin-base.php:195
+#: modules/info-circle/widgets/info-circle.php:69
+#: modules/comparison-table/widgets/comparison-table.php:188
+#: modules/timeline/widgets/timeline.php:140
+msgid "Title"
+msgstr ""
+
+#: classes/post-helper.php:94
+msgid "Menu Order"
+msgstr ""
+
+#: classes/post-helper.php:95 modules/bg-slider/module.php:111
+#: modules/bg-slider/module.php:131
+msgid "Random"
+msgstr ""
+
+#: classes/post-helper.php:96
+msgid "Custom Field"
+msgstr ""
+
+#: classes/post-helper.php:105
+msgid "Meta Key (Custom Field Name)"
+msgstr ""
+
+#: classes/post-helper.php:116 modules/post-list/widgets/post-list.php:110
+msgid "Order"
+msgstr ""
+
+#: classes/post-helper.php:119
+msgid "Ascending"
+msgstr ""
+
+#: classes/post-helper.php:120
+msgid "Descending"
+msgstr ""
+
+#: classes/post-helper.php:129
+msgid "Offset"
+msgstr ""
+
+#: classes/post-helper.php:137
+msgid "Post Count"
+msgstr ""
+
+#: controls/hover-transition.php:23
+msgid "Grow"
+msgstr ""
+
+#: controls/hover-transition.php:24
+msgid "Shrink"
+msgstr ""
+
+#: controls/hover-transition.php:25
+msgid "Pulse"
+msgstr ""
+
+#: controls/hover-transition.php:26
+msgid "Pulse Grow"
+msgstr ""
+
+#: controls/hover-transition.php:27
+msgid "Pulse Shrink"
+msgstr ""
+
+#: controls/hover-transition.php:28
+msgid "Push"
+msgstr ""
+
+#: controls/hover-transition.php:29
+msgid "Pop"
+msgstr ""
+
+#: controls/hover-transition.php:30
+msgid "Bounce In"
+msgstr ""
+
+#: controls/hover-transition.php:31
+msgid "Bounce Out"
+msgstr ""
+
+#: controls/hover-transition.php:33 controls/hover-transition.php:84
+msgid "Icon Shrink"
+msgstr ""
+
+#: controls/hover-transition.php:34
+msgid "Float"
+msgstr ""
+
+#: controls/hover-transition.php:35
+msgid "Sink"
+msgstr ""
+
+#: controls/hover-transition.php:36
+msgid "Bob"
+msgstr ""
+
+#: controls/hover-transition.php:37
+msgid "Hang"
+msgstr ""
+
+#: controls/hover-transition.php:38
+msgid "Skew"
+msgstr ""
+
+#: controls/hover-transition.php:39
+msgid "Skew Forward"
+msgstr ""
+
+#: controls/hover-transition.php:40
+msgid "Skew Backward"
+msgstr ""
+
+#: controls/hover-transition.php:41
+msgid "Wobble Horizontal"
+msgstr ""
+
+#: controls/hover-transition.php:42
+msgid "Wobble Vertical"
+msgstr ""
+
+#: controls/hover-transition.php:43
+msgid "Wobble To Bottom Right"
+msgstr ""
+
+#: controls/hover-transition.php:44
+msgid "Wobble To Top Right"
+msgstr ""
+
+#: controls/hover-transition.php:45
+msgid "Wobble Top"
+msgstr ""
+
+#: controls/hover-transition.php:46
+msgid "Wobble Bottom"
+msgstr ""
+
+#: controls/hover-transition.php:47
+msgid "Wobble Skew"
+msgstr ""
+
+#: controls/hover-transition.php:48
+msgid "Buzz"
+msgstr ""
+
+#: controls/hover-transition.php:49
+msgid "Buzz Out"
+msgstr ""
+
+#: controls/hover-transition.php:50
+msgid "Forward"
+msgstr ""
+
+#: controls/hover-transition.php:51
+msgid "Backward"
+msgstr ""
+
+#: controls/hover-transition.php:54 modules/flip-box-set.php:1002
+#: modules/bg-slider/module.php:87 modules/flip-box/widgets/flip-box.php:271
+#: modules/testimonial-slider/widgets/testimonial-slider.php:290
+msgid "Fade"
+msgstr ""
+
+#: controls/hover-transition.php:55
+msgid "Back Pulse"
+msgstr ""
+
+#: controls/hover-transition.php:56
+msgid "Sweep To Right"
+msgstr ""
+
+#: controls/hover-transition.php:57
+msgid "Sweep To Left"
+msgstr ""
+
+#: controls/hover-transition.php:58
+msgid "Sweep To Bottom"
+msgstr ""
+
+#: controls/hover-transition.php:59
+msgid "Sweep To Top"
+msgstr ""
+
+#: controls/hover-transition.php:60
+msgid "Bounce To Right"
+msgstr ""
+
+#: controls/hover-transition.php:61
+msgid "Bounce To Left"
+msgstr ""
+
+#: controls/hover-transition.php:62
+msgid "Bounce To Bottom"
+msgstr ""
+
+#: controls/hover-transition.php:63
+msgid "Bounce To Top"
+msgstr ""
+
+#: controls/hover-transition.php:64
+msgid "Radial Out"
+msgstr ""
+
+#: controls/hover-transition.php:65
+msgid "Radial In"
+msgstr ""
+
+#: controls/hover-transition.php:66
+msgid "Rectangle In"
+msgstr ""
+
+#: controls/hover-transition.php:67
+msgid "Rectangle Out"
+msgstr ""
+
+#: controls/hover-transition.php:68
+msgid "Shutter In Horizontal"
+msgstr ""
+
+#: controls/hover-transition.php:69
+msgid "Shutter Out Horizontal"
+msgstr ""
+
+#: controls/hover-transition.php:70
+msgid "Shutter In Vertical"
+msgstr ""
+
+#: controls/hover-transition.php:71
+msgid "Shutter Out Vertical"
+msgstr ""
+
+#: controls/hover-transition.php:74
+msgid "Icon Back"
+msgstr ""
+
+#: controls/hover-transition.php:75
+msgid "Icon Forward"
+msgstr ""
+
+#: controls/hover-transition.php:76
+msgid "Icon Down"
+msgstr ""
+
+#: controls/hover-transition.php:77
+msgid "Icon Up"
+msgstr ""
+
+#: controls/hover-transition.php:78
+msgid "Icon Spin"
+msgstr ""
+
+#: controls/hover-transition.php:79
+msgid "Icon Drop"
+msgstr ""
+
+#: controls/hover-transition.php:80
+msgid "Icon Fade"
+msgstr ""
+
+#: controls/hover-transition.php:81
+msgid "Icon Float Away"
+msgstr ""
+
+#: controls/hover-transition.php:82
+msgid "Icon Sink Away"
+msgstr ""
+
+#: controls/hover-transition.php:83
+msgid "Icon Grow"
+msgstr ""
+
+#: controls/hover-transition.php:85
+msgid "Icon Pulse"
+msgstr ""
+
+#: controls/hover-transition.php:86
+msgid "Icon Pulse Grow"
+msgstr ""
+
+#: controls/hover-transition.php:87
+msgid "Icon Pulse Shrink"
+msgstr ""
+
+#: controls/hover-transition.php:88
+msgid "Icon Push"
+msgstr ""
+
+#: controls/hover-transition.php:89
+msgid "Icon Pop"
+msgstr ""
+
+#: controls/hover-transition.php:90
+msgid "Icon Bounce"
+msgstr ""
+
+#: controls/hover-transition.php:91
+#: modules/text-separator/widgets/text-separator.php:403
+msgid "Icon Rotate"
+msgstr ""
+
+#: controls/hover-transition.php:92
+msgid "Icon Grow Rotate"
+msgstr ""
+
+#: controls/hover-transition.php:93
+msgid "Icon Float"
+msgstr ""
+
+#: controls/hover-transition.php:94
+msgid "Icon Sink"
+msgstr ""
+
+#: controls/hover-transition.php:95
+msgid "Icon Bob"
+msgstr ""
+
+#: controls/hover-transition.php:96
+msgid "Icon Hang"
+msgstr ""
+
+#: controls/hover-transition.php:97
+msgid "Icon Wobble Horizontal"
+msgstr ""
+
+#: controls/hover-transition.php:98
+msgid "Icon Wobble Vertical"
+msgstr ""
+
+#: controls/hover-transition.php:99
+msgid "Icon Buzz"
+msgstr ""
+
+#: controls/hover-transition.php:100
+msgid "Icon Buzz Out"
+msgstr ""
+
+#: controls/hover-transition.php:103
+msgid "Border Fade"
+msgstr ""
+
+#: controls/hover-transition.php:104
+msgid "Hollow"
+msgstr ""
+
+#: controls/hover-transition.php:105 controls/hover-transition.php:124
+msgid "Trim"
+msgstr ""
+
+#: controls/hover-transition.php:106
+msgid "Ripple Out"
+msgstr ""
+
+#: controls/hover-transition.php:107
+msgid "Ripple In"
+msgstr ""
+
+#: controls/hover-transition.php:108
+msgid "Outline Out"
+msgstr ""
+
+#: controls/hover-transition.php:109
+msgid "Outline In"
+msgstr ""
+
+#: controls/hover-transition.php:110
+msgid "Round Corners"
+msgstr ""
+
+#: controls/hover-transition.php:111
+msgid "Underline From Left"
+msgstr ""
+
+#: controls/hover-transition.php:112
+msgid "Underline From Center"
+msgstr ""
+
+#: controls/hover-transition.php:113
+msgid "Underline From Right"
+msgstr ""
+
+#: controls/hover-transition.php:114
+msgid "Reveal"
+msgstr ""
+
+#: controls/hover-transition.php:115
+msgid "Underline Reveal"
+msgstr ""
+
+#: controls/hover-transition.php:116
+msgid "Overline Reveal"
+msgstr ""
+
+#: controls/hover-transition.php:117
+msgid "Overline From Left"
+msgstr ""
+
+#: controls/hover-transition.php:118
+msgid "Overline From Center"
+msgstr ""
+
+#: controls/hover-transition.php:119
+msgid "Overline From Right"
+msgstr ""
+
+#: controls/hover-transition.php:122
+msgid "Shadow"
+msgstr ""
+
+#: controls/hover-transition.php:123
+msgid "Grow Shadow"
+msgstr ""
+
+#: controls/hover-transition.php:125
+msgid "Float Shadow"
+msgstr ""
+
+#: controls/hover-transition.php:126
+msgid "Glow"
+msgstr ""
+
+#: controls/hover-transition.php:127
+msgid "Shadow Radial"
+msgstr ""
+
+#: controls/hover-transition.php:128
+msgid "Box Shadow Outset"
+msgstr ""
+
+#: controls/hover-transition.php:129
+msgid "Box Shadow Inset"
+msgstr ""
+
+#: modules/flip-box-set.php:13
+msgid "EAE - Flip Box Set"
+msgstr ""
+
+#: modules/flip-box-set.php:29 modules/flip-box-set.php:985
+#: modules/advance-tabs.php:188 modules/control-test.php:28
+#: modules/pinterest.php:37 inc/admin/Settings.php:42
+#: modules/twitter/widgets/twitter.php:37
+#: modules/flip-box/widgets/flip-box.php:258
+#: modules/image-compare/widgets/image-compare.php:187
+#: modules/progress-bar/skins/skin-base.php:32
+#: modules/progress-bar/widgets/progress-bar.php:42
+#: modules/evergreen-timer/skins/skin-base.php:44
+#: modules/animated-text/widgets/animated-text.php:37
+#: modules/gmap/widgets/gmap.php:40
+#: modules/split-text/widgets/split-text.php:35
+#: modules/comparison-table/widgets/comparison-table.php:38
+#: modules/comparison-table/widgets/comparison-table.php:708
+#: modules/testimonial-slider/widgets/testimonial-slider.php:45
+#: modules/post-list/widgets/post-list.php:326
+#: modules/dual-button/widgets/dual-button.php:36
+#: modules/dual-button/widgets/dual-button.php:278
+msgid "General"
+msgstr ""
+
+#: modules/flip-box-set.php:36
+msgid "Column"
+msgstr ""
+
+#: modules/flip-box-set.php:53 modules/flip-box-set.php:1063
+#: modules/flip-box/widgets/flip-box.php:37
+#: modules/flip-box/widgets/flip-box.php:334
+msgid "Front Box"
+msgstr ""
+
+#: modules/flip-box-set.php:63 modules/flip-box-set.php:458
+#: modules/flip-box-set.php:842 modules/advance-tabs.php:154
+#: modules/advance-tabs.php:507 modules/modal-popup/widgets/modal-popup.php:36
+#: modules/modal-popup/widgets/modal-popup.php:52
+#: modules/modal-popup/widgets/modal-popup.php:92
+#: modules/modal-popup/widgets/modal-popup.php:94
+#: modules/modal-popup/widgets/modal-popup.php:345
+#: modules/info-circle/skins/skin-base.php:188
+#: modules/info-circle/skins/skin-base.php:213
+#: modules/info-circle/skins/skin-base.php:215
+#: modules/info-circle/skins/skin-base.php:430
+#: modules/info-circle/widgets/info-circle.php:62
+#: modules/info-circle/widgets/info-circle.php:87
+#: modules/info-circle/widgets/info-circle.php:89
+#: modules/comparison-table/widgets/comparison-table.php:142
+#: modules/testimonial-slider/widgets/testimonial-slider.php:619
+#: modules/timeline/widgets/timeline.php:113
+#: modules/timeline/widgets/timeline.php:158
+#: modules/timeline/widgets/timeline.php:160
+msgid "Content"
+msgstr ""
+
+#: modules/flip-box-set.php:70 modules/flip-box-set.php:467
+msgid "Box Element"
+msgstr ""
+
+#: modules/flip-box-set.php:78 modules/flip-box-set.php:475
+#: modules/advance-tabs.php:101
+#: modules/image-compare/widgets/image-compare.php:39
+#: modules/testimonial-slider/widgets/testimonial-slider.php:114
+#: modules/testimonial-slider/widgets/testimonial-slider.php:926
+#: modules/timeline/skins/skin-base.php:311
+msgid "Image"
+msgstr ""
+
+#: modules/flip-box-set.php:82 modules/flip-box-set.php:143
+#: modules/flip-box-set.php:479 modules/flip-box-set.php:540
+#: modules/advance-tabs.php:105 modules/advance-tabs.php:143
+#: controls/group/icon.php:52 controls/group/icon_timeline.php:52
+#: modules/modal-popup/widgets/modal-popup.php:234
+#: modules/modal-popup/widgets/modal-popup.php:648
+#: modules/flip-box/widgets/flip-box.php:44
+#: modules/flip-box/widgets/flip-box.php:138
+#: modules/text-separator/widgets/text-separator.php:100
+#: modules/text-separator/widgets/text-separator.php:109
+#: modules/text-separator/widgets/text-separator.php:322
+#: modules/image-compare/widgets/image-compare.php:77
+#: modules/gmap/widgets/gmap.php:91 modules/info-circle/skins/skin-base.php:66
+#: modules/info-circle/skins/skin-base.php:588
+#: modules/info-circle/skins/skin-base.php:603
+#: modules/info-circle/widgets/info-circle.php:276
+#: modules/price-table/widgets/price-table.php:226
+#: modules/comparison-table/widgets/comparison-table.php:79
+#: modules/timeline/skins/skin-base.php:82
+#: modules/timeline/skins/skin-base.php:1005
+#: modules/timeline/widgets/timeline.php:541
+#: modules/dual-button/widgets/dual-button.php:120
+#: modules/dual-button/widgets/dual-button.php:202
+#: modules/dual-button/widgets/dual-button.php:267
+msgid "Icon"
+msgstr ""
+
+#: modules/flip-box-set.php:93 modules/flip-box-set.php:490
+#: modules/advance-tabs.php:116 modules/timeline/widgets/timeline.php:192
+msgid "Choose Image"
+msgstr ""
+
+#: modules/flip-box-set.php:119 modules/flip-box-set.php:516
+#: modules/pinterest.php:260
+msgid "Image Width"
+msgstr ""
+
+#: modules/flip-box-set.php:158 modules/flip-box-set.php:185
+#: modules/flip-box-set.php:556 modules/flip-box-set.php:583
+#: modules/modal-popup/widgets/modal-popup.php:84
+#: modules/flip-box/widgets/flip-box.php:91
+#: modules/flip-box/widgets/flip-box.php:121
+#: modules/flip-box/widgets/flip-box.php:185
+#: modules/flip-box/widgets/flip-box.php:215
+#: modules/text-separator/widgets/text-separator.php:47
+#: modules/image-compare/widgets/image-compare.php:166
+#: modules/image-compare/widgets/image-compare.php:176
+#: modules/animated-text/widgets/animated-text.php:73
+#: modules/animated-text/widgets/animated-text.php:114
+#: modules/split-text/widgets/split-text.php:114
+msgid "Enter text"
+msgstr ""
+
+#: modules/flip-box-set.php:159 modules/flip-box-set.php:557
+#: modules/flip-box/widgets/flip-box.php:92
+#: modules/flip-box/widgets/flip-box.php:186
+msgid "Text Title"
+msgstr ""
+
+#: modules/flip-box-set.php:166 modules/flip-box-set.php:564
+#: modules/flip-box/widgets/flip-box.php:99
+#: modules/flip-box/widgets/flip-box.php:193
+#: modules/text-separator/widgets/text-separator.php:55
+#: modules/split-text/widgets/split-text.php:92
+#: modules/timeline/widgets/timeline.php:394
+msgid "HTML Tag"
+msgstr ""
+
+#: modules/flip-box-set.php:169 modules/flip-box-set.php:567
+#: modules/flip-box/widgets/flip-box.php:102
+#: modules/flip-box/widgets/flip-box.php:196
+#: modules/text-separator/widgets/text-separator.php:58
+#: modules/price-table/widgets/price-table.php:59
+#: modules/price-table/widgets/price-table.php:87
+#: modules/split-text/widgets/split-text.php:95
+msgid "H1"
+msgstr ""
+
+#: modules/flip-box-set.php:170 modules/flip-box-set.php:568
+#: modules/flip-box/widgets/flip-box.php:103
+#: modules/flip-box/widgets/flip-box.php:197
+#: modules/text-separator/widgets/text-separator.php:59
+#: modules/price-table/widgets/price-table.php:60
+#: modules/price-table/widgets/price-table.php:88
+#: modules/split-text/widgets/split-text.php:96
+msgid "H2"
+msgstr ""
+
+#: modules/flip-box-set.php:171 modules/flip-box-set.php:569
+#: modules/flip-box/widgets/flip-box.php:104
+#: modules/flip-box/widgets/flip-box.php:198
+#: modules/text-separator/widgets/text-separator.php:60
+#: modules/price-table/widgets/price-table.php:61
+#: modules/price-table/widgets/price-table.php:89
+#: modules/split-text/widgets/split-text.php:97
+msgid "H3"
+msgstr ""
+
+#: modules/flip-box-set.php:172 modules/flip-box-set.php:570
+#: modules/flip-box/widgets/flip-box.php:105
+#: modules/flip-box/widgets/flip-box.php:199
+#: modules/text-separator/widgets/text-separator.php:61
+#: modules/price-table/widgets/price-table.php:62
+#: modules/price-table/widgets/price-table.php:90
+#: modules/split-text/widgets/split-text.php:98
+msgid "H4"
+msgstr ""
+
+#: modules/flip-box-set.php:173 modules/flip-box-set.php:571
+#: modules/flip-box/widgets/flip-box.php:106
+#: modules/flip-box/widgets/flip-box.php:200
+#: modules/text-separator/widgets/text-separator.php:62
+#: modules/price-table/widgets/price-table.php:63
+#: modules/price-table/widgets/price-table.php:91
+#: modules/split-text/widgets/split-text.php:99
+msgid "H5"
+msgstr ""
+
+#: modules/flip-box-set.php:174 modules/flip-box-set.php:572
+#: modules/flip-box/widgets/flip-box.php:107
+#: modules/flip-box/widgets/flip-box.php:201
+#: modules/text-separator/widgets/text-separator.php:63
+#: modules/price-table/widgets/price-table.php:64
+#: modules/price-table/widgets/price-table.php:92
+#: modules/split-text/widgets/split-text.php:100
+msgid "H6"
+msgstr ""
+
+#: modules/flip-box-set.php:183 modules/flip-box-set.php:581
+#: controls/group/icon.php:39 controls/group/icon.php:72
+#: controls/group/icon_timeline.php:39 controls/group/icon_timeline.php:72
+#: modules/flip-box/widgets/flip-box.php:116
+#: modules/flip-box/widgets/flip-box.php:210
+#: modules/animated-text/widgets/animated-text.php:98
+#: modules/info-circle/skins/skin-base.php:55
+#: modules/info-circle/skins/skin-base.php:90
+#: modules/price-table/widgets/price-table.php:176
+#: modules/split-text/widgets/split-text.php:112
+#: modules/comparison-table/widgets/comparison-table.php:155
+#: modules/timeline/skins/skin-base.php:71
+#: modules/timeline/skins/skin-base.php:106
+#: modules/dual-button/widgets/dual-button.php:92
+#: modules/dual-button/widgets/dual-button.php:174
+#: modules/dual-button/widgets/dual-button.php:257
+msgid "Text"
+msgstr ""
+
+#: modules/flip-box-set.php:186 modules/flip-box-set.php:584
+#: modules/modal-popup/widgets/modal-popup.php:98
+#: modules/flip-box/widgets/flip-box.php:122
+#: modules/flip-box/widgets/flip-box.php:216
+#: modules/info-circle/skins/skin-base.php:216
+#: modules/info-circle/widgets/info-circle.php:90
+#: modules/timeline/widgets/timeline.php:161
+msgid "Add some nice text here."
+msgstr ""
+
+#: modules/flip-box-set.php:194 modules/flip-box-set.php:592
+#: modules/flip-box-set.php:871
+#: modules/text-separator/widgets/text-separator.php:174
+#: modules/info-circle/skins/skin-base.php:242
+#: modules/info-circle/widgets/info-circle.php:116
+#: modules/timeline/widgets/timeline.php:212
+msgid "Style"
+msgstr ""
+
+#: modules/flip-box-set.php:201
+msgid "Overwrite Global Style"
+msgstr ""
+
+#: modules/flip-box-set.php:215 modules/flip-box-set.php:599
+#: modules/flip-box-set.php:1070 modules/flip-box-set.php:1268
+#: controls/group/icon.php:82 modules/flip-box/widgets/flip-box.php:54
+#: modules/flip-box/widgets/flip-box.php:148
+#: modules/text-separator/widgets/text-separator.php:119
+#: modules/info-circle/skins/skin-base.php:102
+#: modules/timeline/skins/skin-base.php:118
+msgid "View"
+msgstr ""
+
+#: modules/flip-box-set.php:218 modules/flip-box-set.php:602
+#: modules/flip-box-set.php:1073 modules/flip-box-set.php:1271
+#: controls/group/icon.php:86 modules/modal-popup/widgets/modal-popup.php:472
+#: modules/flip-box/widgets/flip-box.php:57
+#: modules/flip-box/widgets/flip-box.php:151
+#: modules/text-separator/widgets/text-separator.php:122
+#: modules/info-circle/skins/skin-base.php:105
+#: modules/timeline/skins/skin-base.php:121
+#: modules/timeline/skins/skin-base.php:467
+msgid "Default"
+msgstr ""
+
+#: modules/flip-box-set.php:219 modules/flip-box-set.php:603
+#: modules/flip-box-set.php:1074 modules/flip-box-set.php:1272
+#: controls/group/icon.php:87 modules/flip-box/widgets/flip-box.php:58
+#: modules/flip-box/widgets/flip-box.php:152
+#: modules/text-separator/widgets/text-separator.php:123
+#: modules/info-circle/skins/skin-base.php:106
+#: modules/timeline/skins/skin-base.php:122
+msgid "Stacked"
+msgstr ""
+
+#: modules/flip-box-set.php:220 modules/flip-box-set.php:604
+#: modules/flip-box-set.php:1075 modules/flip-box-set.php:1273
+#: controls/group/icon.php:88 modules/flip-box/widgets/flip-box.php:59
+#: modules/flip-box/widgets/flip-box.php:153
+#: modules/text-separator/widgets/text-separator.php:124
+#: modules/info-circle/skins/skin-base.php:107
+#: modules/timeline/skins/skin-base.php:123
+msgid "Framed"
+msgstr ""
+
+#: modules/flip-box-set.php:234 modules/flip-box-set.php:617
+#: modules/flip-box-set.php:1085 modules/flip-box-set.php:1282
+#: controls/group/icon.php:98 controls/group/icon_timeline.php:97
+#: modules/flip-box/widgets/flip-box.php:69
+#: modules/flip-box/widgets/flip-box.php:163
+#: modules/text-separator/widgets/text-separator.php:134
+#: modules/info-circle/skins/skin-base.php:116
+#: modules/price-table/widgets/price-table.php:133
+#: modules/shape-separator/widgets/shape-separator.php:38
+#: modules/shape-separator/widgets/shape-separator.php:45
+#: modules/timeline/skins/skin-base.php:132
+msgid "Shape"
+msgstr ""
+
+#: modules/flip-box-set.php:237 modules/flip-box-set.php:620
+#: modules/flip-box-set.php:1088 modules/flip-box-set.php:1285
+#: controls/group/icon.php:102 controls/group/icon_timeline.php:100
+#: modules/flip-box/widgets/flip-box.php:72
+#: modules/flip-box/widgets/flip-box.php:166
+#: modules/text-separator/widgets/text-separator.php:137
+#: modules/info-circle/skins/skin-base.php:119
+#: modules/price-table/widgets/price-table.php:137
+#: modules/timeline/skins/skin-base.php:135
+msgid "Circle"
+msgstr ""
+
+#: modules/flip-box-set.php:238 modules/flip-box-set.php:621
+#: modules/flip-box-set.php:1089 modules/flip-box-set.php:1286
+#: controls/group/icon.php:103 controls/group/icon_timeline.php:101
+#: modules/flip-box/widgets/flip-box.php:73
+#: modules/flip-box/widgets/flip-box.php:167
+#: modules/text-separator/widgets/text-separator.php:138
+#: modules/info-circle/skins/skin-base.php:120
+#: modules/price-table/widgets/price-table.php:138
+#: modules/timeline/skins/skin-base.php:136
+msgid "Square"
+msgstr ""
+
+#: modules/flip-box-set.php:264 modules/flip-box-set.php:646
+msgid "Background Overlay"
+msgstr ""
+
+#: modules/flip-box-set.php:297 modules/flip-box-set.php:681
+#: modules/flip-box-set.php:1130 modules/flip-box-set.php:1323
+#: modules/control-test.php:66 modules/flip-box/widgets/flip-box.php:373
+#: modules/flip-box/widgets/flip-box.php:551
+#: modules/info-circle/skins/skin-base.php:285
+#: modules/info-circle/skins/skin-base.php:526
+#: modules/info-circle/widgets/info-circle.php:159
+#: modules/post-list/widgets/post-list.php:375
+#: modules/post-list/widgets/post-list.php:426
+#: modules/timeline/skins/skin-base.php:504
+#: modules/timeline/skins/skin-base.php:607
+#: modules/timeline/skins/skin-base.php:704
+msgid "Title Typography"
+msgstr ""
+
+#: modules/flip-box-set.php:309 modules/flip-box-set.php:693
+#: modules/flip-box-set.php:1139 modules/flip-box-set.php:1332
+#: modules/flip-box/widgets/flip-box.php:382
+#: modules/flip-box/widgets/flip-box.php:560
+msgid "Description Color"
+msgstr ""
+
+#: modules/flip-box-set.php:330 modules/flip-box-set.php:714
+#: modules/flip-box-set.php:1157 modules/flip-box-set.php:1350
+#: modules/flip-box/widgets/flip-box.php:400
+#: modules/flip-box/widgets/flip-box.php:578
+msgid "Description Typography"
+msgstr ""
+
+#: modules/flip-box-set.php:346 modules/flip-box-set.php:730
+#: modules/flip-box-set.php:1170 modules/flip-box-set.php:1363
+#: modules/advance-tabs.php:240 modules/advance-tabs.php:313
+#: modules/flip-box/widgets/flip-box.php:413
+#: modules/flip-box/widgets/flip-box.php:591
+#: modules/image-compare/widgets/image-compare.php:195
+#: modules/dual-button/widgets/dual-button.php:386
+#: modules/dual-button/widgets/dual-button.php:430
+#: modules/dual-button/widgets/dual-button.php:554
+#: modules/dual-button/widgets/dual-button.php:599
+msgid "Icon Color"
+msgstr ""
+
+#: modules/flip-box-set.php:365 modules/flip-box-set.php:750
+#: modules/flip-box-set.php:1186 modules/flip-box-set.php:1379
+#: modules/flip-box/widgets/flip-box.php:432
+#: modules/flip-box/widgets/flip-box.php:610
+msgid "Icon Fill Color"
+msgstr ""
+
+#: modules/flip-box-set.php:385 modules/flip-box-set.php:770
+#: modules/flip-box-set.php:1023 modules/flip-box-set.php:1205
+#: modules/flip-box-set.php:1398 modules/flip-box/widgets/flip-box.php:294
+#: modules/flip-box/widgets/flip-box.php:452
+#: modules/flip-box/widgets/flip-box.php:630
+#: modules/image-compare/widgets/image-compare.php:352
+#: modules/animated-text/widgets/animated-text.php:196
+#: modules/price-table/widgets/price-table.php:304
+#: modules/split-text/widgets/split-text.php:162
+#: modules/split-text/widgets/split-text.php:252
+#: modules/comparison-table/widgets/comparison-table.php:1060
+msgid "Box Border"
+msgstr ""
+
+#: modules/flip-box-set.php:400 modules/flip-box-set.php:785
+#: modules/flip-box-set.php:1219 modules/flip-box-set.php:1412
+#: modules/advance-tabs.php:483 modules/flip-box/widgets/flip-box.php:466
+#: modules/flip-box/widgets/flip-box.php:644
+#: modules/text-separator/widgets/text-separator.php:362
+#: modules/gmap/widgets/gmap.php:99
+#: modules/testimonial-slider/widgets/testimonial-slider.php:867
+msgid "Icon Size"
+msgstr ""
+
+#: modules/flip-box-set.php:420 modules/flip-box-set.php:805
+#: modules/flip-box-set.php:1236 modules/flip-box-set.php:1429
+#: modules/flip-box/widgets/flip-box.php:483
+#: modules/flip-box/widgets/flip-box.php:661
+#: modules/text-separator/widgets/text-separator.php:379
+msgid "Icon Padding"
+msgstr ""
+
+#: modules/flip-box-set.php:448 modules/flip-box-set.php:1260
+#: modules/flip-box/widgets/flip-box.php:131
+#: modules/flip-box/widgets/flip-box.php:514
+msgid "Back Box"
+msgstr ""
+
+#: modules/flip-box-set.php:833 modules/flip-box-set.php:1456
+#: modules/flip-box/widgets/flip-box.php:226
+#: modules/flip-box/widgets/flip-box.php:688
+#: modules/price-table/widgets/price-table.php:199
+#: modules/price-table/widgets/price-table.php:608
+msgid "Action Button"
+msgstr ""
+
+#: modules/flip-box-set.php:850 modules/modal-popup/widgets/modal-popup.php:198
+#: modules/flip-box/widgets/flip-box.php:233
+#: modules/price-table/widgets/price-table.php:206
+#: modules/comparison-table/widgets/comparison-table.php:296
+msgid "Button Text"
+msgstr ""
+
+#: modules/flip-box-set.php:852 modules/flip-box/widgets/flip-box.php:235
+#: modules/price-table/widgets/price-table.php:208
+msgid "Buy"
+msgstr ""
+
+#: modules/flip-box-set.php:853 modules/flip-box/widgets/flip-box.php:236
+#: modules/price-table/widgets/price-table.php:209
+msgid "Buy Now"
+msgstr ""
+
+#: modules/flip-box-set.php:860 modules/flip-box/widgets/flip-box.php:243
+#: modules/price-table/widgets/price-table.php:216
+msgid "Link to"
+msgstr ""
+
+#: modules/flip-box-set.php:862 modules/flip-box/widgets/flip-box.php:248
+#: modules/price-table/widgets/price-table.php:218
+msgid "http://your-link.com"
+msgstr ""
+
+#: modules/flip-box-set.php:878 modules/flip-box-set.php:1464
+#: modules/advance-tabs.php:544 modules/modal-popup/widgets/modal-popup.php:478
+#: modules/modal-popup/widgets/modal-popup.php:538
+#: modules/flip-box/widgets/flip-box.php:696
+#: modules/text-separator/widgets/text-separator.php:225
+#: modules/price-table/widgets/price-table.php:632
+#: modules/price-table/widgets/price-table.php:730
+#: modules/split-text/widgets/split-text.php:136
+#: modules/split-text/widgets/split-text.php:228
+#: modules/comparison-table/widgets/comparison-table.php:1598
+#: modules/timeline/skins/skin-base.php:1039
+#: modules/dual-button/widgets/dual-button.php:374
+#: modules/dual-button/widgets/dual-button.php:419
+#: modules/dual-button/widgets/dual-button.php:542
+#: modules/dual-button/widgets/dual-button.php:588
+msgid "Text Color"
+msgstr ""
+
+#: modules/flip-box-set.php:894 modules/flip-box-set.php:1477
+#: modules/modal-popup/widgets/modal-popup.php:328
+#: modules/modal-popup/widgets/modal-popup.php:384
+#: modules/modal-popup/widgets/modal-popup.php:461
+#: modules/flip-box/widgets/flip-box.php:709
+#: modules/evergreen-timer/skins/skin-base.php:121
+#: modules/evergreen-timer/skins/skin-base.php:140
+#: modules/evergreen-timer/skins/skin-base.php:190
+#: modules/price-table/widgets/price-table.php:645
+#: modules/comparison-table/widgets/comparison-table.php:1248
+#: modules/comparison-table/widgets/comparison-table.php:1301
+#: modules/comparison-table/widgets/comparison-table.php:1354
+#: modules/comparison-table/widgets/comparison-table.php:1380
+#: modules/comparison-table/widgets/comparison-table.php:1433
+#: modules/comparison-table/widgets/comparison-table.php:1632
+#: modules/testimonial-slider/widgets/testimonial-slider.php:657
+#: modules/testimonial-slider/widgets/testimonial-slider.php:737
+#: modules/testimonial-slider/widgets/testimonial-slider.php:801
+#: modules/post-list/widgets/post-list.php:367
+#: modules/timeline/skins/skin-base.php:845
+#: modules/timeline/skins/skin-base.php:887
+#: modules/timeline/skins/skin-base.php:929
+#: modules/dual-button/widgets/dual-button.php:717
+msgid "Typography"
+msgstr ""
+
+#: modules/flip-box-set.php:906 modules/flip-box-set.php:1486
+#: modules/advance-tabs.php:255 modules/advance-tabs.php:328
+#: modules/modal-popup/widgets/modal-popup.php:304
+#: modules/modal-popup/widgets/modal-popup.php:498
+#: modules/modal-popup/widgets/modal-popup.php:559
+#: modules/flip-box/widgets/flip-box.php:718
+#: modules/progress-bar/skins/skin-base.php:50
+#: modules/evergreen-timer/skins/skin-4.php:60
+#: modules/evergreen-timer/skins/skin-base.php:51
+#: modules/evergreen-timer/skins/skin-base.php:158
+#: modules/evergreen-timer/skins/skin-base.php:207
+#: modules/price-table/widgets/price-table.php:654
+#: modules/price-table/widgets/price-table.php:741
+#: modules/comparison-table/widgets/comparison-table.php:377
+#: modules/comparison-table/widgets/comparison-table.php:533
+#: modules/comparison-table/widgets/comparison-table.php:596
+#: modules/comparison-table/widgets/comparison-table.php:636
+#: modules/comparison-table/widgets/comparison-table.php:677
+#: modules/comparison-table/widgets/comparison-table.php:769
+#: modules/comparison-table/widgets/comparison-table.php:873
+#: modules/comparison-table/widgets/comparison-table.php:963
+#: modules/comparison-table/widgets/comparison-table.php:1039
+#: modules/comparison-table/widgets/comparison-table.php:1154
+#: modules/comparison-table/widgets/comparison-table.php:1441
+#: modules/comparison-table/widgets/comparison-table.php:1532
+#: modules/comparison-table/widgets/comparison-table.php:1609
+#: modules/post-list/widgets/post-list.php:625
+#: modules/timeline/skins/skin-base.php:538
+#: modules/timeline/skins/skin-base.php:638
+#: modules/timeline/skins/skin-base.php:735
+#: modules/dual-button/widgets/dual-button.php:402
+#: modules/dual-button/widgets/dual-button.php:442
+#: modules/dual-button/widgets/dual-button.php:570
+#: modules/dual-button/widgets/dual-button.php:611
+#: modules/dual-button/widgets/dual-button.php:737
+msgid "Background Color"
+msgstr ""
+
+#: modules/flip-box-set.php:926 modules/flip-box-set.php:1503
+#: modules/modal-popup/widgets/modal-popup.php:420
+#: modules/modal-popup/widgets/modal-popup.php:623
+#: modules/flip-box/widgets/flip-box.php:735
+#: modules/evergreen-timer/skins/skin-1.php:33
+#: modules/evergreen-timer/skins/skin-3.php:122
+#: modules/info-circle/skins/skin-1.php:25
+#: modules/info-circle/skins/skin-2.php:29
+#: modules/info-circle/skins/skin-3.php:29
+#: modules/info-circle/skins/skin-4.php:29
+#: modules/price-table/widgets/price-table.php:685
+#: modules/comparison-table/widgets/comparison-table.php:739
+#: modules/comparison-table/widgets/comparison-table.php:1658
+#: modules/testimonial-slider/widgets/testimonial-slider.php:610
+#: modules/testimonial-slider/widgets/testimonial-slider.php:980
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1073
+#: modules/post-list/widgets/post-list.php:641
+#: modules/timeline/skins/skin-base.php:456
+#: modules/timeline/skins/skin-base.php:1065
+msgid "Border"
+msgstr ""
+
+#: modules/flip-box-set.php:954 modules/flip-box-set.php:1525
+#: modules/flip-box/widgets/flip-box.php:757
+#: modules/price-table/widgets/price-table.php:707
+#: modules/post-list/widgets/post-list.php:662
+msgid "Text Padding"
+msgstr ""
+
+#: modules/flip-box-set.php:973 modules/flip-box-set.php:1004
+#: modules/control-test.php:87 modules/flip-box/widgets/flip-box.php:276
+msgid "Flip Box"
+msgstr ""
+
+#: modules/flip-box-set.php:993 modules/flip-box/widgets/flip-box.php:266
+msgid "Animation Style"
+msgstr ""
+
+#: modules/flip-box-set.php:996
+#: modules/image-compare/widgets/image-compare.php:49
+#: modules/dual-button/widgets/dual-button.php:47
+msgid "Horizontal"
+msgstr ""
+
+#: modules/flip-box-set.php:997
+#: modules/image-compare/widgets/image-compare.php:50
+#: modules/dual-button/widgets/dual-button.php:48
+msgid "Vertical"
+msgstr ""
+
+#: modules/flip-box-set.php:998 modules/flip-box/widgets/flip-box.php:272
+msgid "Cube - Top Down"
+msgstr ""
+
+#: modules/flip-box-set.php:999 modules/flip-box/widgets/flip-box.php:273
+msgid "Cube - Down Top"
+msgstr ""
+
+#: modules/flip-box-set.php:1000
+msgid "Cube - Left Right"
+msgstr ""
+
+#: modules/flip-box-set.php:1001
+msgid "Cube - Right Left"
+msgstr ""
+
+#: modules/flip-box-set.php:1003 modules/flip-box/widgets/flip-box.php:282
+msgid "Rollover"
+msgstr ""
+
+#: modules/flip-box-set.php:1005 modules/flip-box/widgets/flip-box.php:277
+msgid "Flip Box Fade"
+msgstr ""
+
+#: modules/flip-box-set.php:1006 modules/flip-box/widgets/flip-box.php:278
+msgid "Fade Up"
+msgstr ""
+
+#: modules/flip-box-set.php:1007 modules/flip-box/widgets/flip-box.php:279
+msgid "Fade Hideback"
+msgstr ""
+
+#: modules/flip-box-set.php:1008 modules/flip-box/widgets/flip-box.php:280
+msgid "Fade Up Hideback"
+msgstr ""
+
+#: modules/flip-box-set.php:1009 modules/flip-box/widgets/flip-box.php:281
+msgid "Nananana"
+msgstr ""
+
+#: modules/flip-box-set.php:1010 modules/bg-slider/module.php:97
+msgid "Zoom In"
+msgstr ""
+
+#: modules/flip-box-set.php:1011 modules/bg-slider/module.php:99
+msgid "Zoom Out"
+msgstr ""
+
+#: modules/flip-box-set.php:1047 modules/flip-box/widgets/flip-box.php:318
+msgid "Box Height"
+msgstr ""
+
+#: modules/flip-box-set.php:1048 modules/flip-box-set.php:1049
+#: modules/flip-box/widgets/flip-box.php:319
+#: modules/flip-box/widgets/flip-box.php:320
+msgid "250"
+msgstr ""
+
+#: modules/flip-box-set.php:1102 modules/flip-box/widgets/flip-box.php:343
+msgid "Front Box Background"
+msgstr ""
+
+#: modules/flip-box-set.php:1296 modules/flip-box/widgets/flip-box.php:524
+msgid "Back Box Background"
+msgstr ""
+
+#: modules/advance-tabs.php:13
+msgid "EAE - Advance Tabs"
+msgstr ""
+
+#: modules/advance-tabs.php:34
+msgid "Tabs"
+msgstr ""
+
+#: modules/advance-tabs.php:40
+msgid "Tab Position"
+msgstr ""
+
+#: modules/advance-tabs.php:43
+#: modules/image-compare/widgets/image-compare.php:271
+#: modules/comparison-table/widgets/comparison-table.php:278
+#: modules/comparison-table/widgets/comparison-table.php:1261
+#: modules/comparison-table/widgets/comparison-table.php:1314
+#: modules/comparison-table/widgets/comparison-table.php:1393
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1220
+#: modules/timeline/skins/skin-base.php:282
+#: modules/timeline/skins/skin-base.php:437
+msgid "Top"
+msgstr ""
+
+#: modules/advance-tabs.php:44 modules/advance-tabs.php:462
+#: modules/advance-tabs.php:519 modules/modal-popup/widgets/modal-popup.php:211
+#: modules/text-separator/widgets/text-separator.php:79
+#: modules/text-separator/widgets/text-separator.php:299
+#: modules/image-compare/widgets/image-compare.php:294
+#: modules/evergreen-timer/skins/skin-base.php:66
+#: modules/animated-text/widgets/animated-text.php:49
+#: modules/info-circle/skins/skin-base.php:261
+#: modules/info-circle/skins/skin-base.php:463
+#: modules/info-circle/widgets/info-circle.php:135
+#: modules/price-table/widgets/price-table.php:584
+#: modules/split-text/widgets/split-text.php:47
+#: modules/comparison-table/widgets/comparison-table.php:274
+#: modules/comparison-table/widgets/comparison-table.php:793
+#: modules/comparison-table/widgets/comparison-table.php:1177
+#: modules/comparison-table/widgets/comparison-table.php:1457
+#: modules/comparison-table/widgets/comparison-table.php:1556
+#: modules/testimonial-slider/widgets/testimonial-slider.php:668
+#: modules/testimonial-slider/widgets/testimonial-slider.php:748
+#: modules/testimonial-slider/widgets/testimonial-slider.php:812
+#: modules/testimonial-slider/widgets/testimonial-slider.php:891
+#: modules/testimonial-slider/widgets/testimonial-slider.php:958
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1194
+#: modules/post-list/widgets/post-list.php:167
+#: modules/post-list/widgets/post-list.php:404
+#: modules/post-list/widgets/post-list.php:463
+#: modules/post-list/widgets/post-list.php:526
+#: modules/timeline/skins/skin-base.php:173
+#: modules/timeline/skins/skin-base.php:210
+#: modules/timeline/skins/skin-base.php:278
+#: modules/timeline/skins/skin-base.php:323
+#: modules/timeline/widgets/timeline.php:233
+#: modules/dual-button/widgets/dual-button.php:61
+msgid "Left"
+msgstr ""
+
+#: modules/advance-tabs.php:54
+msgid "Sticky Tab"
+msgstr ""
+
+#: modules/advance-tabs.php:69
+msgid "Scroll Offset"
+msgstr ""
+
+#: modules/advance-tabs.php:82 modules/advance-tabs.php:84
+#: modules/advance-tabs.php:85
+msgid "Tab Title"
+msgstr ""
+
+#: modules/advance-tabs.php:93
+msgid "Tab Element"
+msgstr ""
+
+#: modules/advance-tabs.php:155 modules/advance-tabs.php:156
+msgid "Tab Content"
+msgstr ""
+
+#: modules/advance-tabs.php:165
+msgid "Tabs Items"
+msgstr ""
+
+#: modules/advance-tabs.php:169
+msgid "Adv Tab 1"
+msgstr ""
+
+#: modules/advance-tabs.php:170 modules/advance-tabs.php:174
+msgid "Advance responsive tab"
+msgstr ""
+
+#: modules/advance-tabs.php:173
+msgid "Adv Tab 2"
+msgstr ""
+
+#: modules/advance-tabs.php:225 modules/advance-tabs.php:298
+#: modules/animated-gradient/module.php:81
+#: modules/modal-popup/widgets/modal-popup.php:290
+#: modules/modal-popup/widgets/modal-popup.php:354
+#: modules/modal-popup/widgets/modal-popup.php:372
+#: modules/modal-popup/widgets/modal-popup.php:682
+#: modules/image-compare/widgets/image-compare.php:323
+#: modules/progress-bar/skins/skin-base.php:71
+#: modules/progress-bar/skins/skin-base.php:105
+#: modules/evergreen-timer/skins/skin-base.php:109
+#: modules/evergreen-timer/skins/skin-base.php:148
+#: modules/evergreen-timer/skins/skin-base.php:197
+#: modules/animated-text/widgets/animated-text.php:266
+#: modules/comparison-table/widgets/comparison-table.php:360
+#: modules/comparison-table/widgets/comparison-table.php:434
+#: modules/comparison-table/widgets/comparison-table.php:557
+#: modules/comparison-table/widgets/comparison-table.php:621
+#: modules/comparison-table/widgets/comparison-table.php:664
+#: modules/comparison-table/widgets/comparison-table.php:758
+#: modules/comparison-table/widgets/comparison-table.php:860
+#: modules/comparison-table/widgets/comparison-table.php:953
+#: modules/comparison-table/widgets/comparison-table.php:1028
+#: modules/comparison-table/widgets/comparison-table.php:1130
+#: modules/comparison-table/widgets/comparison-table.php:1227
+#: modules/comparison-table/widgets/comparison-table.php:1290
+#: modules/comparison-table/widgets/comparison-table.php:1343
+#: modules/comparison-table/widgets/comparison-table.php:1369
+#: modules/comparison-table/widgets/comparison-table.php:1422
+#: modules/comparison-table/widgets/comparison-table.php:1501
+#: modules/testimonial-slider/widgets/testimonial-slider.php:647
+#: modules/testimonial-slider/widgets/testimonial-slider.php:727
+#: modules/testimonial-slider/widgets/testimonial-slider.php:791
+#: modules/testimonial-slider/widgets/testimonial-slider.php:857
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1043
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1106
+#: modules/timeline/skins/skin-base.php:820
+#: modules/timeline/skins/skin-base.php:862
+#: modules/timeline/skins/skin-base.php:904
+#: modules/timeline/skins/skin-base.php:952
+#: modules/dual-button/widgets/dual-button.php:725
+msgid "Color"
+msgstr ""
+
+#: modules/advance-tabs.php:265 modules/advance-tabs.php:338
+#: modules/modal-popup/widgets/modal-popup.php:571
+#: modules/price-table/widgets/price-table.php:752
+#: modules/timeline/skins/skin-base.php:1114
+#: modules/timeline/skins/skin-base.php:1167
+#: modules/dual-button/widgets/dual-button.php:450
+#: modules/dual-button/widgets/dual-button.php:619
+msgid "Border Color"
+msgstr ""
+
+#: modules/advance-tabs.php:290
+msgid "hover/active"
+msgstr ""
+
+#: modules/advance-tabs.php:375
+msgid "Separator Color"
+msgstr ""
+
+#: modules/advance-tabs.php:391
+msgid "Separator Height"
+msgstr ""
+
+#: modules/advance-tabs.php:412
+msgid "Tab Width"
+msgstr ""
+
+#: modules/advance-tabs.php:434
+msgid "Title on Mobile"
+msgstr ""
+
+#: modules/advance-tabs.php:458 modules/advance-tabs.php:515
+#: modules/modal-popup/widgets/modal-popup.php:207
+#: modules/text-separator/widgets/text-separator.php:75
+#: modules/text-separator/widgets/text-separator.php:295
+#: modules/evergreen-timer/skins/skin-base.php:61
+#: modules/animated-text/widgets/animated-text.php:45
+#: modules/price-table/widgets/price-table.php:580
+#: modules/split-text/widgets/split-text.php:43
+#: modules/comparison-table/widgets/comparison-table.php:789
+#: modules/comparison-table/widgets/comparison-table.php:1173
+#: modules/comparison-table/widgets/comparison-table.php:1453
+#: modules/comparison-table/widgets/comparison-table.php:1552
+#: modules/testimonial-slider/widgets/testimonial-slider.php:664
+#: modules/testimonial-slider/widgets/testimonial-slider.php:744
+#: modules/testimonial-slider/widgets/testimonial-slider.php:808
+#: modules/testimonial-slider/widgets/testimonial-slider.php:887
+#: modules/testimonial-slider/widgets/testimonial-slider.php:954
+#: modules/timeline/skins/skin-base.php:168
+#: modules/timeline/skins/skin-base.php:273
+#: modules/timeline/skins/skin-base.php:319
+#: modules/timeline/widgets/timeline.php:229
+#: modules/dual-button/widgets/dual-button.php:57
+msgid "Alignment"
+msgstr ""
+
+#: modules/advance-tabs.php:466 modules/advance-tabs.php:523
+#: modules/modal-popup/widgets/modal-popup.php:215
+#: modules/text-separator/widgets/text-separator.php:83
+#: modules/text-separator/widgets/text-separator.php:303
+#: modules/evergreen-timer/skins/skin-base.php:70
+#: modules/animated-text/widgets/animated-text.php:53
+#: modules/info-circle/skins/skin-base.php:265
+#: modules/info-circle/skins/skin-base.php:467
+#: modules/info-circle/widgets/info-circle.php:139
+#: modules/price-table/widgets/price-table.php:588
+#: modules/split-text/widgets/split-text.php:51
+#: modules/comparison-table/widgets/comparison-table.php:797
+#: modules/comparison-table/widgets/comparison-table.php:1181
+#: modules/comparison-table/widgets/comparison-table.php:1265
+#: modules/comparison-table/widgets/comparison-table.php:1318
+#: modules/comparison-table/widgets/comparison-table.php:1397
+#: modules/comparison-table/widgets/comparison-table.php:1461
+#: modules/comparison-table/widgets/comparison-table.php:1560
+#: modules/testimonial-slider/widgets/testimonial-slider.php:672
+#: modules/testimonial-slider/widgets/testimonial-slider.php:752
+#: modules/testimonial-slider/widgets/testimonial-slider.php:816
+#: modules/testimonial-slider/widgets/testimonial-slider.php:895
+#: modules/testimonial-slider/widgets/testimonial-slider.php:962
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1198
+#: modules/post-list/widgets/post-list.php:171
+#: modules/post-list/widgets/post-list.php:408
+#: modules/post-list/widgets/post-list.php:467
+#: modules/post-list/widgets/post-list.php:530
+#: modules/timeline/skins/skin-base.php:177
+#: modules/timeline/skins/skin-base.php:327
+#: modules/timeline/skins/skin-base.php:441
+#: modules/timeline/widgets/timeline.php:237
+#: modules/dual-button/widgets/dual-button.php:65
+msgid "Center"
+msgstr ""
+
+#: modules/advance-tabs.php:470 modules/advance-tabs.php:527
+#: modules/modal-popup/widgets/modal-popup.php:219
+#: modules/modal-popup/widgets/modal-popup.php:223
+#: modules/text-separator/widgets/text-separator.php:87
+#: modules/text-separator/widgets/text-separator.php:307
+#: modules/image-compare/widgets/image-compare.php:295
+#: modules/evergreen-timer/skins/skin-base.php:74
+#: modules/animated-text/widgets/animated-text.php:57
+#: modules/info-circle/skins/skin-base.php:269
+#: modules/info-circle/skins/skin-base.php:471
+#: modules/info-circle/widgets/info-circle.php:143
+#: modules/price-table/widgets/price-table.php:592
+#: modules/split-text/widgets/split-text.php:55
+#: modules/comparison-table/widgets/comparison-table.php:282
+#: modules/comparison-table/widgets/comparison-table.php:801
+#: modules/comparison-table/widgets/comparison-table.php:1185
+#: modules/comparison-table/widgets/comparison-table.php:1465
+#: modules/comparison-table/widgets/comparison-table.php:1564
+#: modules/testimonial-slider/widgets/testimonial-slider.php:676
+#: modules/testimonial-slider/widgets/testimonial-slider.php:756
+#: modules/testimonial-slider/widgets/testimonial-slider.php:820
+#: modules/testimonial-slider/widgets/testimonial-slider.php:899
+#: modules/testimonial-slider/widgets/testimonial-slider.php:966
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1202
+#: modules/post-list/widgets/post-list.php:175
+#: modules/post-list/widgets/post-list.php:412
+#: modules/post-list/widgets/post-list.php:471
+#: modules/post-list/widgets/post-list.php:534
+#: modules/timeline/skins/skin-base.php:181
+#: modules/timeline/skins/skin-base.php:209
+#: modules/timeline/skins/skin-base.php:286
+#: modules/timeline/skins/skin-base.php:331
+#: modules/timeline/widgets/timeline.php:241
+#: modules/dual-button/widgets/dual-button.php:69
+msgid "Right"
+msgstr ""
+
+#: modules/advance-tabs.php:531
+#: modules/testimonial-slider/widgets/testimonial-slider.php:680
+#: modules/post-list/widgets/post-list.php:475
+msgid "Justified"
+msgstr ""
+
+#: modules/control-test.php:13
+msgid "EAE - Test Control"
+msgstr ""
+
+#: modules/pinterest.php:22
+msgid "EAE - Pinterest"
+msgstr ""
+
+#: modules/pinterest.php:44
+msgid "Embed Type"
+msgstr ""
+
+#: modules/pinterest.php:48
+msgid "Save Button"
+msgstr ""
+
+#: modules/pinterest.php:49 modules/twitter/widgets/twitter.php:442
+msgid "Follow"
+msgstr ""
+
+#: modules/pinterest.php:50
+msgid "Pin"
+msgstr ""
+
+#: modules/pinterest.php:51
+msgid "Board"
+msgstr ""
+
+#: modules/pinterest.php:52
+msgid "Profile"
+msgstr ""
+
+#: modules/pinterest.php:60 modules/twitter/widgets/twitter.php:438
+msgid "Button Type"
+msgstr ""
+
+#: modules/pinterest.php:64
+msgid "One Image"
+msgstr ""
+
+#: modules/pinterest.php:65
+msgid "Any Image"
+msgstr ""
+
+#: modules/pinterest.php:78
+msgid "Custom Pinterest Icon"
+msgstr ""
+
+#: modules/pinterest.php:90
+msgid "User URL"
+msgstr ""
+
+#: modules/pinterest.php:104
+msgid "User Name"
+msgstr ""
+
+#: modules/pinterest.php:117
+msgid "Round Button"
+msgstr ""
+
+#: modules/pinterest.php:132 modules/twitter/widgets/twitter.php:523
+#: modules/twitter/widgets/twitter.php:664
+msgid "Large Button"
+msgstr ""
+
+#: modules/pinterest.php:147
+msgid "Show Save Label"
+msgstr ""
+
+#: modules/pinterest.php:163
+msgid "Show Pin Count"
+msgstr ""
+
+#: modules/pinterest.php:166
+msgid "Not Shown"
+msgstr ""
+
+#: modules/pinterest.php:167
+msgid "Above the Button"
+msgstr ""
+
+#: modules/pinterest.php:168
+msgid "Beside the Button"
+msgstr ""
+
+#: modules/pinterest.php:182
+msgid "URL"
+msgstr ""
+
+#: modules/pinterest.php:195
+msgid "Image URL"
+msgstr ""
+
+#: modules/pinterest.php:209
+msgid "Description"
+msgstr ""
+
+#: modules/pinterest.php:223
+msgid "Pin Url"
+msgstr ""
+
+#: modules/pinterest.php:236
+msgid "Pinterest Board URL"
+msgstr ""
+
+#: modules/pinterest.php:248
+msgid "Pinterest User URL"
+msgstr ""
+
+#: modules/pinterest.php:282
+msgid "Board Width"
+msgstr ""
+
+#: modules/pinterest.php:303
+msgid "Image Height"
+msgstr ""
+
+#: modules/pinterest.php:325
+msgid "Pin Size"
+msgstr ""
+
+#: modules/pinterest.php:329
+msgid "Small"
+msgstr ""
+
+#: modules/pinterest.php:330
+msgid "Medium"
+msgstr ""
+
+#: modules/pinterest.php:331
+msgid "Large"
+msgstr ""
+
+#: modules/pinterest.php:343
+msgid "Hide Description"
+msgstr ""
+
+#: modules/pinterest.php:359 modules/twitter/widgets/twitter.php:654
+msgid "Language"
+msgstr ""
+
+#: modules/pinterest.php:373 modules/twitter/widgets/twitter.php:682
+msgid "Automatic"
+msgstr ""
+
+#: modules/pinterest.php:374 modules/twitter/widgets/twitter.php:683
+msgid "English"
+msgstr ""
+
+#: modules/pinterest.php:375 modules/twitter/widgets/twitter.php:684
+msgid "Arabic"
+msgstr ""
+
+#: modules/pinterest.php:376 modules/twitter/widgets/twitter.php:685
+msgid "Bengali"
+msgstr ""
+
+#: modules/pinterest.php:377 modules/twitter/widgets/twitter.php:686
+msgid "Czech"
+msgstr ""
+
+#: modules/pinterest.php:378 modules/twitter/widgets/twitter.php:687
+msgid "Danish"
+msgstr ""
+
+#: modules/pinterest.php:379 modules/twitter/widgets/twitter.php:688
+msgid "German"
+msgstr ""
+
+#: modules/pinterest.php:380 modules/twitter/widgets/twitter.php:689
+msgid "Greek"
+msgstr ""
+
+#: modules/pinterest.php:381 modules/twitter/widgets/twitter.php:690
+msgid "Spanish"
+msgstr ""
+
+#: modules/pinterest.php:382 modules/twitter/widgets/twitter.php:691
+msgid "Persian"
+msgstr ""
+
+#: modules/pinterest.php:383 modules/twitter/widgets/twitter.php:692
+msgid "Finnish"
+msgstr ""
+
+#: modules/pinterest.php:384 modules/twitter/widgets/twitter.php:693
+msgid "Filipino"
+msgstr ""
+
+#: modules/pinterest.php:385 modules/twitter/widgets/twitter.php:694
+msgid "French"
+msgstr ""
+
+#: modules/pinterest.php:386 modules/twitter/widgets/twitter.php:695
+msgid "Hebrew"
+msgstr ""
+
+#: modules/pinterest.php:387 modules/twitter/widgets/twitter.php:696
+msgid "Hindi"
+msgstr ""
+
+#: modules/pinterest.php:388 modules/twitter/widgets/twitter.php:697
+msgid "Hungarian"
+msgstr ""
+
+#: modules/pinterest.php:389 modules/twitter/widgets/twitter.php:698
+msgid "Indonesian"
+msgstr ""
+
+#: modules/pinterest.php:390 modules/twitter/widgets/twitter.php:699
+msgid "Italian"
+msgstr ""
+
+#: modules/pinterest.php:391 modules/twitter/widgets/twitter.php:700
+msgid "Japanese"
+msgstr ""
+
+#: modules/pinterest.php:392 modules/twitter/widgets/twitter.php:701
+msgid "Korean"
+msgstr ""
+
+#: modules/pinterest.php:393 modules/twitter/widgets/twitter.php:702
+msgid "Malay"
+msgstr ""
+
+#: modules/pinterest.php:394 modules/twitter/widgets/twitter.php:703
+msgid "Dutch"
+msgstr ""
+
+#: modules/pinterest.php:395 modules/twitter/widgets/twitter.php:704
+msgid "Norwegian"
+msgstr ""
+
+#: modules/pinterest.php:396 modules/twitter/widgets/twitter.php:705
+msgid "Polish"
+msgstr ""
+
+#: modules/pinterest.php:397 modules/twitter/widgets/twitter.php:706
+msgid "Portuguese"
+msgstr ""
+
+#: modules/pinterest.php:398
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: modules/pinterest.php:399 modules/twitter/widgets/twitter.php:707
+msgid "Romania"
+msgstr ""
+
+#: modules/pinterest.php:400 modules/twitter/widgets/twitter.php:708
+msgid "Rus"
+msgstr ""
+
+#: modules/pinterest.php:401 modules/twitter/widgets/twitter.php:709
+msgid "Swedish"
+msgstr ""
+
+#: modules/pinterest.php:402 modules/twitter/widgets/twitter.php:710
+msgid "Thai"
+msgstr ""
+
+#: modules/pinterest.php:403 modules/twitter/widgets/twitter.php:711
+msgid "Turkish"
+msgstr ""
+
+#: modules/pinterest.php:404 modules/twitter/widgets/twitter.php:712
+msgid "Ukrainian"
+msgstr ""
+
+#: modules/pinterest.php:405 modules/twitter/widgets/twitter.php:713
+msgid "Urdu"
+msgstr ""
+
+#: modules/pinterest.php:406 modules/twitter/widgets/twitter.php:714
+msgid "Vietnamese"
+msgstr ""
+
+#: modules/pinterest.php:407 modules/twitter/widgets/twitter.php:715
+msgid "Chinese (Simplified)"
+msgstr ""
+
+#: modules/pinterest.php:408 modules/twitter/widgets/twitter.php:716
+msgid "Chinese (Traditional)"
+msgstr ""
+
+#. Name of the plugin
+#: inc/admin/Settings.php:24 inc/admin/Settings.php:25
+msgid "Elementor Addon Elements"
+msgstr ""
+
+#: inc/admin/Settings.php:35
+msgid "Elementor Addons Elements"
+msgstr ""
+
+#: inc/admin/Settings.php:47
+msgid "Google Map Key"
+msgstr ""
+
+#: inc/admin/Settings.php:51
+msgid "Click Here"
+msgstr ""
+
+#: inc/admin/Settings.php:60
+msgctxt "अन्य उत्पाद"
+msgid "Other Products"
+msgstr ""
+
+#: inc/admin/controls.php:116
+msgid "Select"
+msgstr ""
+
+#: controls/group/icon.php:27 controls/group/icon_timeline.php:27
+#: modules/twitter/widgets/twitter.php:44
+#: modules/evergreen-timer/widgets/evergreen-timer.php:49
+#: modules/info-circle/skins/skin-base.php:43
+#: modules/comparison-table/widgets/comparison-table.php:75
+#: modules/timeline/skins/skin-base.php:59
+msgid "Type"
+msgstr ""
+
+#: controls/group/icon.php:31 controls/group/icon_timeline.php:31
+#: modules/info-circle/skins/skin-base.php:47
+#: modules/timeline/skins/skin-base.php:63
+msgid "Fontawesome Icon"
+msgstr ""
+
+#: controls/group/icon.php:35 controls/group/icon_timeline.php:35
+#: modules/info-circle/skins/skin-base.php:51
+#: modules/timeline/skins/skin-base.php:67
+msgid "Custom Icons"
+msgstr ""
+
+#: controls/group/icon.php:62 controls/group/icon_timeline.php:62
+#: modules/info-circle/skins/skin-base.php:78
+#: modules/timeline/skins/skin-base.php:94
+msgid "Custom Icon"
+msgstr ""
+
+#: controls/group/icon.php:85 controls/group/icon.php:101
+msgid "Global"
+msgstr ""
+
+#: controls/group/grid-control.php:22
+#: modules/testimonial-slider/widgets/testimonial-slider.php:213
+msgid "Columns"
+msgstr ""
+
+#: controls/group/grid-control.php:25
+#: modules/comparison-table/widgets/comparison-table.php:328
+msgid "1"
+msgstr ""
+
+#: controls/group/grid-control.php:26
+msgid "2"
+msgstr ""
+
+#: controls/group/grid-control.php:27
+msgid "3"
+msgstr ""
+
+#: controls/group/grid-control.php:28
+msgid "4"
+msgstr ""
+
+#: controls/group/grid-control.php:29
+msgid "5"
+msgstr ""
+
+#: controls/group/grid-control.php:30
+msgid "6"
+msgstr ""
+
+#: controls/group/grid-control.php:40
+msgid "Column Gap"
+msgstr ""
+
+#: controls/group/grid-control.php:58
+#: modules/testimonial-slider/widgets/testimonial-slider.php:65
+msgid "Row Gap"
+msgstr ""
+
+#: modules/animated-gradient/module.php:27
+msgid "EAE - Animated Gradient Background"
+msgstr ""
+
+#: modules/animated-gradient/module.php:34
+msgid "Enable"
+msgstr ""
+
+#: modules/animated-gradient/module.php:46
+msgid "Angle"
+msgstr ""
+
+#: modules/animated-gradient/module.php:73
+msgid "Add Color"
+msgstr ""
+
+#: modules/bg-slider/module.php:37
+msgid "EAE - Background Slider"
+msgstr ""
+
+#: modules/bg-slider/module.php:45
+msgid "Add Images"
+msgstr ""
+
+#: modules/bg-slider/module.php:84
+msgid "Transition"
+msgstr ""
+
+#: modules/bg-slider/module.php:88
+msgid "Fade2"
+msgstr ""
+
+#: modules/bg-slider/module.php:89
+msgid "slide Left"
+msgstr ""
+
+#: modules/bg-slider/module.php:90
+msgid "Slide Left 2"
+msgstr ""
+
+#: modules/bg-slider/module.php:91
+msgid "Slide Right"
+msgstr ""
+
+#: modules/bg-slider/module.php:92
+msgid "Slide Right 2"
+msgstr ""
+
+#: modules/bg-slider/module.php:93
+msgid "Slide Up"
+msgstr ""
+
+#: modules/bg-slider/module.php:94
+msgid "Slide Up 2"
+msgstr ""
+
+#: modules/bg-slider/module.php:95
+msgid "Slide Down"
+msgstr ""
+
+#: modules/bg-slider/module.php:96
+msgid "Slide Down 2"
+msgstr ""
+
+#: modules/bg-slider/module.php:98
+msgid "Zoom In 2"
+msgstr ""
+
+#: modules/bg-slider/module.php:100
+msgid "Zoom Out 2"
+msgstr ""
+
+#: modules/bg-slider/module.php:101
+msgid "Swirl Left"
+msgstr ""
+
+#: modules/bg-slider/module.php:102
+msgid "Swirl Left 2"
+msgstr ""
+
+#: modules/bg-slider/module.php:103
+msgid "Swirl Right"
+msgstr ""
+
+#: modules/bg-slider/module.php:104
+msgid "Swirl Right 2"
+msgstr ""
+
+#: modules/bg-slider/module.php:105
+msgid "Burn"
+msgstr ""
+
+#: modules/bg-slider/module.php:106
+msgid "Burn 2"
+msgstr ""
+
+#: modules/bg-slider/module.php:107
+msgid "Blur"
+msgstr ""
+
+#: modules/bg-slider/module.php:108
+msgid "Blur 2"
+msgstr ""
+
+#: modules/bg-slider/module.php:109
+msgid "Flash"
+msgstr ""
+
+#: modules/bg-slider/module.php:110
+msgid "Flash 2"
+msgstr ""
+
+#: modules/bg-slider/module.php:119
+#: modules/dual-button/widgets/dual-button.php:286
+msgid "Animation"
+msgstr ""
+
+#: modules/bg-slider/module.php:122
+msgid "Kenburns"
+msgstr ""
+
+#: modules/bg-slider/module.php:123
+msgid "Kenburns Up"
+msgstr ""
+
+#: modules/bg-slider/module.php:124
+msgid "Kenburns Down"
+msgstr ""
+
+#: modules/bg-slider/module.php:125
+msgid "Kenburns Right"
+msgstr ""
+
+#: modules/bg-slider/module.php:126
+msgid "Kenburns Left"
+msgstr ""
+
+#: modules/bg-slider/module.php:127
+msgid "Kenburns Up Left"
+msgstr ""
+
+#: modules/bg-slider/module.php:128
+msgid "Kenburns Up Right"
+msgstr ""
+
+#: modules/bg-slider/module.php:129
+msgid "Kenburns Down Left"
+msgstr ""
+
+#: modules/bg-slider/module.php:130
+msgid "Kenburns Down Right"
+msgstr ""
+
+#: modules/bg-slider/module.php:141
+msgid "Custom Overlay"
+msgstr ""
+
+#: modules/bg-slider/module.php:144 modules/twitter/widgets/twitter.php:458
+#: modules/twitter/widgets/twitter.php:478
+#: modules/evergreen-timer/widgets/evergreen-timer.php:125
+#: modules/evergreen-timer/widgets/evergreen-timer.php:135
+#: modules/evergreen-timer/widgets/evergreen-timer.php:145
+#: modules/evergreen-timer/widgets/evergreen-timer.php:155
+msgid "Show"
+msgstr ""
+
+#: modules/bg-slider/module.php:145 modules/twitter/widgets/twitter.php:459
+#: modules/twitter/widgets/twitter.php:479
+#: modules/evergreen-timer/widgets/evergreen-timer.php:126
+#: modules/evergreen-timer/widgets/evergreen-timer.php:136
+#: modules/evergreen-timer/widgets/evergreen-timer.php:146
+#: modules/evergreen-timer/widgets/evergreen-timer.php:156
+#: modules/evergreen-timer/widgets/evergreen-timer.php:168
+msgid "Hide"
+msgstr ""
+
+#: modules/bg-slider/module.php:163
+msgid "Overlay Image"
+msgstr ""
+
+#: modules/bg-slider/module.php:174
+msgid "Overlay"
+msgstr ""
+
+#: modules/bg-slider/module.php:178
+#: modules/dual-button/widgets/dual-button.php:290
+msgid "Style 1"
+msgstr ""
+
+#: modules/bg-slider/module.php:179
+#: modules/dual-button/widgets/dual-button.php:291
+msgid "Style 2"
+msgstr ""
+
+#: modules/bg-slider/module.php:180
+#: modules/dual-button/widgets/dual-button.php:292
+msgid "Style 3"
+msgstr ""
+
+#: modules/bg-slider/module.php:181
+#: modules/dual-button/widgets/dual-button.php:293
+msgid "Style 4"
+msgstr ""
+
+#: modules/bg-slider/module.php:182
+#: modules/dual-button/widgets/dual-button.php:294
+msgid "Style 5"
+msgstr ""
+
+#: modules/bg-slider/module.php:183
+#: modules/dual-button/widgets/dual-button.php:295
+msgid "Style 6"
+msgstr ""
+
+#: modules/bg-slider/module.php:184
+#: modules/dual-button/widgets/dual-button.php:296
+msgid "Style 7"
+msgstr ""
+
+#: modules/bg-slider/module.php:185
+#: modules/dual-button/widgets/dual-button.php:297
+msgid "Style 8"
+msgstr ""
+
+#: modules/bg-slider/module.php:186
+msgid "Style 9"
+msgstr ""
+
+#: modules/bg-slider/module.php:197
+msgid "Cover"
+msgstr ""
+
+#: modules/bg-slider/module.php:200 modules/bg-slider/module.php:222
+msgid "True"
+msgstr ""
+
+#: modules/bg-slider/module.php:201 modules/bg-slider/module.php:223
+msgid "False"
+msgstr ""
+
+#: modules/bg-slider/module.php:209 modules/bg-slider/module.php:212
+msgid "Delay"
+msgstr ""
+
+#: modules/bg-slider/module.php:213
+msgid "5000"
+msgstr ""
+
+#: modules/bg-slider/module.php:219
+msgid "Timer"
+msgstr ""
+
+#: modules/particles/module.php:31
+msgid "EAE - Particles"
+msgstr ""
+
+#: modules/particles/module.php:39
+msgid "Enable Particle Background"
+msgstr ""
+
+#: modules/particles/module.php:54
+msgid ""
+"<a href=\"https://vincentgarreau.com/particles.js/\" target=\"_blank\">Click "
+"here</a> to generate JSON for the below field. </br><a href=\"https://goo."
+"gl/pHziXj\" target=\"_blank\">Know more</a> about using this feature."
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:23
+msgid "EAE - Modal Popup"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:37
+msgid "Saved Section"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:38
+msgid "Saved Page"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:58
+msgid "Content Type"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:68
+msgid "Preview Modal Popup"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:85
+msgid "Modal Title"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:105
+#: modules/modal-popup/widgets/modal-popup.php:110
+msgid "Select Section"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:119
+#: modules/modal-popup/widgets/modal-popup.php:124
+msgid "Select Page"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:133
+#: modules/modal-popup/widgets/modal-popup.php:138
+msgid "Select AE Template"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:152
+msgid "Modal Setting"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:159
+msgid "Modal Width"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:176
+msgid "Overlay Color"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:191
+msgid "Display Setting"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:243
+#: modules/text-separator/widgets/text-separator.php:151
+#: modules/price-table/widgets/price-table.php:236
+#: modules/dual-button/widgets/dual-button.php:130
+#: modules/dual-button/widgets/dual-button.php:212
+msgid "Icon Position"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:246
+#: modules/price-table/widgets/price-table.php:240
+#: modules/dual-button/widgets/dual-button.php:134
+#: modules/dual-button/widgets/dual-button.php:216
+msgid "Before"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:247
+#: modules/price-table/widgets/price-table.php:241
+#: modules/dual-button/widgets/dual-button.php:135
+#: modules/dual-button/widgets/dual-button.php:217
+msgid "After"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:256
+#: modules/price-table/widgets/price-table.php:252
+#: modules/dual-button/widgets/dual-button.php:146
+#: modules/dual-button/widgets/dual-button.php:228
+msgid "Icon Spacing"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:275
+msgid "Popup"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:451
+#: modules/twitter/widgets/twitter.php:361
+#: modules/comparison-table/widgets/comparison-table.php:653
+#: modules/comparison-table/widgets/comparison-table.php:1591
+msgid "Button"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:633
+msgid "Close Button"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:640
+msgid "Button Inside"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:692
+#: modules/modal-popup/widgets/modal-popup.php:740
+msgid "Position Top"
+msgstr ""
+
+#: modules/modal-popup/widgets/modal-popup.php:716
+#: modules/modal-popup/widgets/modal-popup.php:764
+msgid "Position Right"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:22
+msgid "EAE - Twitter"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:54
+msgid "Handle"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:55
+msgid "Hashtag"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:63
+#: modules/twitter/widgets/twitter.php:77
+#: modules/twitter/widgets/twitter.php:91
+#: modules/twitter/widgets/twitter.php:105
+#: modules/twitter/widgets/twitter.php:119
+msgid "Enter URL"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:65
+#: modules/twitter/widgets/twitter.php:93
+#: modules/twitter/widgets/twitter.php:107
+#: modules/twitter/widgets/twitter.php:121
+msgid "https://twitter.com/webtechhardik"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:79
+msgid "https://twitter.com/TwitterDev"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:133
+msgid "Enter UserName"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:135
+msgid "@username"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:148
+msgid "Enter Hashtag"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:150
+msgid "#hashtag"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:161
+#: modules/twitter/widgets/twitter.php:356
+msgid "Display Mode"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:165
+#: modules/twitter/widgets/twitter.php:360
+#: modules/timeline/widgets/timeline.php:330
+msgid "Timeline"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:166
+#: modules/testimonial-slider/widgets/testimonial-slider.php:55
+msgid "Grid"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:178
+msgid "Display No of Tweets"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:294
+#: modules/twitter/widgets/twitter.php:373
+#: modules/twitter/widgets/twitter.php:541
+#: modules/evergreen-timer/skins/skin-2.php:58
+#: modules/gmap/widgets/gmap.php:132
+#: modules/comparison-table/widgets/comparison-table.php:1103
+msgid "Height"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:319
+#: modules/twitter/widgets/twitter.php:399
+#: modules/twitter/widgets/twitter.php:567
+msgid "Theme"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:323
+#: modules/twitter/widgets/twitter.php:403
+#: modules/twitter/widgets/twitter.php:571
+msgid "Light"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:324
+#: modules/twitter/widgets/twitter.php:404
+#: modules/twitter/widgets/twitter.php:572
+msgid "Dark"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:337
+#: modules/twitter/widgets/twitter.php:417
+#: modules/twitter/widgets/twitter.php:585
+msgid "Display Link Color"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:443
+msgid "Mention"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:455
+msgid "Hide Name"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:475
+msgid "Show Count"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:494
+msgid "Tweet Text"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:497
+#: modules/twitter/widgets/twitter.php:621
+msgid "Do you want to prefill the Tweet text?"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:510
+msgid "Screen Name"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:605
+msgid "Post Title"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:606
+msgid "Post Excerpt"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:614
+msgid "Pre Fill Text"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:627
+msgid "Custom Prefill Text"
+msgstr ""
+
+#: modules/twitter/widgets/twitter.php:643
+msgid "Do you want to set a specific URL in the Tweet?"
+msgstr ""
+
+#: modules/flip-box/widgets/flip-box.php:21
+msgid "EAE - Flip Box"
+msgstr ""
+
+#: modules/flip-box/widgets/flip-box.php:269
+msgid "Flip Horizontal"
+msgstr ""
+
+#: modules/flip-box/widgets/flip-box.php:270
+msgid "Flip Vertical"
+msgstr ""
+
+#: modules/text-separator/widgets/text-separator.php:19
+msgid "EAE - Text Separator"
+msgstr ""
+
+#: modules/text-separator/widgets/text-separator.php:48
+msgid "This is text separator"
+msgstr ""
+
+#: modules/text-separator/widgets/text-separator.php:64
+#: modules/split-text/widgets/split-text.php:101
+msgid "div"
+msgstr ""
+
+#: modules/text-separator/widgets/text-separator.php:65
+#: modules/split-text/widgets/split-text.php:102
+msgid "span"
+msgstr ""
+
+#: modules/text-separator/widgets/text-separator.php:66
+#: modules/split-text/widgets/split-text.php:103
+msgid "p"
+msgstr ""
+
+#: modules/text-separator/widgets/text-separator.php:154
+#: modules/image-compare/widgets/image-compare.php:164
+msgid "Before Text"
+msgstr ""
+
+#: modules/text-separator/widgets/text-separator.php:155
+#: modules/image-compare/widgets/image-compare.php:174
+msgid "After Text"
+msgstr ""
+
+#: modules/text-separator/widgets/text-separator.php:166
+#: modules/text-separator/widgets/text-separator.php:250
+msgid "Divider"
+msgstr ""
+
+#: modules/text-separator/widgets/text-separator.php:192
+msgid "Weight"
+msgstr ""
+
+#: modules/text-separator/widgets/text-separator.php:258
+msgid "Divider Color"
+msgstr ""
+
+#: modules/text-separator/widgets/text-separator.php:273
+#: modules/evergreen-timer/skins/skin-2.php:82
+#: modules/animated-text/widgets/animated-text.php:282
+msgid "Width"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:22
+msgid "EAE - After/Before Image"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:46
+msgid "Compare Style"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:59
+msgid "Slider Position"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:105
+msgid "Before Image"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:133
+msgid "After Image"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:167
+msgid "BEFORE"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:177
+msgid "AFTER"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:207
+msgid "Slider Color"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:220
+msgid "Separator Alignment"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:242
+msgid "Separator Width"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:260
+msgid "Label"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:268
+#: modules/image-compare/widgets/image-compare.php:291
+#: modules/comparison-table/widgets/comparison-table.php:269
+msgid "Position"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:272
+#: modules/comparison-table/widgets/comparison-table.php:1269
+#: modules/comparison-table/widgets/comparison-table.php:1322
+#: modules/comparison-table/widgets/comparison-table.php:1401
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1228
+#: modules/timeline/skins/skin-base.php:445
+msgid "Bottom"
+msgstr ""
+
+#: modules/image-compare/widgets/image-compare.php:338
+msgid "BackgroundColor"
+msgstr ""
+
+#: modules/progress-bar/skins/skin-1.php:23
+#: modules/evergreen-timer/skins/skin-1.php:25
+#: modules/info-circle/skins/skin-1.php:89
+#: modules/testimonial-slider/widgets/testimonial-slider.php:89
+#: modules/timeline/skins/skin-1.php:20
+msgid "Skin 1"
+msgstr ""
+
+#: modules/progress-bar/skins/skin-2.php:24
+#: modules/evergreen-timer/skins/skin-2.php:30
+#: modules/info-circle/skins/skin-2.php:21
+#: modules/testimonial-slider/widgets/testimonial-slider.php:90
+#: modules/timeline/skins/skin-2.php:21
+msgid "Skin 2"
+msgstr ""
+
+#: modules/progress-bar/skins/skin-2.php:36
+msgid "Progress Color 1"
+msgstr ""
+
+#: modules/progress-bar/skins/skin-2.php:46
+msgid "Progress Color 2"
+msgstr ""
+
+#: modules/progress-bar/skins/skin-3.php:23
+#: modules/evergreen-timer/skins/skin-3.php:34
+#: modules/info-circle/skins/skin-3.php:21
+#: modules/testimonial-slider/widgets/testimonial-slider.php:91
+#: modules/timeline/skins/skin-3.php:21
+msgid "Skin 3"
+msgstr ""
+
+#: modules/progress-bar/skins/skin-4.php:23
+#: modules/evergreen-timer/skins/skin-4.php:24
+#: modules/info-circle/skins/skin-4.php:21
+#: modules/testimonial-slider/widgets/testimonial-slider.php:92
+#: modules/timeline/skins/skin-4.php:21
+msgid "Skin 4"
+msgstr ""
+
+#: modules/progress-bar/skins/skin-5.php:23
+msgid "Skin 5"
+msgstr ""
+
+#: modules/progress-bar/skins/skin-base.php:40
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1478
+#: modules/timeline/skins/skin-base.php:966
+msgid "Progress Color"
+msgstr ""
+
+#: modules/progress-bar/skins/skin-base.php:97
+#: modules/progress-bar/widgets/progress-bar.php:59
+msgid "Percentage"
+msgstr ""
+
+#: modules/progress-bar/widgets/progress-bar.php:16
+msgid "EAE - Progress Bar"
+msgstr ""
+
+#: modules/progress-bar/widgets/progress-bar.php:49
+msgid "Skill"
+msgstr ""
+
+#: modules/progress-bar/widgets/progress-bar.php:74
+#: modules/post-list/widgets/post-list.php:218
+#: modules/timeline/widgets/timeline.php:382
+msgid "Show Title"
+msgstr ""
+
+#: modules/progress-bar/widgets/progress-bar.php:86
+msgid "Show Percentage"
+msgstr ""
+
+#: modules/evergreen-timer/skins/skin-3.php:144
+msgid "Background Color Day"
+msgstr ""
+
+#: modules/evergreen-timer/skins/skin-3.php:154
+msgid "Background Color Hour"
+msgstr ""
+
+#: modules/evergreen-timer/skins/skin-3.php:164
+msgid "Background Color Minutes"
+msgstr ""
+
+#: modules/evergreen-timer/skins/skin-3.php:174
+msgid "Background Color Seconds"
+msgstr ""
+
+#: modules/evergreen-timer/skins/skin-4.php:51
+msgid "Time Separator"
+msgstr ""
+
+#: modules/evergreen-timer/skins/skin-base.php:131
+msgid "Time Digit"
+msgstr ""
+
+#: modules/evergreen-timer/skins/skin-base.php:182
+msgid "Time Label"
+msgstr ""
+
+#: modules/evergreen-timer/widgets/evergreen-timer.php:17
+msgid "EAE - Evergreen Timer"
+msgstr ""
+
+#: modules/evergreen-timer/widgets/evergreen-timer.php:29
+#: modules/info-circle/widgets/info-circle.php:42
+#: modules/timeline/widgets/timeline.php:43
+msgid "Skins"
+msgstr ""
+
+#: modules/evergreen-timer/widgets/evergreen-timer.php:52
+msgid "Countdown"
+msgstr ""
+
+#: modules/evergreen-timer/widgets/evergreen-timer.php:53
+msgid "Evergreen Timer"
+msgstr ""
+
+#: modules/evergreen-timer/widgets/evergreen-timer.php:63
+msgid "Cookie Expire (in hours)"
+msgstr ""
+
+#: modules/evergreen-timer/widgets/evergreen-timer.php:76
+msgid "Due Date"
+msgstr ""
+
+#. %s: Time zone.
+#: modules/evergreen-timer/widgets/evergreen-timer.php:81
+#, php-format
+msgid "Date set according to your timezone: %s."
+msgstr ""
+
+#: modules/evergreen-timer/widgets/evergreen-timer.php:99
+#: modules/evergreen-timer/widgets/evergreen-timer.php:133
+msgid "Hours"
+msgstr ""
+
+#: modules/evergreen-timer/widgets/evergreen-timer.php:111
+#: modules/evergreen-timer/widgets/evergreen-timer.php:143
+msgid "Minutes"
+msgstr ""
+
+#: modules/evergreen-timer/widgets/evergreen-timer.php:123
+msgid "Days"
+msgstr ""
+
+#: modules/evergreen-timer/widgets/evergreen-timer.php:153
+msgid "Seconds"
+msgstr ""
+
+#: modules/evergreen-timer/widgets/evergreen-timer.php:163
+msgid "Action"
+msgstr ""
+
+#: modules/evergreen-timer/widgets/evergreen-timer.php:166
+msgid "Redirect"
+msgstr ""
+
+#: modules/evergreen-timer/widgets/evergreen-timer.php:167
+msgid "Hide Parent Section"
+msgstr ""
+
+#: modules/evergreen-timer/widgets/evergreen-timer.php:169
+msgid "Show Message"
+msgstr ""
+
+#: modules/evergreen-timer/widgets/evergreen-timer.php:180
+#: modules/testimonial-slider/widgets/testimonial-slider.php:150
+#: modules/testimonial-slider/widgets/testimonial-slider.php:627
+msgid "Message"
+msgstr ""
+
+#: modules/evergreen-timer/widgets/evergreen-timer.php:196
+msgid "Redirect URL"
+msgstr ""
+
+#: modules/animated-text/widgets/animated-text.php:22
+msgid "EAE - Animated Text"
+msgstr ""
+
+#: modules/animated-text/widgets/animated-text.php:71
+#: modules/animated-text/widgets/animated-text.php:124
+msgid "Pre Text"
+msgstr ""
+
+#: modules/animated-text/widgets/animated-text.php:74
+msgid "I Love"
+msgstr ""
+
+#: modules/animated-text/widgets/animated-text.php:82
+msgid "Animated Text List"
+msgstr ""
+
+#: modules/animated-text/widgets/animated-text.php:86
+msgid "Football"
+msgstr ""
+
+#: modules/animated-text/widgets/animated-text.php:89
+msgid "Cricket"
+msgstr ""
+
+#: modules/animated-text/widgets/animated-text.php:92
+msgid "Basketball"
+msgstr ""
+
+#: modules/animated-text/widgets/animated-text.php:101
+msgid "Text to animate"
+msgstr ""
+
+#: modules/animated-text/widgets/animated-text.php:112
+#: modules/animated-text/widgets/animated-text.php:306
+msgid "Post Text"
+msgstr ""
+
+#: modules/animated-text/widgets/animated-text.php:115
+msgid "Very Much"
+msgstr ""
+
+#: modules/animated-text/widgets/animated-text.php:133
+msgid "Pre Text Color"
+msgstr ""
+
+#: modules/animated-text/widgets/animated-text.php:161
+msgid "Animated Text"
+msgstr ""
+
+#: modules/animated-text/widgets/animated-text.php:180
+msgid "Animation Text Color"
+msgstr ""
+
+#: modules/animated-text/widgets/animated-text.php:244
+#: modules/price-table/widgets/price-table.php:401
+#: modules/price-table/widgets/price-table.php:524
+#: modules/price-table/widgets/price-table.php:571
+#: modules/price-table/widgets/price-table.php:616
+#: modules/price-table/widgets/price-table.php:671
+msgid "Section Background"
+msgstr ""
+
+#: modules/animated-text/widgets/animated-text.php:257
+msgid "Cursor Control"
+msgstr ""
+
+#: modules/animated-text/widgets/animated-text.php:315
+msgid "Post Text Color"
+msgstr ""
+
+#: modules/gmap/widgets/gmap.php:18
+msgid "EAE - Google Map"
+msgstr ""
+
+#: modules/gmap/widgets/gmap.php:64
+msgid "Latitude"
+msgstr ""
+
+#: modules/gmap/widgets/gmap.php:66 modules/gmap/widgets/gmap.php:75
+msgid "Enter latitude value here"
+msgstr ""
+
+#: modules/gmap/widgets/gmap.php:73
+msgid "Longitude"
+msgstr ""
+
+#: modules/gmap/widgets/gmap.php:82
+msgid "Address"
+msgstr ""
+
+#: modules/gmap/widgets/gmap.php:84
+msgid "Enter address"
+msgstr ""
+
+#: modules/gmap/widgets/gmap.php:116
+msgid "Markers"
+msgstr ""
+
+#: modules/gmap/widgets/gmap.php:123
+msgid "Put Address Here"
+msgstr ""
+
+#: modules/gmap/widgets/gmap.php:143
+msgid "Zoom"
+msgstr ""
+
+#: modules/gmap/widgets/gmap.php:161
+msgid "Animate Marker"
+msgstr ""
+
+#: modules/gmap/widgets/gmap.php:175
+msgid "Snazzy Style"
+msgstr ""
+
+#: modules/info-circle/skins/skin-base.php:33
+#: modules/timeline/skins/skin-base.php:42
+#: modules/timeline/skins/skin-base.php:49
+msgid "Global Icon"
+msgstr ""
+
+#: modules/info-circle/skins/skin-base.php:197
+#: modules/info-circle/widgets/info-circle.php:71
+#: modules/timeline/widgets/timeline.php:142
+msgid "This is the heading"
+msgstr ""
+
+#: modules/info-circle/skins/skin-base.php:198
+#: modules/info-circle/widgets/info-circle.php:72
+#: modules/timeline/widgets/timeline.php:143
+msgid "Enter your title"
+msgstr ""
+
+#: modules/info-circle/skins/skin-base.php:223
+#: modules/info-circle/widgets/info-circle.php:97
+#: modules/timeline/widgets/timeline.php:168
+msgid "Title HTML Tag"
+msgstr ""
+
+#: modules/info-circle/skins/skin-base.php:248
+#: modules/info-circle/widgets/info-circle.php:122
+msgid "Custom Content Style"
+msgstr ""
+
+#: modules/info-circle/skins/skin-base.php:256
+#: modules/info-circle/skins/skin-base.php:458
+#: modules/info-circle/widgets/info-circle.php:130
+msgid "Content Alignment"
+msgstr ""
+
+#: modules/info-circle/skins/skin-base.php:298
+#: modules/info-circle/skins/skin-base.php:536
+#: modules/info-circle/widgets/info-circle.php:172
+#: modules/timeline/skins/skin-base.php:514
+#: modules/timeline/skins/skin-base.php:615
+#: modules/timeline/skins/skin-base.php:712
+msgid "Content Typography"
+msgstr ""
+
+#: modules/info-circle/skins/skin-base.php:311
+#: modules/info-circle/skins/skin-base.php:496
+#: modules/info-circle/widgets/info-circle.php:185
+#: modules/post-list/widgets/post-list.php:384
+#: modules/timeline/skins/skin-base.php:474
+#: modules/timeline/skins/skin-base.php:585
+#: modules/timeline/skins/skin-base.php:682
+msgid "Title Color"
+msgstr ""
+
+#: modules/info-circle/skins/skin-base.php:329
+#: modules/info-circle/skins/skin-base.php:511
+#: modules/info-circle/widgets/info-circle.php:203
+#: modules/timeline/skins/skin-base.php:489
+#: modules/timeline/skins/skin-base.php:596
+#: modules/timeline/skins/skin-base.php:693
+msgid "Content Color"
+msgstr ""
+
+#: modules/info-circle/skins/skin-base.php:390
+#: modules/info-circle/widgets/info-circle.php:239
+msgid "Info Circle Items"
+msgstr ""
+
+#: modules/info-circle/skins/skin-base.php:398
+#: modules/info-circle/widgets/info-circle.php:247
+msgid "List Items"
+msgstr ""
+
+#: modules/info-circle/skins/skin-base.php:404
+#: modules/info-circle/widgets/info-circle.php:253
+#: modules/timeline/widgets/timeline.php:347
+msgid "MASTER CLEANSE BESPOKE"
+msgstr ""
+
+#: modules/info-circle/skins/skin-base.php:405
+#: modules/info-circle/widgets/info-circle.php:254
+#: modules/timeline/widgets/timeline.php:348
+msgid ""
+"IPhone tilde pour-over, sustainable cred roof party occupy master cleanse. "
+"Godard vegan heirloom sartorial flannel raw denim +1. Sriracha umami "
+"meditation, listicle chambray fanny pack blog organic Blue Bottle."
+msgstr ""
+
+#: modules/info-circle/skins/skin-base.php:408
+#: modules/info-circle/widgets/info-circle.php:257
+#: modules/timeline/widgets/timeline.php:352
+msgid "ORGANIC BLUE BOTTLE"
+msgstr ""
+
+#: modules/info-circle/skins/skin-base.php:409
+#: modules/info-circle/widgets/info-circle.php:258
+#: modules/timeline/widgets/timeline.php:353
+msgid ""
+"Godard vegan heirloom sartorial flannel raw denim +1 umami gluten-free hella "
+"vinyl. Viral seitan chillwave, before they sold out wayfarers selvage "
+"skateboard Pinterest messenger bag."
+msgstr ""
+
+#: modules/info-circle/skins/skin-base.php:412
+#: modules/info-circle/widgets/info-circle.php:261
+#: modules/timeline/widgets/timeline.php:357
+msgid "TWEE DIY KALE"
+msgstr ""
+
+#: modules/info-circle/skins/skin-base.php:413
+#: modules/info-circle/widgets/info-circle.php:262
+#: modules/timeline/widgets/timeline.php:358
+msgid ""
+"Twee DIY kale chips, dreamcatcher scenester mustache leggings trust fund "
+"Pinterest pickled. Williamsburg street art Odd Future jean shorts cold-"
+"pressed banh mi DIY distillery Williamsburg."
+msgstr ""
+
+#: modules/info-circle/skins/skin-base.php:438
+msgid "Content Auto Change"
+msgstr ""
+
+#: modules/info-circle/skins/skin-base.php:446
+msgid "Change Duration"
+msgstr ""
+
+#: modules/info-circle/skins/skin-base.php:484
+msgid "Content Padding"
+msgstr ""
+
+#: modules/info-circle/widgets/info-circle.php:23
+msgid "EAE - Info Circle"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:23
+msgid "EAE - Price Table"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:39
+#: modules/price-table/widgets/price-table.php:341
+msgid "Plan Heading"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:46
+#: modules/comparison-table/widgets/comparison-table.php:350
+#: modules/comparison-table/widgets/comparison-table.php:1081
+#: modules/timeline/widgets/timeline.php:373
+msgid "Heading"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:48
+#: modules/price-table/widgets/price-table.php:76
+msgid "Enter plan name"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:49
+#: modules/price-table/widgets/price-table.php:77
+msgid "Plan 1"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:56
+msgid "Heading HTML Tag"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:74
+msgid "Sub Heading"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:84
+msgid "Sub Heading HTML Tag"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:93
+msgid "P"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:104
+#: modules/price-table/widgets/price-table.php:412
+msgid "Price Box"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:112
+msgid "Price Box Text"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:114
+#: modules/price-table/widgets/price-table.php:115
+msgid "$100"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:123
+msgid "Price Box Sub Text"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:125
+#: modules/price-table/widgets/price-table.php:126
+msgid "per month"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:150
+#: modules/comparison-table/widgets/comparison-table.php:113
+#: modules/comparison-table/widgets/comparison-table.php:317
+#: modules/comparison-table/widgets/comparison-table.php:546
+#: modules/comparison-table/widgets/comparison-table.php:1493
+msgid "Features"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:157
+#: modules/price-table/widgets/price-table.php:179
+msgid "Plan Features"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:161
+msgid "List Item #1"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:165
+msgid "List Item #2"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:169
+msgid "List Item #3"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:180
+msgid "Feature 1"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:184
+msgid "Included"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:279
+msgid "Box Style"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:287
+msgid "Box Color"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:349
+msgid "Heading Color"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:374
+msgid "Sub Heading Color"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:420
+msgid "Content Settings"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:429
+msgid "Price Text Color"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:455
+msgid "Sub Text Color"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:480
+msgid "Box Settings"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:490
+msgid "Price Box Border"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:510
+msgid "Price Box Padding"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:536
+msgid "Feature List"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:544
+msgid "Features Color"
+msgstr ""
+
+#: modules/price-table/widgets/price-table.php:721
+msgid "Button Hover"
+msgstr ""
+
+#: modules/split-text/widgets/split-text.php:20
+msgid "EAE - Split Text"
+msgstr ""
+
+#: modules/split-text/widgets/split-text.php:69
+msgid "Split Mode"
+msgstr ""
+
+#: modules/split-text/widgets/split-text.php:72
+msgid "Letter"
+msgstr ""
+
+#: modules/split-text/widgets/split-text.php:73
+msgid "Word"
+msgstr ""
+
+#: modules/split-text/widgets/split-text.php:82
+msgid "Split Count"
+msgstr ""
+
+#: modules/split-text/widgets/split-text.php:85
+msgid "Count"
+msgstr ""
+
+#: modules/split-text/widgets/split-text.php:115
+msgid "I Love Elementor"
+msgstr ""
+
+#: modules/split-text/widgets/split-text.php:127
+msgid "Part 1"
+msgstr ""
+
+#: modules/split-text/widgets/split-text.php:208
+#: modules/split-text/widgets/split-text.php:298
+msgid "Text Background"
+msgstr ""
+
+#: modules/split-text/widgets/split-text.php:220
+msgid "Part 2"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:23
+msgid "EAE - Comparison Table"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:44
+msgid "Table"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:49
+msgid "Tables"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:59
+#: modules/comparison-table/widgets/comparison-table.php:750
+msgid "Feature Box"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:66
+msgid "Enable Tooltip"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:78
+#: modules/comparison-table/widgets/comparison-table.php:304
+#: modules/timeline/widgets/timeline.php:127
+#: modules/dual-button/widgets/dual-button.php:105
+#: modules/dual-button/widgets/dual-button.php:187
+msgid "Link"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:95
+#: modules/comparison-table/widgets/comparison-table.php:165
+#: modules/comparison-table/widgets/comparison-table.php:167
+msgid "Feature"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:98
+#: modules/comparison-table/widgets/comparison-table.php:168
+msgid "Enter your feature"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:104
+msgid "Tooltip"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:106
+#: modules/comparison-table/widgets/comparison-table.php:945
+msgid "Tooltip Text"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:118
+msgid "Bandwidth"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:121
+msgid "Space"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:124
+msgid "Domain"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:190
+msgid "Our Plan"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:191
+#: modules/comparison-table/widgets/comparison-table.php:209
+#: modules/comparison-table/widgets/comparison-table.php:227
+#: modules/comparison-table/widgets/comparison-table.php:239
+msgid "Enter table title"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:197
+msgid "Currency Symbol"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:199
+#: modules/comparison-table/widgets/comparison-table.php:200
+msgid "$"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:206
+#: modules/comparison-table/widgets/comparison-table.php:470
+#: modules/comparison-table/widgets/comparison-table.php:1212
+#: modules/comparison-table/widgets/comparison-table.php:1335
+msgid "Price"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:208
+msgid "39.99"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:215
+msgid "Offering Discount"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:224
+#: modules/comparison-table/widgets/comparison-table.php:422
+#: modules/comparison-table/widgets/comparison-table.php:1220
+msgid "Original Price"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:226
+msgid "49.99"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:236
+#: modules/comparison-table/widgets/comparison-table.php:1414
+#: modules/testimonial-slider/widgets/testimonial-slider.php:409
+msgid "Duration"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:238
+msgid "/year"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:246
+#: modules/comparison-table/widgets/comparison-table.php:609
+#: modules/comparison-table/widgets/comparison-table.php:1002
+msgid "Ribbon"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:256
+msgid "Ribbon Text"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:258
+#: modules/comparison-table/widgets/comparison-table.php:259
+msgid "Popular"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:322
+msgid "25GB"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:325
+msgid "5GB"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:339
+msgid "Override Style"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:391
+#: modules/comparison-table/widgets/comparison-table.php:1119
+msgid "Active Tab Color"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:409
+msgid "Active Tab BG Color"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:452
+msgid "Line Through Color"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:481
+msgid "Currency Color"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:494
+msgid "Price Color"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:507
+msgid "Fractional Part Color"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:520
+msgid "Duration Color"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:570
+msgid "Check Color"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:583
+msgid "Close Color"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:691
+#: modules/comparison-table/widgets/comparison-table.php:1620
+msgid "Column Background Color"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:716
+msgid "Odd Row Color"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:727
+msgid "Even Row Color"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:825
+msgid "Tooltip Icon"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:890
+msgid "Hover Color"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:903
+msgid "Hover Background Color"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:1011
+msgid "Distance"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:1089
+msgid "Tab Format"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:1092
+msgid "All"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:1093
+msgid "Tablet & Mobile"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:1094
+msgid "Mobile"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:1144
+msgid "Active Tab Text Color"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:1237
+msgid "Text Decoration Color"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:1255
+#: modules/comparison-table/widgets/comparison-table.php:1308
+#: modules/comparison-table/widgets/comparison-table.php:1387
+msgid "Vertical Alignment"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:1282
+msgid "Currency"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:1361
+msgid "Fractional"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:1511
+msgid "Check Icon Color"
+msgstr ""
+
+#: modules/comparison-table/widgets/comparison-table.php:1521
+msgid "Close Icon Color"
+msgstr ""
+
+#: modules/shape-separator/widgets/shape-separator.php:22
+msgid "EAE - Shape Separator"
+msgstr ""
+
+#: modules/shape-separator/widgets/shape-separator.php:48
+msgid "Triangle Upper Left"
+msgstr ""
+
+#: modules/shape-separator/widgets/shape-separator.php:49
+msgid "Triangle Upper Right"
+msgstr ""
+
+#: modules/shape-separator/widgets/shape-separator.php:50
+msgid "Triangle Bottom Left"
+msgstr ""
+
+#: modules/shape-separator/widgets/shape-separator.php:51
+msgid "Triangle Bottom Right"
+msgstr ""
+
+#: modules/shape-separator/widgets/shape-separator.php:61
+msgid "Shape Color"
+msgstr ""
+
+#: modules/shape-separator/widgets/shape-separator.php:77
+msgid "Shape Height (in px)"
+msgstr ""
+
+#: modules/shape-separator/widgets/shape-separator.php:78
+#: modules/shape-separator/widgets/shape-separator.php:79
+msgid "75"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:27
+msgid "EAE - Testimonial Slider"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:52
+#: modules/timeline/skins/skin-base.php:160
+#: modules/dual-button/widgets/dual-button.php:44
+msgid "Layout"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:56
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1014
+msgid "Carousel"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:86
+msgid "Skin"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:105
+#: modules/testimonial-slider/widgets/testimonial-slider.php:169
+msgid "Testimonials"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:132
+#: modules/testimonial-slider/widgets/testimonial-slider.php:717
+msgid "Name"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:140
+msgid "Company Name"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:158
+#: modules/testimonial-slider/widgets/testimonial-slider.php:848
+msgid "Rating"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:175
+msgid "John Doe"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:176
+msgid "XYZ"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:177
+#: modules/testimonial-slider/widgets/testimonial-slider.php:184
+msgid ""
+"Add message content. Click edit button to change the message. Lorem ipsum "
+"dolor sit amet, consectetur adipiscing elit. Ut elit tellus"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:182
+msgid "Jane Doe"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:183
+msgid "ABC"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:189
+msgid "M Max"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:190
+msgid "QWE"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:191
+msgid ""
+" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:203
+msgid "Grid Settings"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:232
+msgid "Masonry Layout"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:235
+#: modules/testimonial-slider/widgets/testimonial-slider.php:396
+msgid "On"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:236
+#: modules/testimonial-slider/widgets/testimonial-slider.php:397
+msgid "Off"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:247
+msgid "Gutter"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:277
+msgid "Carousel Settings"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:287
+msgid "Effects"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:291
+msgid "Slide"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:292
+msgid "Cube"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:293
+msgid "Coverflow"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:294
+msgid "Flip"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:306
+msgid "Slides Per View"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:332
+msgid "Slides Per Group"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:358
+msgid "Setting"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:370
+msgid "Speed"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:375
+msgid "Duration of transition between slides (in ms)"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:393
+msgid "Autoplay"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:433
+msgid "Space Between Slides"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:460
+msgid "Loop"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:476
+msgid "Pagination"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:488
+msgid " Pagination Type"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:493
+msgid "Bullets"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:494
+msgid "Fraction"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:495
+msgid "Progress"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:507
+msgid "Clickable"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:522
+msgid "Previous/Next Button"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:537
+msgid "Keyboard Control"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:552
+msgid "Scroll bar"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:568
+msgid "Slider"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:576
+#: modules/testimonial-slider/widgets/testimonial-slider.php:636
+msgid "Background"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:584
+msgid "Bar Color"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:781
+msgid " Company Name"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:934
+msgid "Image Size"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1025
+msgid "Arrow"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1058
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1120
+msgid " Background Color"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1134
+msgid " Border Color"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1167
+msgid "Arrow Size"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1189
+msgid "Horizontal Position"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1215
+msgid "Vertical Position"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1224
+msgid "Middle"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1241
+msgid "Horizontal Offset"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1273
+msgid "Vertical Offset"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1318
+msgid "Dots"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1330
+msgid "Dots Size"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1352
+msgid "Active Dot Color"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1366
+msgid "Inactive Dot Color"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1394
+msgid "Scrollbar"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1405
+msgid "Scrollbar Size"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1427
+msgid "Scrollbar Drag Color"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1441
+msgid "Scrollbar Color"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1454
+msgid "Progress Bar"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1465
+msgid "Progress Bar Color"
+msgstr ""
+
+#: modules/testimonial-slider/widgets/testimonial-slider.php:1492
+msgid "Progress Bar Size"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:24
+msgid "EAE - Post List"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:39
+msgid "Post Filters"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:46
+msgid ""
+"For more detail about following filters please refer <a href=\"https://codex."
+"wordpress.org/Template_Tags/get_posts\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:57
+msgid "Post Type"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:68
+msgid "Category ID"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:69
+msgid "Comma separated list of category ids"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:81
+msgid "Number of Posts"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:90
+msgid "Post Offset"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:126
+msgid "Layout Settings"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:134
+#: modules/timeline/widgets/timeline.php:457
+msgid "Show Image"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:163
+msgid "Image Alignment"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:193
+msgid "Image Indent"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:237
+msgid "Title on top"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:259
+msgid "Show Excrept"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:278
+msgid "Excrept Size"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:291
+msgid "Show Read More"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:310
+msgid "Read More Text"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:312
+#: modules/post-list/widgets/post-list.php:313
+#: modules/timeline/widgets/timeline.php:529
+msgid "Read More"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:334
+#: modules/post-list/widgets/post-list.php:344
+#: modules/post-list/widgets/post-list.php:595
+msgid "Image Border"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:400
+msgid "Title Align"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:435
+#: modules/post-list/widgets/post-list.php:489
+msgid "Excrept Typography"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:444
+msgid "Excrept Color"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:459
+msgid "Excrept Align"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:498
+#: modules/post-list/widgets/post-list.php:549
+msgid "Readmore Typography"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:507
+msgid "Readmore Color"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:522
+msgid "Readmore Align"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:562
+msgid "List Item Style"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:570
+msgid "List Item Padding"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:582
+msgid "List Item Margin"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:617
+msgid "Read More Button"
+msgstr ""
+
+#: modules/post-list/widgets/post-list.php:674
+msgid "Read More Margin"
+msgstr ""
+
+#: modules/timeline/skins/skin-base.php:191
+msgid "Responsive Style"
+msgstr ""
+
+#: modules/timeline/skins/skin-base.php:194
+msgid "For Mobile"
+msgstr ""
+
+#: modules/timeline/skins/skin-base.php:195
+msgid "For Mobile & Tablet"
+msgstr ""
+
+#: modules/timeline/skins/skin-base.php:207
+msgid "Responsive Orientation"
+msgstr ""
+
+#: modules/timeline/skins/skin-base.php:222
+msgid "Horizontal Spacing"
+msgstr ""
+
+#: modules/timeline/skins/skin-base.php:244
+msgid "Vertical Spacing"
+msgstr ""
+
+#: modules/timeline/skins/skin-base.php:265
+msgid "Card"
+msgstr ""
+
+#: modules/timeline/skins/skin-base.php:346
+msgid "Alternate Style"
+msgstr ""
+
+#: modules/timeline/skins/skin-base.php:382
+#: modules/timeline/widgets/timeline.php:284
+#: modules/dual-button/widgets/dual-button.php:308
+msgid "Spacing"
+msgstr ""
+
+#: modules/timeline/skins/skin-base.php:420
+#: modules/timeline/widgets/timeline.php:308
+msgid "Radius"
+msgstr ""
+
+#: modules/timeline/skins/skin-base.php:432
+msgid "Arrow Alignment"
+msgstr ""
+
+#: modules/timeline/skins/skin-base.php:675
+#: modules/timeline/skins/skin-base.php:898
+msgid "Focused"
+msgstr ""
+
+#: modules/timeline/skins/skin-base.php:944
+msgid "Connector"
+msgstr ""
+
+#: modules/timeline/skins/skin-base.php:981
+msgid "Thickness"
+msgstr ""
+
+#: modules/timeline/skins/skin-base.php:1018
+#: modules/timeline/widgets/timeline.php:506
+#: modules/timeline/widgets/timeline.php:515
+msgid "Call To Action"
+msgstr ""
+
+#: modules/timeline/skins/skin-base.php:1055
+#: modules/timeline/skins/skin-base.php:1105
+#: modules/timeline/skins/skin-base.php:1158
+msgid "Background Color Image"
+msgstr ""
+
+#: modules/timeline/skins/skin-base.php:1093
+msgid "Text Hover Color"
+msgstr ""
+
+#: modules/timeline/skins/skin-base.php:1139
+msgid "focused"
+msgstr ""
+
+#: modules/timeline/skins/skin-base.php:1146
+msgid "Text focused Color"
+msgstr ""
+
+#: modules/timeline/widgets/timeline.php:23
+msgid "EAE - Timeline"
+msgstr ""
+
+#: modules/timeline/widgets/timeline.php:54
+msgid "Custom"
+msgstr ""
+
+#: modules/timeline/widgets/timeline.php:55
+msgid "Post"
+msgstr ""
+
+#: modules/timeline/widgets/timeline.php:71
+msgid "Query"
+msgstr ""
+
+#: modules/timeline/widgets/timeline.php:87
+msgid "Post Element"
+msgstr ""
+
+#: modules/timeline/widgets/timeline.php:187
+msgid "Media"
+msgstr ""
+
+#: modules/timeline/widgets/timeline.php:218
+msgid "Custom Image Style"
+msgstr ""
+
+#: modules/timeline/widgets/timeline.php:341
+msgid "Items"
+msgstr ""
+
+#: modules/timeline/widgets/timeline.php:346
+msgid "February 2, 2014"
+msgstr ""
+
+#: modules/timeline/widgets/timeline.php:351
+msgid "March 11, 2014"
+msgstr ""
+
+#: modules/timeline/widgets/timeline.php:356
+msgid "November 15, 2014"
+msgstr ""
+
+#: modules/timeline/widgets/timeline.php:419
+msgid "Enable Link"
+msgstr ""
+
+#: modules/timeline/widgets/timeline.php:431
+msgid "Open in new tab"
+msgstr ""
+
+#: modules/timeline/widgets/timeline.php:448
+msgid "Featured Image"
+msgstr ""
+
+#: modules/timeline/widgets/timeline.php:470
+#: modules/timeline/widgets/timeline.php:479
+msgid "Excerpt"
+msgstr ""
+
+#: modules/timeline/widgets/timeline.php:491
+#: modules/timeline/widgets/timeline.php:527
+msgid "Excerpt Length"
+msgstr ""
+
+#: modules/timeline/widgets/timeline.php:493
+msgid "Excerpt Size"
+msgstr ""
+
+#: modules/timeline/widgets/timeline.php:494
+msgid "15"
+msgstr ""
+
+#: modules/dual-button/widgets/dual-button.php:21
+msgctxt "ईएई - डुअल बटन"
+msgid "EAE - Dual Button"
+msgstr ""
+
+#: modules/dual-button/widgets/dual-button.php:85
+#: modules/dual-button/widgets/dual-button.php:97
+#: modules/dual-button/widgets/dual-button.php:98
+#: modules/dual-button/widgets/dual-button.php:348
+msgid "Button 1"
+msgstr ""
+
+#: modules/dual-button/widgets/dual-button.php:110
+#: modules/dual-button/widgets/dual-button.php:192
+msgid "https://your-link.com"
+msgstr ""
+
+#: modules/dual-button/widgets/dual-button.php:167
+#: modules/dual-button/widgets/dual-button.php:179
+#: modules/dual-button/widgets/dual-button.php:180
+#: modules/dual-button/widgets/dual-button.php:516
+msgid "Button 2"
+msgstr ""
+
+#: modules/dual-button/widgets/dual-button.php:250
+#: modules/dual-button/widgets/dual-button.php:685
+msgctxt "सेपरेटर"
+msgid "Separator"
+msgstr ""
+
+#: modules/dual-button/widgets/dual-button.php:259
+#: modules/dual-button/widgets/dual-button.php:260
+msgid "OR"
+msgstr ""
+
+#. Description of the plugin
+msgctxt "एलिमेंट पेज बिल्डर प्लगइन में नए तत्व जोड़ें।"
+msgid "Add new elements to Elementor page builder plugin."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://webtechstreet.com/"
+msgstr ""
+
+#. Author of the plugin
+msgctxt "Web Dunia"
+msgid "WebTechStreet"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://webtchstreet.com/"
+msgstr ""

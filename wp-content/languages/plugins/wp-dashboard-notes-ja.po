@@ -1,0 +1,116 @@
+# Translation of Plugins - WP Dashboard Notes - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - WP Dashboard Notes - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-05 13:38:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - WP Dashboard Notes - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://jeroensormani.com/"
+msgstr "http://jeroensormani.com/"
+
+#. Author of the plugin/theme
+msgid "Jeroen Sormani"
+msgstr "Jeroen Sormani"
+
+#. Description of the plugin/theme
+msgid "Working in a team? Want to make notes? You can do just that with WP Dashboard Notes. Create beautiful notes with a nice user experience."
+msgstr "チームで活動していますか? メモを残したいですか? WP Dashboard Notes があれば可能です。使いやすく美しいメモを作成しましょう。"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/wp-dashboard-notes/"
+msgstr "https://ja.wordpress.org/plugins/wp-dashboard-notes/"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Dashboard Notes"
+msgstr "WP Dashboard Notes"
+
+#: includes/class-wpdn-admin.php:50
+msgid "Add note"
+msgstr "メモを追加"
+
+#: includes/templates/note.php:38
+msgid "Convert to list note"
+msgstr "リストメモに変換"
+
+#: includes/templates/note-list.php:48 includes/templates/note.php:46
+msgid "Delete note"
+msgstr "メモを削除"
+
+#: includes/templates/note-list.php:43 includes/templates/note.php:42
+msgid "Add a new note"
+msgstr "新しいメモを追加"
+
+#: includes/templates/note-list.php:39
+msgid "Convert to regular note"
+msgstr "通常のメモに変換"
+
+#: includes/templates/note-list.php:28 includes/templates/note.php:27
+msgid "Give me a color!"
+msgstr "色を追加しましょう"
+
+#: includes/templates/note-list.php:24 includes/templates/note.php:23
+msgid "Visibility:"
+msgstr "公開状態:"
+
+#: includes/templates/note-list.php:20 includes/templates/note.php:19
+msgid "Everyone"
+msgstr "全員"
+
+#: includes/templates/note-list.php:16 includes/templates/note.php:15
+msgid "Just me"
+msgstr "自分のみ"
+
+#: includes/templates/note-list.php:9
+msgid "List item"
+msgstr "リスト項目"
+
+#: includes/class-wpdn-ajax.php:157 includes/class-wpdn-ajax.php:189
+msgid "New note"
+msgstr "新しいメモ"
+
+#: includes/class-note-post-type.php:49
+msgid "No Notes found in Trash"
+msgstr "ゴミ箱にメモはありません"
+
+#: includes/class-note-post-type.php:48
+msgid "No Notes"
+msgstr "メモがありません"
+
+#: includes/class-note-post-type.php:47
+msgid "Search Notes"
+msgstr "メモを検索"
+
+#: includes/class-note-post-type.php:46
+msgid "View Note"
+msgstr "メモを見る"
+
+#: includes/class-note-post-type.php:45
+msgid "New Note"
+msgstr "新しいメモ"
+
+#: includes/class-note-post-type.php:44
+msgid "Edit Note"
+msgstr "メモを編集"
+
+#: includes/class-note-post-type.php:43
+msgid "Add New Note"
+msgstr "新しいメモを追加"
+
+#: includes/class-note-post-type.php:42
+msgid "Add New"
+msgstr "新規追加"
+
+#: includes/class-note-post-type.php:41
+msgid "Note"
+msgstr "注"
+
+#: includes/class-note-post-type.php:40
+msgid "Notes"
+msgstr "メモ"

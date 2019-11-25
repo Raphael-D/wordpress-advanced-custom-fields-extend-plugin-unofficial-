@@ -1,0 +1,120 @@
+.pp-admin-page-wrapper h1 {
+  margin-bottom: 32px;
+}
+
+.pp-admin-page-wrapper h1>span {
+  display: block;
+  line-height: 48px; 
+  padding-left: 60px;
+  background-image: url(../img/pluginicon.png);
+  background-repeat: no-repeat; 
+  background-color: #4B6F87;
+  color: #fff;
+}
+
+.rtl .pp-admin-page-wrapper h1>span {
+  padding-left: 0;
+  padding-right: 60px;
+  background-position: right top;
+}
+
+.pp-admin-page-wrapper h1 nav {
+  text-align: right;
+  line-height: 1;
+  border-right: 1px solid #4B6F87;
+}
+
+.rtl .pp-admin-page-wrapper h1 nav {
+  text-align: left;
+}
+
+.pp-admin-page-wrapper h1 nav a {
+  display: inline-block;
+  padding: 6px;
+  color: #4B6F87;
+  background-color: #fff;
+  text-decoration: none;
+  font-size: 12px;
+  height: 20px;
+  line-height: 20px;
+  border-left: 1px solid #4B6F87;
+  border-bottom: 1px solid #4B6F87;
+}
+
+.pp-admin-page-wrapper h1 nav a span.text {
+  white-space: nowrap;
+  padding-left: 4px;
+  display: none;
+}
+
+@media only screen and (min-width: 1200px) {
+  .pp-admin-page-wrapper h1 nav a span.text {
+    display: inline;
+  }
+}
+
+.pp-admin-page-wrapper h1 nav a:hover, .pp-admin-page-wrapper h1 nav a:focus {
+  background-color: #4B6F87;
+  color: #fff;
+}
+
+.pp-admin-page-hide-th th {
+  display: none;
+}
+
+.pp-admin-page-wrapper .toggle {
+  height: 40px;
+  line-height: 40px;
+}
+
+.pp-admin-page-wrapper .toggle input[type="checkbox"] {
+	display: none;
+}
+
+.pp-admin-page-wrapper .toggle input[type="checkbox"] + label {
+	cursor: pointer;
+	text-indent: -9999px;
+	width: 80px;
+	height: 40px;
+	background: grey;
+	display: block;
+	border-radius: 40px;
+	position: relative;
+  float: left;
+  margin-right: 40px;
+}
+
+.rtl .pp-admin-page-wrapper .toggle input[type="checkbox"] + label {
+  float: right;
+  margin-left: 40px;
+  margin-right: 0;
+}
+
+.pp-admin-page-wrapper .toggle input[type="checkbox"]:disabled + label {
+  background-color: #DDD;
+}
+
+.pp-admin-page-wrapper .toggle input[type="checkbox"] + label:after {
+	content: '';
+	position: absolute;
+	top: 5px;
+	width: 30px;
+	height: 30px;
+	background: #fff;
+	border-radius: 30px;
+	transition: 0.3s;
+}
+
+body:not(.rtl) .pp-admin-page-wrapper .toggle input[type="checkbox"] + label:after, .rtl .pp-admin-page-wrapper .toggle input[type="checkbox"]:checked + label:after {
+  left: 5px;
+  transform: none;
+}
+
+.pp-admin-page-wrapper .toggle input[type="checkbox"]:enabled:checked + label {
+  background: #104060;
+}
+
+body:not(.rtl) .pp-admin-page-wrapper .toggle input[type="checkbox"]:checked + label:after, .rtl .pp-admin-page-wrapper .toggle input[type="checkbox"] + label:after {
+  left: calc(100% - 5px);
+	transform: translateX(-100%);
+}
