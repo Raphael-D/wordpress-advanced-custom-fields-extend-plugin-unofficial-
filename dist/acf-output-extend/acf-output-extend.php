@@ -3,12 +3,12 @@
 Plugin Name: Advanced Custom Fields Output Extends
 Plugin URI:
 Description: Automate the Display Side Output of Advance Custom Fields.
-Version: 0.0.1
+Version: 0.0.2
 Author: Kohei Shimizu (Raphael-D)
-Author URI: https://github.com/Raphael-D/wordpress/tree/master/acf-output-extend
+Author URI: https://github.com/Raphael-D/wordpress-advanced-custom-fields-extend-plugin-unofficial-
 License: GPL2
 */
-/*  Copyright 2019 Kohei Shimizu (Raphael-D) (email : admin@codehack.dev)
+/*  Copyright 2022 Kohei Shimizu (Raphael-D) (email : admin@codehack.dev)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as
@@ -44,9 +44,24 @@ if ( ! class_exists( 'acf_exporter' ) ) {
     protected function create_custom_fields() {
       ob_start();
       global $post;
-      echo '<table class="wp-table wp-table-bordered custom-field-table custom-field-table--' . $this->get_post_slug() . '">';
+      // menu_orderで並び替え
+      // そのままでは作成順で出力されてしまうため。
       foreach (get_post_meta($post->ID) as $custom_key => $custom_fields) {
-        if(get_post_meta($post->ID, $custom_key, true) && get_field_object($custom_key)['label']) {
+        // 値が入っていないキーがあるので除外
+        $value = get_field_object($custom_key) ? get_field_object($custom_key) : null;
+        // 値が存在するキーを新しい変数配列へ格納し、menu_order基準のソートキーを作成
+        if($value) {
+          $list[$custom_key] = $value;
+          $sort_keys[$custom_key] = $value["menu_order"];
+        }
+      }
+      // ソートキーで配列を昇順にソート
+      array_multisort($sort_keys, SORT_ASC, $list);
+      echo '<table class="wp-table wp-table-bordered custom-field-table custom-field-table--' . $this->get_post_slug() . '">';
+      foreach ($list as $custom_key => $custom_fields) {
+        // 画像と繰り返しフィールド、ギャラリーは自動出力に含めない。
+        if(get_post_meta($post->ID, $custom_key, true) && get_field_object($custom_key)['label'] && get_field_object($custom_key)["type"] !== "repeater" &&  get_field_object($custom_key)["type"] !== "image" && get_field_object($custom_key)["type"] !== "gallery" ) {
+          // var_dump(get_field_object($custom_key)["menu_order"]);
           echo '<tr class="custom-field-table__row">';
           echo '<th class="custom-field-table__th">' . get_field_object($custom_key)['label'] . '</th>';
           echo '<td class="custom-field-table__td">';
